@@ -1,0 +1,88 @@
+id: milly
+games: [bk2]
+en_name: Milly
+jp_name: ミリィ
+jp_reading: Milly
+aliases_en: ["Milliarde"]
+name_tags: ["bk2:NPCName_172", "bk2:STORYOUTLINENAME_78"]
+script_lines: {bk2: 823}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk2"}
+
+sex: female
+grammatical_gender: f
+grammatical_gender_status: proposed
+pronouns_ru: она
+
+facts:
+  - claim: "Девушка 17 лет, родилась и выросла в столице Империи; училась в школе магии."
+    confidence: confirmed
+    basis: text
+    source: "BOOK_520: «[…]…»"
+  - claim: "Полное имя — Milliarde; так её называют Guillo и Corellia."
+    confidence: confirmed
+    basis: text
+    source: "EV_0622 (JP ミリィアルデ); EV_2510"
+  - claim: "Часть записей дневника ведёт Milly (табличка «Milly's Journal»)."
+    confidence: confirmed
+    basis: data
+    source: "STORYOUTLINENAME_78; STORYOUTLINE_02, STORYOUTLINE_15"
+  - claim: "Называет Guillo «dingbat puppet» (JP ポンコツ人形)."
+    confidence: confirmed
+    basis: text
+    source: "STORYOUTLINE_47"
+  - claim: "Японское написание ミリィ."
+    confidence: confirmed
+    basis: data
+    source: "NPCName_172 (TextData_jp)"
+
+personality:
+  - {trait: "вспыльчивая, язвительная с Guillo; ревнует Sagi к Lolo", confidence: confirmed, source: "STORYOUTLINE_47; EV_0618, EV_0620"}
+  - {trait: "доверчива к Sagi с первой встречи", confidence: confirmed, source: "EV_0040: «[…].»"}
+speech_style:
+  en: ["Бойкая речь, восклицания, ирония."]
+  jp: ["わたし (106), あたし (5); окончания ～のよ, ～わ; маркеры, не доказательства."]
+formality: нейтрально
+
+relationships:
+  - with: sagi
+    relation: "спутница"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP あなた (10), простые формы; EV_0618: «ちょっと、サギ！»"
+    changes: []
+    source: "EV_0040, EV_0618"
+  - with: guillo
+    relation: "постоянные перепалки"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP あなた (14), «ポンコツ人形»"
+    changes: []
+    source: "STORYOUTLINE_47, PHERKAD_236"
+  - with: lolo
+    relation: "соперничество за внимание Sagi (по реакции Milly)"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "EV_0603 «Ты про то огромное плетёное древо…» — прямое обращение к Lolo; в японском простые формы"
+    changes: []
+    source: "EV_0603, EV_0618–EV_0624"
+  - with: guardian_spirit
+    relation: "знакомится с духом через Sagi"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "EV_0045: «Nice to meet you, <n0>.» (JP よろしく、<n0>)"
+    changes: []
+    source: "EV_0045"
+
+translation_notes:
+  - "Шутки Milly в английском часто не совпадают с японскими (EV_0620: EN «[…]!», JP デレデレして) — переводим английскую шутку."
+spoilers: []
+open_questions:
+  - "Отец Milly — проверить по сюжету (спойлер)."
+sources:
+  - {type: game_data, ref: "NPCName_172, BOOK_520, SHERATAN_627, STORYOUTLINE_15, STORYOUTLINE_47, TRN_13, EV_0030–EV_0045"}
+status: draft

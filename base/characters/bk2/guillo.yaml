@@ -1,0 +1,99 @@
+id: guillo
+games: [bk2]
+en_name: Guillo
+jp_name: ギロ
+jp_reading: Giro
+aliases_en: ["dingbat puppet (Milly)", "Guillo the Masked Maneater (легенда)"]
+name_tags: ["bk2:CMP_DATA_2", "bk2:STORYOUTLINENAME_77"]
+script_lines: {bk2: 607}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk2"}
+
+sex: none
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Магическая кукла (arcane puppet), откопанная Sagi в детстве; памяти о прошлом не сохранила."
+    confidence: confirmed
+    basis: text
+    source: "BOOK_521; TRN_14: «Arcane Puppet»; EV_0081: «[…].»"
+  - claim: "Озвучена двумя актёрами — мужчиной и женщиной."
+    confidence: confirmed
+    basis: text
+    source: "CREDITS_003 «Guillo (Male)», CREDITS_004 «Guillo (Female)»"
+  - claim: "Английский текст избегает личных местоимений для Guillo: в описании, у Sagi, Milly, Georg, Doc — только имя или «that puppet»."
+    confidence: confirmed
+    basis: text
+    source: "BOOK_521; EV_2443 («that puppet»); NIHAL_223; SHERATAN_461; поиск упоминаний (work/scratch/mention_search.py)"
+  - claim: "Единственное «it» о Guillo звучит от антагониста Verus — как о вещи; так же «it» сказано о кукле той же модели."
+    confidence: confirmed
+    basis: text
+    source: "EV_1053: «[…].»; BOOK_467"
+  - claim: "Другие персонажи в японском говорят о Guillo «あいつ» (без рода) и «ポンコツ人形» (Milly)."
+    confidence: confirmed
+    basis: text
+    source: "EV_2443 (あいつのしぶとさ); STORYOUTLINE_47"
+  - claim: "Сам Guillo говорит архаично, как старик: わし (85 реплик), ～ぬ, ～おる, よかろう; изредка 俺."
+    confidence: confirmed
+    basis: jp_marker
+    source: "EV_0019, EV_0029, EV_0601, EV_0622 (base/characters/_evidence/bk2.json); маркер речи, не доказательство пола"
+  - claim: "Часть записей дневника ведёт Guillo (табличка «Guillo's Journal», 16 записей) — это текст от первого лица в прошедшем времени."
+    confidence: confirmed
+    basis: data
+    source: "STORYOUTLINENAME_77; STORYOUTLINE_01 (base/evidence/bk2_script_speakers.jsonl)"
+  - claim: "Род в русском тексте проявится примерно в 27 собственных репликах (первое лицо в прошедшем времени, краткие прилагательные), в 16 записях дневника и как минимум в 8 репликах других («Guillo is right» → прав/права/право)."
+    confidence: inferred
+    basis: text
+    source: "грубый подсчёт по английским шаблонам (work/scratch/guillo_gender_load.py); реальное число выше"
+  - claim: "Японское написание ギロ."
+    confidence: confirmed
+    basis: data
+    source: "NPCName_69 (TextData_jp)"
+
+personality:
+  - {trait: "ворчливый, язвительный, высокомерный; заботится о Sagi", confidence: confirmed, source: "EV_0004 (сарказм о канализации), STORYOUTLINE_47, EV_0615"}
+speech_style:
+  en: ["Старомодная, высокопарная лексика: «wench», «What the devil?!», «Shall we head back?», «the prissy fellow» (о Verus)."]
+  jp: ["わし, ～ておる, ～ぬか, よかろう; к Sagi и Milly — おぬし."]
+formality: книжно
+
+relationships:
+  - with: sagi
+    relation: "напарник в Dark Service; выдаёт себя за его парамашину"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP おぬし, простые архаичные формы (帰らぬか)"
+    changes: []
+    source: "BOOK_521, EV_0601, EV_0024"
+  - with: milly
+    relation: "перепалки; зовёт её «wench» и полным именем Milliarde"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP この小娘 (EV_0026), ミリィアルデ (EV_0622)"
+    changes: []
+    source: "EV_0026, EV_0622"
+  - with: lolo
+    relation: "грубо одёргивает, когда Lolo обнимает Sagi"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "EV_0615: «Release him, wench!» (JP 小娘、何をする！)"
+    changes: []
+    source: "EV_0615"
+
+translation_notes:
+  - "D-004: предварительно мужской род. Аргументы за: архаичная «стариковская» речь в японском (маркер), мужской голос среди двух, отсутствие возражений в тексте. Против или осторожно: пол у куклы отсутствует, английский сознательно избегает местоимений, второй голос женский."
+  - "Существительное «кукла» женского рода — согласуем с референтом, а не со словом: «[имя] сказал», но «эта кукла» в устах Verus допустима как обезличивание."
+  - "Речь — архаичная, но понятная: «негодница», «изволь», «полно тебе», без церковнославянизмов."
+spoilers:
+  - {claim: "Роль Guillo в прошлом (BOOK_505)", confidence: confirmed, source: "BOOK_505", revealed_at: "поздний этап"}
+open_questions:
+  - "VEGA_263 с табличкой Guillo по смыслу — реплика Sagi («I'm me. You're you, Guillo.», JP 僕は僕、ギロはギロ). Проверить в игре: ошибка таблички в данных или особая сцена."
+  - "Подтвердить D-004 после пилота: как звучат первые записи «Guillo's Journal» в мужском роде."
+sources:
+  - {type: game_data, ref: "CMP_DATA_2, NPCName_69, BOOK_521, BOOK_467, BOOK_505, TRN_14, CREDITS_003, CREDITS_004, EV_1053, STORYOUTLINE_01"}
+status: draft

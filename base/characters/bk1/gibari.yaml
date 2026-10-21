@@ -1,0 +1,87 @@
+id: gibari
+games: [bk1, bk2]
+en_name: Gibari
+jp_name: ギバリ
+jp_reading: Gibari
+aliases_en: []
+name_tags: ["bk1:PCN_3", "bk2:NPCName_68"]
+script_lines: {bk1: 421, bk2: 113}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk1"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Мужчина."
+    confidence: confirmed
+    basis: text
+    source: "SCR_NAS06_19_21677: «…[…].»; упоминания с he — 17 (BK1), 24 (BK2)"
+  - claim: "Другие локализации дают ему мужской род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE m=8.0, f=0 (base/characters/_evidence/bk1.json)"
+  - claim: "Отец Gibari учил короля Ladekahn фехтованию."
+    confidence: confirmed
+    basis: text
+    source: "SCR_NAS02_36_23080"
+  - claim: "В BK2 — тот же персонаж в юности: оставил службу рыцаря и вернулся в Nashira."
+    confidence: confirmed
+    basis: text
+    source: "NASHIRA_089: «Gibari said he gave up on being a knight.»; NASHIRA_080"
+  - claim: "Именно Gibari вслух удивляется, что Mizuti — девочка (точка раскрытия, D-005)."
+    confidence: confirmed
+    basis: text
+    source: "SCR_GEM02_8_4461"
+  - claim: "Японское написание ギバリ."
+    confidence: confirmed
+    basis: data
+    source: "PCN_3 (TextData_jp)"
+
+personality:
+  - {trait: "грубоватый, прямолинейный (по словам другого персонажа)", confidence: confirmed, source: "SCR_NAS06_19_21677"}
+speech_style:
+  en: []
+  jp: ["俺 (47 реплик в BK1, 15 в BK2), почти без вежливых форм; к Kalas и Xelha — おまえ; маркеры, не доказательства."]
+formality: просторечно
+
+relationships:
+  - with: kalas
+    relation: "спутник"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 31 / vous 9; JP おまえ 13"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: xelha
+    relation: "спутница"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 14 / vous 15 — смешанно; JP おまえ 6, без вежливых форм"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: lyude
+    relation: "спутник"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 10 / vous 3; JP おまえ 4"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: ladekahn
+    relation: "король Диадемы, давний знакомый (отец Гибари учил Ладекана фехтованию)"
+    register_to: vy
+    register_status: approved
+    confidence: owner_decision
+    evidence: "FR vous (Sire, vous); решение владельца D-034. Титул: «государь» (My Lord), «Ваше Величество» (Your Majesty)"
+    changes: []
+translation_notes: []
+spoilers: []
+open_questions: ["Насколько речь юного Gibari в BK2 отличается от речи в BK1."]
+sources:
+  - {type: game_data, ref: "PCN_3, NPCName_68, SCR_NAS06_19_21677, SCR_NAS02_36_23080, NASHIRA_080, NASHIRA_089"}
+status: draft

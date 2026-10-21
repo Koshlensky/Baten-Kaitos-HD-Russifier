@@ -1,0 +1,370 @@
+{
+ "bk1": {
+  "atlases": [
+   {
+    "kind": "title",
+    "bundle": "d4ec5297f32210fceb8738790f280b27.bundle",
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\d4ec5297f32210fceb8738790f280b27.bundle",
+    "original_sha256": "d69f02791f6a0c265a82a59a56243a24f789db31e9fc718ee083a02bdd34ae91",
+    "size": 361784,
+    "crc": 1319419061
+   },
+   {
+    "kind": "battle",
+    "bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\b29e1677d0e548f3b74e980a7fb8b638.bundle",
+    "original_sha256": "dbc7d9072dc22c70ca62acc9502154e85cbda3757e31049b1de524b2b270496c",
+    "size": 48360421,
+    "crc": 0
+   }
+  ],
+  "bundles": [
+   {
+    "bundle": "3d511b02fdc6c3174187dbb49403f48e.bundle",
+    "assets": [
+     "Batenkaitos1/BattleMaps/BATTLE.unity"
+    ],
+    "hits": 3,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\3d511b02fdc6c3174187dbb49403f48e.bundle",
+    "original_sha256": "0ec1fdf8f1b126a4b702c8a514acb8e5ff119afed2808a46d1c197ac383d5a74",
+    "size": 151004
+   },
+   {
+    "bundle": "f6d77a8c6ebb55f194c9024be4920b0a.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/CAMP.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\f6d77a8c6ebb55f194c9024be4920b0a.bundle",
+    "original_sha256": "1fa9bea2663495168ed10cf3878df823c9064b76709fb165e2d264355b1ef63e",
+    "size": 19856107
+   },
+   {
+    "bundle": "f12348531ba46a1eb50476d87216511a.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/CLEARSAVE.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\f12348531ba46a1eb50476d87216511a.bundle",
+    "original_sha256": "fe0fc99864ab62fc26bd693f0593d8f11baa167cc4cde3da4434ea7f03d2c53b",
+    "size": 19211497
+   },
+   {
+    "bundle": "a53f07f10bc392cc565c429fc28028d1.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/LEVELUP.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\a53f07f10bc392cc565c429fc28028d1.bundle",
+    "original_sha256": "e7814a86cea6cdf1dac145262fee234e0afc06ca9123518cc1704976c37c70d5",
+    "size": 19218895
+   },
+   {
+    "bundle": "a5b49932473da5f5c53f951738d80f7a.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/LOAD.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\a5b49932473da5f5c53f951738d80f7a.bundle",
+    "original_sha256": "9bc46cf756945994996b878ee4a50520809f13c0d8c29492e3dd3bc1c6ad9b6b",
+    "size": 19222532
+   },
+   {
+    "bundle": "128a155282fbacf03ce9cb29cf60fef3.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/NEWGAME.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\128a155282fbacf03ce9cb29cf60fef3.bundle",
+    "original_sha256": "177489cf380d0693496015929f6d2ebbe824d4be39f11db9a27c93fc3917d3af",
+    "size": 19228479
+   },
+   {
+    "bundle": "30da86012ddac23d449d4d42608cc6ae.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/SAVE.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\30da86012ddac23d449d4d42608cc6ae.bundle",
+    "original_sha256": "4e9248b9b27f27069ba66a398bbcf7bcb7d60a4a2567c668a0cfa04503b11b22",
+    "size": 19222456
+   },
+   {
+    "bundle": "f414097f4cf5212b4a7a5ede78fdbb71.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/SHOP.unity"
+    ],
+    "hits": 3,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\f414097f4cf5212b4a7a5ede78fdbb71.bundle",
+    "original_sha256": "7092ed43b9686b2aac08e0396a37364006f9c99394795c1b9b6e9518772195e9",
+    "size": 19246769
+   },
+   {
+    "bundle": "022e06027e57f0b07a9199f30e8ffa3c.bundle",
+    "assets": [
+     "Batenkaitos1/Scenes/GameModes/TITLEOPTION.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\022e06027e57f0b07a9199f30e8ffa3c.bundle",
+    "original_sha256": "b2ca4b30d193372020ed285d54753611da2d52e2ffbca3a2d274aa9fb5ec6bc8",
+    "size": 19399002
+   },
+   {
+    "bundle": "76d79f9888571d69a99338929784e24f.bundle",
+    "assets": [
+     "Batenkaitos1/UI/MenuInfo/MenuInfoBar Variant.prefab"
+    ],
+    "hits": 1,
+    "crc": 1209218918,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\76d79f9888571d69a99338929784e24f.bundle",
+    "original_sha256": "ed67e0a1ca67eed67f3f684ded71ff3ff7cab65e0dcba9f59b57700c035d5ce4",
+    "size": 19356795
+   },
+   {
+    "bundle": "b46be53f1d5d997f90b676ec6574065e.bundle",
+    "assets": [
+     "Batenkaitos1/UI/SaveData/ClearLoadView.prefab"
+    ],
+    "hits": 1,
+    "crc": 2396419964,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\b46be53f1d5d997f90b676ec6574065e.bundle",
+    "original_sha256": "2ea95bc93d0fd0ccfe3b4db797a2611bb9566bad666ff1fc3dc38dd1525f8d56",
+    "size": 19337835
+   },
+   {
+    "bundle": "e060f7295de207ca3dfc1ff4745194ee.bundle",
+    "assets": [
+     "Batenkaitos1/UI/SaveData/ClearSaveView.prefab"
+    ],
+    "hits": 1,
+    "crc": 3196598765,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\e060f7295de207ca3dfc1ff4745194ee.bundle",
+    "original_sha256": "b181f0a0cd3d48f2872ee5741668c2fca7b06f306b0d978d46f11b5661099f5e",
+    "size": 19272643
+   },
+   {
+    "bundle": "496667bd09c8e0a460726977179abd00.bundle",
+    "assets": [
+     "Batenkaitos1/UI/SaveData/GameModeSaveDataView.prefab"
+    ],
+    "hits": 1,
+    "crc": 1759751287,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\496667bd09c8e0a460726977179abd00.bundle",
+    "original_sha256": "5f2f5a96ae6463031659f910435468a1848cae071db701414dcebfe43f3658a5",
+    "size": 19309051
+   },
+   {
+    "bundle": "25882e364812a3056496de4df60495f0.bundle",
+    "assets": [
+     "Batenkaitos1/UI/Shop/Layer_BuySellMenu.prefab"
+    ],
+    "hits": 2,
+    "crc": 154546033,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\25882e364812a3056496de4df60495f0.bundle",
+    "original_sha256": "93544b5a1a37f5cd328c9fcf99c5c8e6e247e4cf94afe68071de458903d38c16",
+    "size": 95960
+   },
+   {
+    "bundle": "9e8162e293b41cf0cbf177b39cff3107.bundle",
+    "assets": [
+     "Common/UI/MenuInfo/MenuInfoBar.prefab"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\9e8162e293b41cf0cbf177b39cff3107.bundle",
+    "original_sha256": "134d9036f28fee8c7814c77bb1c819bd156a206f5c2d1ba649b933cc8515500a",
+    "size": 19356717
+   }
+  ],
+  "catalog": {
+   "relative": "Batenkaitos1\\Batenkaitos_Data\\StreamingAssets\\aa\\catalog.json",
+   "original_sha256": "bebcdc27025022d1812099c796d24db2ea307db800a78a61f3bb5721bf27c118"
+  }
+ },
+ "bk2": {
+  "atlases": [
+   {
+    "kind": "title2",
+    "bundle": "4f9acb8c0ee559b2d88805afa6e9220f.bundle",
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\4f9acb8c0ee559b2d88805afa6e9220f.bundle",
+    "original_sha256": "173b25da5030944ced6a167433dcecfc25ba37485d955f8b4bcd1b19f328c24d",
+    "size": 543651,
+    "crc": 722832355
+   },
+   {
+    "kind": "battle2",
+    "bundle": "ed7a9de9c6aedfabe21735a2d7f1ab18.bundle",
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ed7a9de9c6aedfabe21735a2d7f1ab18.bundle",
+    "original_sha256": "d3d8a49dcc0a39310f8b2e3e8c7407e068ae1ee9731a26d9aa32167688f1dbc1",
+    "size": 20153109,
+    "crc": 0
+   },
+   {
+    "kind": "action",
+    "bundle": "24fd687eb6941f9b57f57d23b27d41bb.bundle",
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\24fd687eb6941f9b57f57d23b27d41bb.bundle",
+    "original_sha256": "28e546ab68fda846a83814a354c665f6495bdeac7c48f460756f412d00525378",
+    "size": 10012,
+    "crc": 782825679
+   }
+  ],
+  "bundles": [
+   {
+    "bundle": "0f30ae4817400a1be8ca379afe82a903.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/CAMP.unity"
+    ],
+    "hits": 10,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\0f30ae4817400a1be8ca379afe82a903.bundle",
+    "original_sha256": "8fc99b7061826dce61ad3172eec50b75719d3a0d7009dce81b8d5bf8bbf81cea",
+    "size": 57838026
+   },
+   {
+    "bundle": "5c4fc135c121e67ceaf105e3331bd792.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/CLEARSAVE.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\5c4fc135c121e67ceaf105e3331bd792.bundle",
+    "original_sha256": "6deb96bf37e3650ec99fb66d1ce1c8db35c8b940f2eb4bd05077b7ac1d956b25",
+    "size": 76392
+   },
+   {
+    "bundle": "2a6bfe308db5815071e11f2d84e9af4c.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/LOAD.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\2a6bfe308db5815071e11f2d84e9af4c.bundle",
+    "original_sha256": "776444c6b1de3fa36840c2df45ef3dfab60e57fbad8dd07da2d2880dcd1f5fb8",
+    "size": 81220
+   },
+   {
+    "bundle": "d201ce80cba4c29a5a6e2b520bd67524.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/NEWGAME.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\d201ce80cba4c29a5a6e2b520bd67524.bundle",
+    "original_sha256": "07fd37521139a45a90f3c97ef4388c0b5ab22b0b652ad0fbc8f74a0c15bd9865",
+    "size": 43673860
+   },
+   {
+    "bundle": "6955e2d631241b0ff6a8f59c87ad5ac6.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/SAVE.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\6955e2d631241b0ff6a8f59c87ad5ac6.bundle",
+    "original_sha256": "c50968dee61def4e5b4723fce06de0ca50bc77202089c3a09574058bd71b3fd2",
+    "size": 81221
+   },
+   {
+    "bundle": "6981d495daaf1d1b58eab83e64e0736a.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/SHOP.unity"
+    ],
+    "hits": 6,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\6981d495daaf1d1b58eab83e64e0736a.bundle",
+    "original_sha256": "c83e3db83569f1dc717fb0d35bcbf1d8b6513f0bfb410303a9dc71d7c2ddad3c",
+    "size": 526212
+   },
+   {
+    "bundle": "9cd5c32188bdacee4dbda109f145d5d8.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/TITLEOPTION.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\9cd5c32188bdacee4dbda109f145d5d8.bundle",
+    "original_sha256": "66ae40b44ac26c4fa0714a569f4c381dbceb58aa18b3b5e47a891e83324a165a",
+    "size": 43655123
+   },
+   {
+    "bundle": "e38705639ab3c7f002e51fd244e8095b.bundle",
+    "assets": [
+     "Batenkaitos2/Scenes/GameModes/TRADE.unity"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\e38705639ab3c7f002e51fd244e8095b.bundle",
+    "original_sha256": "e6b65f7c018faa15b02158f7fcbf4dbb8b35f9e8ccfba11579c549cd8e65d2e1",
+    "size": 517868
+   },
+   {
+    "bundle": "794ef98ea88ff82b14d0d994fc725fed.bundle",
+    "assets": [
+     "Batenkaitos2/UI/MenuInfo/MenuInfoBar.prefab"
+    ],
+    "hits": 1,
+    "crc": 3913094225,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\794ef98ea88ff82b14d0d994fc725fed.bundle",
+    "original_sha256": "af523905e5f6d11df8875632d616201e87c3976169cd67984b73f3ce2d9cee40",
+    "size": 57023
+   },
+   {
+    "bundle": "640ee88d7e840d98e9babd67659d6492.bundle",
+    "assets": [
+     "Batenkaitos2/UI/SaveData/BK2ClearLoadView.prefab"
+    ],
+    "hits": 1,
+    "crc": 2817710264,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\640ee88d7e840d98e9babd67659d6492.bundle",
+    "original_sha256": "e1e24024762e4ded6f04e2901a90f5b2325526d07d51901c75507bd96d8da65e",
+    "size": 86764
+   },
+   {
+    "bundle": "9071e517f6d31c261085a8558640e90f.bundle",
+    "assets": [
+     "Batenkaitos2/UI/SaveData/BK2ClearSaveView.prefab"
+    ],
+    "hits": 1,
+    "crc": 930627814,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\9071e517f6d31c261085a8558640e90f.bundle",
+    "original_sha256": "1aa49dd1ce384863dd0597903c1e420bd80db5fc1109ea23facc9e2e10f1d7f6",
+    "size": 87712
+   },
+   {
+    "bundle": "a30cbc80935a2e16235f43f965adc496.bundle",
+    "assets": [
+     "Batenkaitos2/UI/SaveData/BK2GameModeSaveDataView.prefab"
+    ],
+    "hits": 1,
+    "crc": 717284360,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\a30cbc80935a2e16235f43f965adc496.bundle",
+    "original_sha256": "2204a456d7fb7c3f79f249779fc0b59a2abd8763b82a02d2787bd7e807a7d00a",
+    "size": 94085
+   },
+   {
+    "bundle": "9e8162e293b41cf0cbf177b39cff3107.bundle",
+    "assets": [
+     "Common/UI/MenuInfo/MenuInfoBar.prefab"
+    ],
+    "hits": 1,
+    "crc": 0,
+    "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\StandaloneWindows64\\9e8162e293b41cf0cbf177b39cff3107.bundle",
+    "original_sha256": "6a559049676df6035783d83f344687e878af33b58f55dfa9462dc7636acb6bbf",
+    "size": 56193
+   }
+  ],
+  "catalog": {
+   "relative": "Batenkaitos2\\Batenkaitos_Data\\StreamingAssets\\aa\\catalog.json",
+   "original_sha256": "3a5d1c2ea43875d31d3ac6a5f49177f44e8867097d46e5f5cc373b84d6dba117"
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "bk_loc_v2/matrix/record",
+  "title": "Запись матрицы переводов Baten Kaitos HD v2.0",
+  "description": "Одна запись на ID строки игры. Файлы: base/matrix/<game>/<шард>.jsonl. Старый перевод v1.0 в матрицу не включается.",
+  "type": "object",
+  "required": ["key", "game", "source_file", "text_id", "id_index", "category", "form", "flags", "scene_id", "batch_id",
+               "order", "global_order", "prev_key", "next_key", "en", "en_sha1", "dedup_group", "dedup_size", "tags",
+               "variant", "speaker", "speaker_gender", "addressee", "addressee_gender", "register", "context", "ru",
+               "status", "qa_flags", "translator_note", "editor_note", "history"],
+  "additionalProperties": false,
+  "properties": {
+    "key": {"type": "string", "pattern": "^(bk1|bk2):.+$", "description": "Стабильный ключ: игра + ID строки."},
+    "game": {"enum": ["bk1", "bk2"]},
+    "source_file": {"type": "string", "description": "Бандл и ассет английского оригинала."},
+    "text_id": {"type": "string", "description": "ID из TextIDList."},
+    "id_index": {"type": "integer", "description": "Индекс в TextIDList на момент извлечения (справочно, не ключ)."},
+    "category": {"type": "string", "description": "Категория по tools/bkloc/categories.py."},
+    "form": {"enum": ["line", "choice", "system", "label", "internal", "same_as_jp", "empty", "fixed"]},
+    "flags": {"type": "array", "items": {"enum": ["voiced", "mentions_spirit", "internal_suspect"]}},
+    "scene_id": {"type": "string"},
+    "batch_id": {"type": ["string", "null"], "description": "Рабочий пакет для перевода."},
+    "order": {"type": "integer", "description": "Порядок внутри сцены."},
+    "global_order": {"type": "integer", "description": "Порядок в игре по скелету сцен (приблизительный между сценами)."},
+    "prev_key": {"type": ["string", "null"]},
+    "next_key": {"type": ["string", "null"]},
+    "en": {"type": "string", "description": "Английский оригинал, байт-в-байт из TextData_en."},
+    "en_sha1": {"type": "string", "pattern": "^[0-9a-f]{40}$"},
+    "dedup_group": {"type": "string", "description": "Запись TextData_en, общая для нескольких ID."},
+    "dedup_size": {"type": "integer", "minimum": 1},
+    "tags": {"type": "array", "items": {"type": "string"}, "description": "Теги и подстановки английской строки по порядку."},
+    "variant": {
+      "type": ["object", "null"],
+      "properties": {
+        "kind": {"enum": ["spirit_gender"]},
+        "gender": {"enum": ["m", "f"]},
+        "pair": {"type": "string"}
+      }
+    },
+    "speaker": {
+      "type": "object",
+      "required": ["id", "status"],
+      "properties": {
+        "id": {"type": "string", "description": "ID персонажа из base/characters, ID таблички имени (NPC_185…), если карточки нет, или unknown; GUARDIAN_SPIRIT — дух-хранитель."},
+        "status": {"enum": ["confirmed_data", "confirmed_text", "inferred", "unknown", "needs_context"],
+                   "description": "confirmed_data — табличка имени в скрипте игры; confirmed_text — следует из текста; needs_context — у строки несколько говорящих или нужна проверка."},
+        "source": {"enum": ["auto", "annotator"], "description": "annotator — разметка сохраняется при пересборке матрицы."},
+        "name_tag": {"type": "object", "description": "Табличка имени из скрипта: {id, en}."},
+        "script": {"type": "object", "description": "Сводка tools/re/speakers.py: status (name_tag, name_tag_conflict, no_tag, dynamic, choice, label, not_found), names, no_tag_calls, dynamic_calls."},
+        "candidates": {"type": "array", "items": {"type": "string"}},
+        "gender_evidence": {"type": "object"},
+        "style": {"type": "array", "items": {"type": "string"}},
+        "basis": {"type": "string"}
+      }
+    },
+    "speaker_gender": {"enum": ["m", "f", "n", "mixed", "unknown"], "description": "n — без рода (например, Guillo по решению), mixed — хор."},
+    "addressee": {
+      "type": "object",
+      "required": ["id", "status"],
+      "properties": {
+        "id": {"type": "string"},
+        "status": {"enum": ["confirmed_data", "confirmed_text", "inferred", "unknown", "needs_context"]},
+        "candidates": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "addressee_gender": {"enum": ["m", "f", "n", "mixed", "group", "unknown"]},
+    "register": {"enum": ["ty", "vy", "mixed", "na", "unknown"], "description": "Обращение к адресату: ты, вы, смешанное, не применимо."},
+    "context": {"type": "string"},
+    "context_annotator": {"type": "string", "description": "Контекст от разметчика; сохраняется при пересборке и добавляется к автоматическому контексту."},
+    "ru": {"type": "string"},
+    "status": {"enum": ["untranslated", "draft", "translated", "auto_checked", "qa_passed", "self_reviewed",
+                         "sampled_review", "edited", "approved", "needs_context", "blocked_decision", "needs_fit"],
+               "description": "D-032: translated — черновик переводчика; qa_passed — черновик прошёл автоматический QA; sampled_review — строка не редактировалась, но её пакет прошёл выборочную редактуру; edited — строка прошла литературную редактуру."},
+    "qa_flags": {"type": "array", "items": {"type": "string"}},
+    "translator_note": {"type": "string"},
+    "editor_note": {"type": "string"},
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ts", "actor", "action"],
+        "properties": {
+          "ts": {"type": "string"},
+          "actor": {"type": "string", "description": "translator/editor/annotator/human + модель"},
+          "action": {"type": "string"},
+          "run": {"type": "string", "description": "Ссылка на журнал запуска в runs/."},
+          "ru_before": {"type": "string"}
+        }
+      }
+    }
+  }
+}

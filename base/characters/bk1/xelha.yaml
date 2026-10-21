@@ -1,0 +1,95 @@
+id: xelha
+games: [bk1]
+en_name: Xelha
+jp_name: シェラ
+jp_reading: Shera
+aliases_en: ["Queen Xelha"]
+name_tags: ["bk1:PCN_2"]
+script_lines: {bk1: 797}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk1"}
+
+sex: female
+grammatical_gender: f
+grammatical_gender_status: proposed
+pronouns_ru: она
+
+facts:
+  - claim: "Женщина."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_26: «[…].»; упоминания с she — 19 (base/characters/_evidence/bk1.json)"
+  - claim: "Другие локализации дают ей женский род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE f=21.5, m=1.0 по 797 репликам"
+  - claim: "Последняя из ледяных королев, королева Wazn."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EVE15_1_1449: «[…]...»; SaveStoryLine_26"
+  - claim: "Девушка с табличкой «Girl» в Cebalrai, которая идёт смотреть руины в лесу, — Xelha до знакомства."
+    confidence: unknown
+    basis: context
+    source: "SCR_CEB01_2_3747–5504 (табличка «Girl»). Против: SCR_EVE15_1_1573 называет первую встречу «в этом лесу»; в титрах английской версии GameCube есть отдельная роль «Girl» (Alexis Andrus), Xelha озвучивает Bianca Allen (MobyGames, титры GameCube)"
+  - claim: "Английское произношение имени — «Shella»."
+    confidence: confirmed
+    basis: text
+    source: "IGN, «Baten Kaitos: The Characters», 21.10.2004, материал подготовлен с Namco: «Xelha (pronounced Shella)»"
+  - claim: "Японское написание シェラ."
+    confidence: confirmed
+    basis: data
+    source: "PCN_2 (TextData_jp)"
+
+personality:
+  - {trait: "мягкая, задумчивая; говорит образами", confidence: confirmed, source: "SCR_EVE15_1_1697 (о названии Moonguile Forest)"}
+speech_style:
+  en: ["Спокойная, лиричная речь; многоточия; длинные рассуждения (SCR_EVE15_1_1697)."]
+  jp: ["わたし (88 реплик), мягкие окончания ～のよ, ～かしら, ～ね — маркер, не доказательство."]
+formality: нейтрально
+
+relationships:
+  - with: kalas
+    relation: "спутник; близкие отношения"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 103 / vous 18; JP あなた (в её речи не вежливое, а нейтральное), вежливость 17 из 364"
+    changes:
+      - {at: "SCR_CEB01_2", to: vy, note: "решение D-023: девушка («Girl», NPC_193) при первой встрече с Kalas — «вы». Если это Xelha, точку перехода на «ты» найти по сценам Moonguile Forest"}
+    source: "SCR_EVE15_1_1573 (FR: quand je t'ai vu)"
+  - with: gibari
+    relation: "спутник"
+    register_to: vy
+    register_status: approved
+    confidence: owner_decision
+    evidence: "FR tu 3 / vous 8; JP あなた 2, вежливость 8 из 65 — данные противоречивы; решение владельца D-034: «вы», пока контекст не подтверждает переход на «ты»"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: lyude
+    relation: "спутник"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 11 / vous 4; JP あなた"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: mizuti
+    relation: "спутница; шутливо зовёт «Mizuti-sama» (JP ミズチさま)"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 3 / vous 0; JP ミズチさま — шутливое величание, не вежливость"
+    changes: []
+    source: "SCR_BAL10_13_8332"
+
+translation_notes:
+  - "Лиричные монологи (SCR_EVE15_1_1697) — сохранить ритм и образность, без канцелярита."
+  - "Игра слов Moonguile / Moonglade в SCR_EVE15_1_1697 строится на английских названиях; русская пара — по решению глоссария (base/glossary/glossary.yaml, moonguile-forest)."
+spoilers:
+  - {claim: "Королева Wazn", confidence: confirmed, source: "SaveStoryLine_26; SCR_EVE15_1_1449", revealed_at: "SCR_EVE15_1"}
+open_questions:
+  - "Подтвердить, что «Girl» в SCR_CEB01_2 — Xelha (табличка «Girl» скрывает имя)."
+  - "Обращение к Gibari (ты/вы) — данные противоречивы."
+sources:
+  - {type: game_data, ref: "PCN_2, SaveStoryLine_24, SaveStoryLine_26, MGI_0951, SCR_CEB01_2, SCR_EVE15_1"}
+status: draft

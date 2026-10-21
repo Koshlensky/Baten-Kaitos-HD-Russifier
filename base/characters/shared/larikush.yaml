@@ -1,0 +1,85 @@
+id: larikush
+games: [bk1, bk2]
+en_name: Larikush
+jp_name: ラリクシ
+jp_reading: Rarikushi
+aliases_en: ["Dr. Larikush", "Doctor Larikush"]
+name_tags: ["bk1:SCR_CEB04_12_4150", "bk2:NPCName_180"]
+script_lines: {bk1: 67, bk2: 1}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#names-supporting"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Мужчина."
+    confidence: confirmed
+    basis: text
+    source: "SCR_CEB01_6_10781: «[…].»; упоминания с he — 8"
+  - claim: "Другие локализации дают ему мужской род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE m=3.5, f=0 (base/characters/_evidence/bk1.json)"
+  - claim: "Деревенский врач в Cebalrai."
+    confidence: confirmed
+    basis: text
+    source: "MGI_1193: «Larikush, a village doctor»; SCR_CEB01_6_10858: «Dr. Larikush wanted to see us.»"
+  - claim: "В прошлом — учёный Империи, работал с Georg над созданием жизни из магнуса."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EVE08_2_1652, SCR_EVE08_2_2936; SaveStoryLine_22: «[…]»"
+  - claim: "Табличка имени в BK1 хранится как строка SCR_CEB04_12_4150, а не как NPC_*."
+    confidence: confirmed
+    basis: data
+    source: "base/evidence/bk1_script_speakers.jsonl"
+  - claim: "Японское написание ラリクシ; Kalas зовёт его ラリクシ先生 («доктор»)."
+    confidence: confirmed
+    basis: data
+    source: "SCR_CEB04_12_4150 (TextData_jp); SCR_CEB01_6_10707_0"
+
+personality:
+  - {trait: "рассудительный, удерживает Georg от вспышек", confidence: confirmed, source: "SCR_EVE08_2_1652, SCR_EVE08_2_3242"}
+  - {trait: "чувствует ответственность за «детей»", confidence: confirmed, source: "SCR_EVE08_2_1652: «[…].»"}
+speech_style:
+  en: ["Ровная, взвешенная речь; «we» вместо «I» в научных репликах."]
+  jp: ["我々, 私; к Kalas и Georg — きみ (29 и 10 реплик); маркеры, не доказательства."]
+formality: нейтрально
+
+relationships:
+  - with: georg
+    relation: "коллега и друг"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR «Qu'est-ce que tu veux faire ?» (SCR_EVE08_2_1823); JP おまえ, きみ"
+    changes: []
+    source: "SCR_EVE08_2"
+  - with: kalas
+    relation: "врач и наставник; по сюжету — один из создателей"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 34 / vous 4; JP きみ 29"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: giacomo
+    relation: "знает его с детства как сына Georg (вывод); теперь подчинён ему"
+    register_to: ty
+    register_status: approved
+    confidence: confirmed
+    evidence: "JP きみ (SCR_EVE08_2_3474), простые формы (SCR_EVE08_2_2936 «何度も言っているだろう»); FR непоследовательно: vous (2936) и te (3474)"
+    changes: []
+    source: "SCR_EVE08_2_2936, SCR_EVE08_2_3474"
+
+translation_notes:
+  - "SCR_EVE08_2_2936: французский переводчик дал «vous», японский — простые формы; по отношениям (D-006) — «ты»."
+spoilers:
+  - {claim: "Бывший имперский учёный, создатель Kalas", confidence: confirmed, source: "SCR_EVE08_2", revealed_at: "флешбэк SCR_EVE08_2"}
+open_questions:
+  - "Подтвердить, что Larikush знал Giacomo до событий флешбэка."
+sources:
+  - {type: game_data, ref: "SCR_CEB04_12_4150, NPCName_180, MGI_1193, SaveStoryLine_22, SCR_EVE08_2"}
+status: draft

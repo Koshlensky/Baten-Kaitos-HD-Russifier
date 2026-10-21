@@ -1,0 +1,5942 @@
+{
+ "note": "python -m tools.bkloc.tiers --write; уровни по непереведённым строкам",
+ "tiers": {
+  "bk1:B0012": {
+   "tier": "story",
+   "lines": 71,
+   "words": 617,
+   "category": "dialogue",
+   "cast_share": 0.44,
+   "voiced_share": 0.45,
+   "kind": "event"
+  },
+  "bk1:B0013": {
+   "tier": "story",
+   "lines": 13,
+   "words": 211,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.77,
+   "kind": "event"
+  },
+  "bk1:B0014": {
+   "tier": "mixed",
+   "lines": 40,
+   "words": 1005,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.12,
+   "kind": "event"
+  },
+  "bk1:B0015": {
+   "tier": "story",
+   "lines": 44,
+   "words": 952,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.59,
+   "kind": "event"
+  },
+  "bk1:B0016": {
+   "tier": "npc",
+   "lines": 8,
+   "words": 145,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0017": {
+   "tier": "story",
+   "lines": 5,
+   "words": 126,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0018": {
+   "tier": "story",
+   "lines": 7,
+   "words": 39,
+   "category": "dialogue",
+   "cast_share": 0.86,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0021": {
+   "tier": "story",
+   "lines": 40,
+   "words": 536,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.57,
+   "kind": "event"
+  },
+  "bk1:B0022": {
+   "tier": "story",
+   "lines": 33,
+   "words": 275,
+   "category": "dialogue",
+   "cast_share": 0.7,
+   "voiced_share": 0.82,
+   "kind": "event"
+  },
+  "bk1:B0023": {
+   "tier": "story",
+   "lines": 29,
+   "words": 243,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.62,
+   "kind": "event"
+  },
+  "bk1:B0024": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 701,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0025": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 1180,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0026": {
+   "tier": "npc",
+   "lines": 18,
+   "words": 240,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0027": {
+   "tier": "story",
+   "lines": 12,
+   "words": 146,
+   "category": "dialogue",
+   "cast_share": 0.83,
+   "voiced_share": 0.83,
+   "kind": "event"
+  },
+  "bk1:B0028": {
+   "tier": "story",
+   "lines": 69,
+   "words": 861,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.86,
+   "kind": "event"
+  },
+  "bk1:B0029": {
+   "tier": "story",
+   "lines": 52,
+   "words": 462,
+   "category": "dialogue",
+   "cast_share": 0.65,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0030": {
+   "tier": "story",
+   "lines": 24,
+   "words": 209,
+   "category": "dialogue",
+   "cast_share": 0.83,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0034": {
+   "tier": "story",
+   "lines": 66,
+   "words": 879,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0035": {
+   "tier": "story",
+   "lines": 40,
+   "words": 575,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.8,
+   "kind": "event"
+  },
+  "bk1:B0036": {
+   "tier": "npc",
+   "lines": 49,
+   "words": 1335,
+   "category": "dialogue",
+   "cast_share": 0.04,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0037": {
+   "tier": "npc",
+   "lines": 29,
+   "words": 668,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0040": {
+   "tier": "story",
+   "lines": 3,
+   "words": 95,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0042": {
+   "tier": "story",
+   "lines": 4,
+   "words": 44,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0043": {
+   "tier": "story",
+   "lines": 1,
+   "words": 16,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0044": {
+   "tier": "story",
+   "lines": 43,
+   "words": 885,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.35,
+   "kind": "event"
+  },
+  "bk1:B0045": {
+   "tier": "npc",
+   "lines": 44,
+   "words": 1105,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.23,
+   "kind": "event"
+  },
+  "bk1:B0046": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 1158,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0047": {
+   "tier": "story",
+   "lines": 47,
+   "words": 545,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.94,
+   "kind": "event"
+  },
+  "bk1:B0048": {
+   "tier": "npc",
+   "lines": 41,
+   "words": 1047,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0049": {
+   "tier": "story",
+   "lines": 33,
+   "words": 502,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.36,
+   "kind": "event"
+  },
+  "bk1:B0051": {
+   "tier": "mixed",
+   "lines": 10,
+   "words": 115,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.1,
+   "kind": "event"
+  },
+  "bk1:B0052": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 3,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0053": {
+   "tier": "story",
+   "lines": 40,
+   "words": 776,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.93,
+   "kind": "event"
+  },
+  "bk1:B0054": {
+   "tier": "npc",
+   "lines": 5,
+   "words": 99,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0055": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 3,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0057": {
+   "tier": "npc",
+   "lines": 42,
+   "words": 969,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0058": {
+   "tier": "npc",
+   "lines": 13,
+   "words": 265,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.23,
+   "kind": "event"
+  },
+  "bk1:B0059": {
+   "tier": "story",
+   "lines": 32,
+   "words": 496,
+   "category": "dialogue",
+   "cast_share": 0.19,
+   "voiced_share": 0.44,
+   "kind": "event"
+  },
+  "bk1:B0060": {
+   "tier": "story",
+   "lines": 40,
+   "words": 599,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.38,
+   "kind": "event"
+  },
+  "bk1:B0061": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 1007,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0062": {
+   "tier": "story",
+   "lines": 13,
+   "words": 216,
+   "category": "dialogue",
+   "cast_share": 0.31,
+   "voiced_share": 0.77,
+   "kind": "event"
+  },
+  "bk1:B0063": {
+   "tier": "story",
+   "lines": 8,
+   "words": 78,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0064": {
+   "tier": "story",
+   "lines": 40,
+   "words": 510,
+   "category": "dialogue",
+   "cast_share": 0.45,
+   "voiced_share": 0.55,
+   "kind": "event"
+  },
+  "bk1:B0065": {
+   "tier": "npc",
+   "lines": 42,
+   "words": 1163,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0066": {
+   "tier": "mixed",
+   "lines": 41,
+   "words": 755,
+   "category": "dialogue",
+   "cast_share": 0.29,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0067": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 1163,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0068": {
+   "tier": "npc",
+   "lines": 45,
+   "words": 1087,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.04,
+   "kind": "event"
+  },
+  "bk1:B0069": {
+   "tier": "mixed",
+   "lines": 67,
+   "words": 1596,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0070": {
+   "tier": "npc",
+   "lines": 9,
+   "words": 91,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0071": {
+   "tier": "story",
+   "lines": 1,
+   "words": 9,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0072": {
+   "tier": "mixed",
+   "lines": 18,
+   "words": 645,
+   "category": "dialogue",
+   "cast_share": 0.39,
+   "voiced_share": 0.22,
+   "kind": "event"
+  },
+  "bk1:B0073": {
+   "tier": "story",
+   "lines": 6,
+   "words": 40,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0074": {
+   "tier": "story",
+   "lines": 22,
+   "words": 143,
+   "category": "dialogue",
+   "cast_share": 0.32,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0075": {
+   "tier": "story",
+   "lines": 9,
+   "words": 101,
+   "category": "dialogue",
+   "cast_share": 0.89,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0076": {
+   "tier": "story",
+   "lines": 30,
+   "words": 324,
+   "category": "dialogue",
+   "cast_share": 0.63,
+   "voiced_share": 0.77,
+   "kind": "event"
+  },
+  "bk1:B0077": {
+   "tier": "npc",
+   "lines": 3,
+   "words": 81,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0078": {
+   "tier": "npc",
+   "lines": 13,
+   "words": 244,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.15,
+   "kind": "event"
+  },
+  "bk1:B0079": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 6,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0080": {
+   "tier": "story",
+   "lines": 38,
+   "words": 298,
+   "category": "dialogue",
+   "cast_share": 0.87,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0081": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 778,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0082": {
+   "tier": "story",
+   "lines": 46,
+   "words": 551,
+   "category": "dialogue",
+   "cast_share": 0.7,
+   "voiced_share": 0.72,
+   "kind": "event"
+  },
+  "bk1:B0083": {
+   "tier": "story",
+   "lines": 4,
+   "words": 20,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0084": {
+   "tier": "npc",
+   "lines": 42,
+   "words": 933,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.17,
+   "kind": "event"
+  },
+  "bk1:B0085": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 971,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.17,
+   "kind": "event"
+  },
+  "bk1:B0086": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 873,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0087": {
+   "tier": "npc",
+   "lines": 17,
+   "words": 291,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0088": {
+   "tier": "story",
+   "lines": 14,
+   "words": 126,
+   "category": "dialogue",
+   "cast_share": 0.29,
+   "voiced_share": 0.79,
+   "kind": "event"
+  },
+  "bk1:B0089": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 921,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.25,
+   "kind": "event"
+  },
+  "bk1:B0090": {
+   "tier": "story",
+   "lines": 48,
+   "words": 644,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.44,
+   "kind": "event"
+  },
+  "bk1:B0091": {
+   "tier": "npc",
+   "lines": 41,
+   "words": 898,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0092": {
+   "tier": "story",
+   "lines": 51,
+   "words": 801,
+   "category": "dialogue",
+   "cast_share": 0.49,
+   "voiced_share": 0.63,
+   "kind": "event"
+  },
+  "bk1:B0093": {
+   "tier": "story",
+   "lines": 64,
+   "words": 798,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 0.73,
+   "kind": "event"
+  },
+  "bk1:B0094": {
+   "tier": "story",
+   "lines": 3,
+   "words": 15,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0095": {
+   "tier": "story",
+   "lines": 10,
+   "words": 177,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.9,
+   "kind": "event"
+  },
+  "bk1:B0096": {
+   "tier": "npc",
+   "lines": 16,
+   "words": 351,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0097": {
+   "tier": "story",
+   "lines": 8,
+   "words": 72,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 0.75,
+   "kind": "event"
+  },
+  "bk1:B0098": {
+   "tier": "story",
+   "lines": 49,
+   "words": 613,
+   "category": "dialogue",
+   "cast_share": 0.61,
+   "voiced_share": 0.8,
+   "kind": "event"
+  },
+  "bk1:B0099": {
+   "tier": "story",
+   "lines": 40,
+   "words": 665,
+   "category": "dialogue",
+   "cast_share": 0.42,
+   "voiced_share": 0.6,
+   "kind": "event"
+  },
+  "bk1:B0100": {
+   "tier": "story",
+   "lines": 5,
+   "words": 95,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.8,
+   "kind": "event"
+  },
+  "bk1:B0101": {
+   "tier": "story",
+   "lines": 14,
+   "words": 144,
+   "category": "dialogue",
+   "cast_share": 0.57,
+   "voiced_share": 0.57,
+   "kind": "event"
+  },
+  "bk1:B0102": {
+   "tier": "story",
+   "lines": 71,
+   "words": 908,
+   "category": "dialogue",
+   "cast_share": 0.56,
+   "voiced_share": 0.61,
+   "kind": "event"
+  },
+  "bk1:B0103": {
+   "tier": "story",
+   "lines": 17,
+   "words": 128,
+   "category": "dialogue",
+   "cast_share": 0.76,
+   "voiced_share": 0.65,
+   "kind": "event"
+  },
+  "bk1:B0104": {
+   "tier": "mixed",
+   "lines": 42,
+   "words": 885,
+   "category": "dialogue",
+   "cast_share": 0.48,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0105": {
+   "tier": "npc",
+   "lines": 17,
+   "words": 317,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0106": {
+   "tier": "story",
+   "lines": 42,
+   "words": 561,
+   "category": "dialogue",
+   "cast_share": 0.88,
+   "voiced_share": 0.93,
+   "kind": "event"
+  },
+  "bk1:B0107": {
+   "tier": "story",
+   "lines": 44,
+   "words": 447,
+   "category": "dialogue",
+   "cast_share": 0.82,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0108": {
+   "tier": "story",
+   "lines": 61,
+   "words": 743,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0109": {
+   "tier": "story",
+   "lines": 18,
+   "words": 215,
+   "category": "dialogue",
+   "cast_share": 0.94,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0110": {
+   "tier": "story",
+   "lines": 47,
+   "words": 817,
+   "category": "dialogue",
+   "cast_share": 0.21,
+   "voiced_share": 0.4,
+   "kind": "event"
+  },
+  "bk1:B0111": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 980,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.17,
+   "kind": "event"
+  },
+  "bk1:B0112": {
+   "tier": "story",
+   "lines": 25,
+   "words": 413,
+   "category": "dialogue",
+   "cast_share": 0.32,
+   "voiced_share": 0.84,
+   "kind": "event"
+  },
+  "bk1:B0113": {
+   "tier": "story",
+   "lines": 34,
+   "words": 332,
+   "category": "dialogue",
+   "cast_share": 0.32,
+   "voiced_share": 0.91,
+   "kind": "event"
+  },
+  "bk1:B0114": {
+   "tier": "story",
+   "lines": 5,
+   "words": 103,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.8,
+   "kind": "event"
+  },
+  "bk1:B0115": {
+   "tier": "story",
+   "lines": 22,
+   "words": 130,
+   "category": "dialogue",
+   "cast_share": 0.64,
+   "voiced_share": 0.91,
+   "kind": "event"
+  },
+  "bk1:B0116": {
+   "tier": "story",
+   "lines": 47,
+   "words": 719,
+   "category": "dialogue",
+   "cast_share": 0.7,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0117": {
+   "tier": "story",
+   "lines": 6,
+   "words": 72,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.83,
+   "kind": "event"
+  },
+  "bk1:B0118": {
+   "tier": "npc",
+   "lines": 48,
+   "words": 912,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.29,
+   "kind": "event"
+  },
+  "bk1:B0119": {
+   "tier": "npc",
+   "lines": 51,
+   "words": 1130,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.27,
+   "kind": "event"
+  },
+  "bk1:B0120": {
+   "tier": "npc",
+   "lines": 11,
+   "words": 242,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0121": {
+   "tier": "story",
+   "lines": 47,
+   "words": 643,
+   "category": "dialogue",
+   "cast_share": 0.81,
+   "voiced_share": 0.81,
+   "kind": "event"
+  },
+  "bk1:B0122": {
+   "tier": "story",
+   "lines": 4,
+   "words": 84,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0123": {
+   "tier": "npc",
+   "lines": 32,
+   "words": 704,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0124": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 7,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0126": {
+   "tier": "npc",
+   "lines": 34,
+   "words": 738,
+   "category": "dialogue",
+   "cast_share": 0.06,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0127": {
+   "tier": "story",
+   "lines": 12,
+   "words": 145,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0128": {
+   "tier": "npc",
+   "lines": 2,
+   "words": 23,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0129": {
+   "tier": "npc",
+   "lines": 14,
+   "words": 225,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0130": {
+   "tier": "story",
+   "lines": 40,
+   "words": 716,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.45,
+   "kind": "event"
+  },
+  "bk1:B0131": {
+   "tier": "npc",
+   "lines": 43,
+   "words": 957,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0132": {
+   "tier": "story",
+   "lines": 33,
+   "words": 742,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.48,
+   "kind": "event"
+  },
+  "bk1:B0148": {
+   "tier": "npc",
+   "lines": 30,
+   "words": 700,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0149": {
+   "tier": "story",
+   "lines": 45,
+   "words": 1119,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.36,
+   "kind": "event"
+  },
+  "bk1:B0150": {
+   "tier": "npc",
+   "lines": 43,
+   "words": 775,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0151": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 627,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.1,
+   "kind": "event"
+  },
+  "bk1:B0152": {
+   "tier": "story",
+   "lines": 28,
+   "words": 265,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0153": {
+   "tier": "story",
+   "lines": 27,
+   "words": 289,
+   "category": "dialogue",
+   "cast_share": 0.96,
+   "voiced_share": 0.96,
+   "kind": "event"
+  },
+  "bk1:B0154": {
+   "tier": "story",
+   "lines": 61,
+   "words": 802,
+   "category": "dialogue",
+   "cast_share": 0.64,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0155": {
+   "tier": "story",
+   "lines": 11,
+   "words": 143,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0156": {
+   "tier": "story",
+   "lines": 20,
+   "words": 265,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0157": {
+   "tier": "story",
+   "lines": 3,
+   "words": 28,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 0.67,
+   "kind": "event"
+  },
+  "bk1:B0158": {
+   "tier": "story",
+   "lines": 10,
+   "words": 60,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0159": {
+   "tier": "npc",
+   "lines": 16,
+   "words": 302,
+   "category": "dialogue",
+   "cast_share": 0.19,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0160": {
+   "tier": "npc",
+   "lines": 33,
+   "words": 752,
+   "category": "dialogue",
+   "cast_share": 0.06,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0161": {
+   "tier": "story",
+   "lines": 1,
+   "words": 20,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0162": {
+   "tier": "story",
+   "lines": 43,
+   "words": 404,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.81,
+   "kind": "event"
+  },
+  "bk1:B0163": {
+   "tier": "story",
+   "lines": 24,
+   "words": 263,
+   "category": "dialogue",
+   "cast_share": 0.54,
+   "voiced_share": 0.96,
+   "kind": "event"
+  },
+  "bk1:B0164": {
+   "tier": "story",
+   "lines": 12,
+   "words": 190,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0165": {
+   "tier": "story",
+   "lines": 11,
+   "words": 57,
+   "category": "dialogue",
+   "cast_share": 0.82,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0166": {
+   "tier": "npc",
+   "lines": 47,
+   "words": 912,
+   "category": "dialogue",
+   "cast_share": 0.21,
+   "voiced_share": 0.19,
+   "kind": "event"
+  },
+  "bk1:B0167": {
+   "tier": "story",
+   "lines": 42,
+   "words": 545,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.71,
+   "kind": "event"
+  },
+  "bk1:B0168": {
+   "tier": "npc",
+   "lines": 11,
+   "words": 315,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0169": {
+   "tier": "story",
+   "lines": 71,
+   "words": 1072,
+   "category": "dialogue",
+   "cast_share": 0.46,
+   "voiced_share": 0.52,
+   "kind": "event"
+  },
+  "bk1:B0170": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 679,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.1,
+   "kind": "event"
+  },
+  "bk1:B0171": {
+   "tier": "story",
+   "lines": 34,
+   "words": 167,
+   "category": "dialogue",
+   "cast_share": 0.41,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0172": {
+   "tier": "story",
+   "lines": 36,
+   "words": 376,
+   "category": "dialogue",
+   "cast_share": 0.94,
+   "voiced_share": 0.81,
+   "kind": "event"
+  },
+  "bk1:B0173": {
+   "tier": "npc",
+   "lines": 17,
+   "words": 406,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0174": {
+   "tier": "story",
+   "lines": 3,
+   "words": 46,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0175": {
+   "tier": "npc",
+   "lines": 48,
+   "words": 955,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.08,
+   "kind": "event"
+  },
+  "bk1:B0176": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 697,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.05,
+   "kind": "event"
+  },
+  "bk1:B0177": {
+   "tier": "story",
+   "lines": 14,
+   "words": 269,
+   "category": "dialogue",
+   "cast_share": 0.36,
+   "voiced_share": 0.79,
+   "kind": "event"
+  },
+  "bk1:B0181": {
+   "tier": "story",
+   "lines": 9,
+   "words": 359,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0182": {
+   "tier": "story",
+   "lines": 45,
+   "words": 930,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.44,
+   "kind": "event"
+  },
+  "bk1:B0183": {
+   "tier": "mixed",
+   "lines": 22,
+   "words": 391,
+   "category": "dialogue",
+   "cast_share": 0.41,
+   "voiced_share": 0.23,
+   "kind": "event"
+  },
+  "bk1:B0184": {
+   "tier": "mixed",
+   "lines": 15,
+   "words": 223,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0185": {
+   "tier": "mixed",
+   "lines": 9,
+   "words": 49,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0186": {
+   "tier": "npc",
+   "lines": 43,
+   "words": 1032,
+   "category": "dialogue",
+   "cast_share": 0.21,
+   "voiced_share": 0.12,
+   "kind": "event"
+  },
+  "bk1:B0187": {
+   "tier": "mixed",
+   "lines": 46,
+   "words": 702,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0188": {
+   "tier": "story",
+   "lines": 41,
+   "words": 615,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.32,
+   "kind": "event"
+  },
+  "bk1:B0189": {
+   "tier": "story",
+   "lines": 29,
+   "words": 291,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.9,
+   "kind": "event"
+  },
+  "bk1:B0190": {
+   "tier": "story",
+   "lines": 48,
+   "words": 444,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.88,
+   "kind": "event"
+  },
+  "bk1:B0191": {
+   "tier": "story",
+   "lines": 8,
+   "words": 55,
+   "category": "dialogue",
+   "cast_share": 0.62,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0192": {
+   "tier": "story",
+   "lines": 54,
+   "words": 974,
+   "category": "dialogue",
+   "cast_share": 0.8,
+   "voiced_share": 0.83,
+   "kind": "event"
+  },
+  "bk1:B0193": {
+   "tier": "story",
+   "lines": 9,
+   "words": 169,
+   "category": "dialogue",
+   "cast_share": 0.78,
+   "voiced_share": 0.78,
+   "kind": "event"
+  },
+  "bk1:B0194": {
+   "tier": "story",
+   "lines": 2,
+   "words": 23,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.5,
+   "kind": "event"
+  },
+  "bk1:B0195": {
+   "tier": "story",
+   "lines": 71,
+   "words": 1081,
+   "category": "dialogue",
+   "cast_share": 0.51,
+   "voiced_share": 0.92,
+   "kind": "event"
+  },
+  "bk1:B0196": {
+   "tier": "story",
+   "lines": 61,
+   "words": 975,
+   "category": "dialogue",
+   "cast_share": 0.16,
+   "voiced_share": 0.52,
+   "kind": "event"
+  },
+  "bk1:B0197": {
+   "tier": "npc",
+   "lines": 45,
+   "words": 992,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0198": {
+   "tier": "story",
+   "lines": 42,
+   "words": 575,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.81,
+   "kind": "event"
+  },
+  "bk1:B0199": {
+   "tier": "story",
+   "lines": 41,
+   "words": 540,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0200": {
+   "tier": "story",
+   "lines": 41,
+   "words": 417,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0201": {
+   "tier": "story",
+   "lines": 31,
+   "words": 532,
+   "category": "dialogue",
+   "cast_share": 0.29,
+   "voiced_share": 0.97,
+   "kind": "event"
+  },
+  "bk1:B0202": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 1072,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.05,
+   "kind": "event"
+  },
+  "bk1:B0203": {
+   "tier": "story",
+   "lines": 63,
+   "words": 1140,
+   "category": "dialogue",
+   "cast_share": 0.44,
+   "voiced_share": 0.44,
+   "kind": "event"
+  },
+  "bk1:B0204": {
+   "tier": "npc",
+   "lines": 42,
+   "words": 924,
+   "category": "dialogue",
+   "cast_share": 0.19,
+   "voiced_share": 0.29,
+   "kind": "event"
+  },
+  "bk1:B0205": {
+   "tier": "story",
+   "lines": 41,
+   "words": 727,
+   "category": "dialogue",
+   "cast_share": 0.29,
+   "voiced_share": 0.32,
+   "kind": "event"
+  },
+  "bk1:B0206": {
+   "tier": "npc",
+   "lines": 43,
+   "words": 977,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.05,
+   "kind": "event"
+  },
+  "bk1:B0207": {
+   "tier": "npc",
+   "lines": 12,
+   "words": 241,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0208": {
+   "tier": "story",
+   "lines": 14,
+   "words": 146,
+   "category": "dialogue",
+   "cast_share": 0.57,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0209": {
+   "tier": "story",
+   "lines": 41,
+   "words": 575,
+   "category": "dialogue",
+   "cast_share": 0.8,
+   "voiced_share": 0.85,
+   "kind": "event"
+  },
+  "bk1:B0210": {
+   "tier": "npc",
+   "lines": 22,
+   "words": 445,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0211": {
+   "tier": "story",
+   "lines": 10,
+   "words": 76,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.4,
+   "kind": "event"
+  },
+  "bk1:B0212": {
+   "tier": "story",
+   "lines": 8,
+   "words": 135,
+   "category": "dialogue",
+   "cast_share": 0.88,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0213": {
+   "tier": "story",
+   "lines": 4,
+   "words": 61,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.5,
+   "kind": "event"
+  },
+  "bk1:B0215": {
+   "tier": "story",
+   "lines": 41,
+   "words": 773,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.37,
+   "kind": "event"
+  },
+  "bk1:B0216": {
+   "tier": "npc",
+   "lines": 50,
+   "words": 864,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0217": {
+   "tier": "npc",
+   "lines": 17,
+   "words": 75,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0218": {
+   "tier": "story",
+   "lines": 19,
+   "words": 265,
+   "category": "dialogue",
+   "cast_share": 0.84,
+   "voiced_share": 0.95,
+   "kind": "event"
+  },
+  "bk1:B0219": {
+   "tier": "story",
+   "lines": 8,
+   "words": 81,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0220": {
+   "tier": "story",
+   "lines": 12,
+   "words": 104,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0221": {
+   "tier": "story",
+   "lines": 40,
+   "words": 669,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.68,
+   "kind": "event"
+  },
+  "bk1:B0222": {
+   "tier": "story",
+   "lines": 10,
+   "words": 166,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0223": {
+   "tier": "story",
+   "lines": 49,
+   "words": 1028,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.73,
+   "kind": "event"
+  },
+  "bk1:B0224": {
+   "tier": "story",
+   "lines": 50,
+   "words": 697,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.66,
+   "kind": "event"
+  },
+  "bk1:B0225": {
+   "tier": "npc",
+   "lines": 27,
+   "words": 842,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.07,
+   "kind": "event"
+  },
+  "bk1:B0226": {
+   "tier": "story",
+   "lines": 53,
+   "words": 923,
+   "category": "dialogue",
+   "cast_share": 0.49,
+   "voiced_share": 0.74,
+   "kind": "event"
+  },
+  "bk1:B0227": {
+   "tier": "story",
+   "lines": 3,
+   "words": 38,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0228": {
+   "tier": "story",
+   "lines": 84,
+   "words": 1027,
+   "category": "dialogue",
+   "cast_share": 0.9,
+   "voiced_share": 0.93,
+   "kind": "event"
+  },
+  "bk1:B0229": {
+   "tier": "npc",
+   "lines": 10,
+   "words": 203,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0230": {
+   "tier": "story",
+   "lines": 1,
+   "words": 12,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0231": {
+   "tier": "npc",
+   "lines": 11,
+   "words": 237,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0232": {
+   "tier": "story",
+   "lines": 29,
+   "words": 456,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 0.97,
+   "kind": "event"
+  },
+  "bk1:B0233": {
+   "tier": "story",
+   "lines": 7,
+   "words": 96,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0234": {
+   "tier": "npc",
+   "lines": 4,
+   "words": 6,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0235": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 2,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0236": {
+   "tier": "npc",
+   "lines": 11,
+   "words": 170,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0237": {
+   "tier": "story",
+   "lines": 6,
+   "words": 37,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0238": {
+   "tier": "story",
+   "lines": 13,
+   "words": 136,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0239": {
+   "tier": "story",
+   "lines": 26,
+   "words": 402,
+   "category": "dialogue",
+   "cast_share": 0.69,
+   "voiced_share": 0.81,
+   "kind": "event"
+  },
+  "bk1:B0240": {
+   "tier": "story",
+   "lines": 47,
+   "words": 735,
+   "category": "dialogue",
+   "cast_share": 0.53,
+   "voiced_share": 0.72,
+   "kind": "event"
+  },
+  "bk1:B0241": {
+   "tier": "story",
+   "lines": 11,
+   "words": 79,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0242": {
+   "tier": "story",
+   "lines": 15,
+   "words": 98,
+   "category": "dialogue",
+   "cast_share": 0.87,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0243": {
+   "tier": "story",
+   "lines": 1,
+   "words": 93,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0244": {
+   "tier": "story",
+   "lines": 17,
+   "words": 105,
+   "category": "dialogue",
+   "cast_share": 0.88,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0245": {
+   "tier": "story",
+   "lines": 22,
+   "words": 200,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.91,
+   "kind": "event"
+  },
+  "bk1:B0246": {
+   "tier": "story",
+   "lines": 29,
+   "words": 236,
+   "category": "dialogue",
+   "cast_share": 0.79,
+   "voiced_share": 0.86,
+   "kind": "event"
+  },
+  "bk1:B0247": {
+   "tier": "story",
+   "lines": 21,
+   "words": 174,
+   "category": "dialogue",
+   "cast_share": 0.52,
+   "voiced_share": 0.9,
+   "kind": "event"
+  },
+  "bk1:B0248": {
+   "tier": "story",
+   "lines": 9,
+   "words": 204,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0249": {
+   "tier": "story",
+   "lines": 36,
+   "words": 695,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.64,
+   "kind": "event"
+  },
+  "bk1:B0250": {
+   "tier": "story",
+   "lines": 34,
+   "words": 298,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.94,
+   "kind": "event"
+  },
+  "bk1:B0251": {
+   "tier": "story",
+   "lines": 47,
+   "words": 509,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0252": {
+   "tier": "npc",
+   "lines": 27,
+   "words": 597,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0253": {
+   "tier": "story",
+   "lines": 4,
+   "words": 46,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 0.75,
+   "kind": "event"
+  },
+  "bk1:B0254": {
+   "tier": "story",
+   "lines": 40,
+   "words": 679,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0255": {
+   "tier": "story",
+   "lines": 26,
+   "words": 330,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.5,
+   "kind": "event"
+  },
+  "bk1:B0256": {
+   "tier": "story",
+   "lines": 40,
+   "words": 532,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.55,
+   "kind": "event"
+  },
+  "bk1:B0257": {
+   "tier": "story",
+   "lines": 32,
+   "words": 446,
+   "category": "dialogue",
+   "cast_share": 0.56,
+   "voiced_share": 0.97,
+   "kind": "event"
+  },
+  "bk1:B0258": {
+   "tier": "story",
+   "lines": 35,
+   "words": 590,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.4,
+   "kind": "event"
+  },
+  "bk1:B0259": {
+   "tier": "npc",
+   "lines": 23,
+   "words": 366,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.22,
+   "kind": "event"
+  },
+  "bk1:B0261": {
+   "tier": "npc",
+   "lines": 41,
+   "words": 899,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.17,
+   "kind": "event"
+  },
+  "bk1:B0262": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 18,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0263": {
+   "tier": "npc",
+   "lines": 69,
+   "words": 1061,
+   "category": "dialogue",
+   "cast_share": 0.01,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0264": {
+   "tier": "mixed",
+   "lines": 40,
+   "words": 647,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0265": {
+   "tier": "story",
+   "lines": 14,
+   "words": 161,
+   "category": "dialogue",
+   "cast_share": 0.29,
+   "voiced_share": 0.5,
+   "kind": "event"
+  },
+  "bk1:B0268": {
+   "tier": "story",
+   "lines": 4,
+   "words": 78,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0269": {
+   "tier": "npc",
+   "lines": 45,
+   "words": 648,
+   "category": "dialogue",
+   "cast_share": 0.16,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0270": {
+   "tier": "npc",
+   "lines": 33,
+   "words": 494,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0271": {
+   "tier": "npc",
+   "lines": 21,
+   "words": 115,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0272": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 8,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0273": {
+   "tier": "story",
+   "lines": 68,
+   "words": 523,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.85,
+   "kind": "event"
+  },
+  "bk1:B0274": {
+   "tier": "story",
+   "lines": 17,
+   "words": 107,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0275": {
+   "tier": "npc",
+   "lines": 59,
+   "words": 1001,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0276": {
+   "tier": "story",
+   "lines": 41,
+   "words": 509,
+   "category": "dialogue",
+   "cast_share": 0.9,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0277": {
+   "tier": "npc",
+   "lines": 5,
+   "words": 28,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0278": {
+   "tier": "story",
+   "lines": 13,
+   "words": 147,
+   "category": "dialogue",
+   "cast_share": 0.46,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0279": {
+   "tier": "story",
+   "lines": 7,
+   "words": 42,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 1.0,
+   "kind": "event"
+  },
+  "bk1:B0280": {
+   "tier": "mixed",
+   "lines": 37,
+   "words": 276,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.3,
+   "kind": "event"
+  },
+  "bk1:B0281": {
+   "tier": "npc",
+   "lines": 41,
+   "words": 901,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0282": {
+   "tier": "npc",
+   "lines": 49,
+   "words": 998,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0283": {
+   "tier": "npc",
+   "lines": 3,
+   "words": 5,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0284": {
+   "tier": "npc",
+   "lines": 7,
+   "words": 18,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0285": {
+   "tier": "story",
+   "lines": 8,
+   "words": 87,
+   "category": "dialogue",
+   "cast_share": 0.88,
+   "voiced_share": 0.88,
+   "kind": "event"
+  },
+  "bk1:B0286": {
+   "tier": "story",
+   "lines": 17,
+   "words": 299,
+   "category": "dialogue",
+   "cast_share": 0.53,
+   "voiced_share": 0.53,
+   "kind": "event"
+  },
+  "bk1:B0287": {
+   "tier": "story",
+   "lines": 12,
+   "words": 132,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 0.25,
+   "kind": "event"
+  },
+  "bk1:B0289": {
+   "tier": "mixed",
+   "lines": 8,
+   "words": 78,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0290": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 5,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0291": {
+   "tier": "mixed",
+   "lines": 26,
+   "words": 234,
+   "category": "dialogue",
+   "cast_share": 0.31,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0292": {
+   "tier": "mixed",
+   "lines": 44,
+   "words": 515,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0293": {
+   "tier": "npc",
+   "lines": 49,
+   "words": 826,
+   "category": "dialogue",
+   "cast_share": 0.16,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0294": {
+   "tier": "npc",
+   "lines": 27,
+   "words": 523,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0295": {
+   "tier": "story",
+   "lines": 7,
+   "words": 46,
+   "category": "dialogue",
+   "cast_share": 0.71,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0296": {
+   "tier": "npc",
+   "lines": 28,
+   "words": 593,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0297": {
+   "tier": "npc",
+   "lines": 20,
+   "words": 562,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.1,
+   "kind": "event"
+  },
+  "bk1:B0298": {
+   "tier": "npc",
+   "lines": 12,
+   "words": 216,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.17,
+   "kind": "event"
+  },
+  "bk1:B0299": {
+   "tier": "story",
+   "lines": 52,
+   "words": 775,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.69,
+   "kind": "event"
+  },
+  "bk1:B0300": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 849,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.05,
+   "kind": "event"
+  },
+  "bk1:B0301": {
+   "tier": "story",
+   "lines": 42,
+   "words": 733,
+   "category": "dialogue",
+   "cast_share": 0.24,
+   "voiced_share": 0.33,
+   "kind": "event"
+  },
+  "bk1:B0302": {
+   "tier": "npc",
+   "lines": 14,
+   "words": 257,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0303": {
+   "tier": "mixed",
+   "lines": 37,
+   "words": 667,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0309": {
+   "tier": "story",
+   "lines": 53,
+   "words": 600,
+   "category": "dialogue",
+   "cast_share": 0.64,
+   "voiced_share": 0.26,
+   "kind": "event"
+  },
+  "bk1:B0310": {
+   "tier": "mixed",
+   "lines": 40,
+   "words": 598,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0311": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 476,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0312": {
+   "tier": "npc",
+   "lines": 21,
+   "words": 412,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0313": {
+   "tier": "story",
+   "lines": 45,
+   "words": 1158,
+   "category": "dialogue",
+   "cast_share": 0.09,
+   "voiced_share": 0.33,
+   "kind": "event"
+  },
+  "bk1:B0314": {
+   "tier": "npc",
+   "lines": 14,
+   "words": 404,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0315": {
+   "tier": "mixed",
+   "lines": 42,
+   "words": 619,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.19,
+   "kind": "event"
+  },
+  "bk1:B0316": {
+   "tier": "npc",
+   "lines": 19,
+   "words": 484,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0317": {
+   "tier": "story",
+   "lines": 8,
+   "words": 76,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.62,
+   "kind": "event"
+  },
+  "bk1:B0318": {
+   "tier": "mixed",
+   "lines": 7,
+   "words": 46,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0319": {
+   "tier": "mixed",
+   "lines": 11,
+   "words": 95,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.18,
+   "kind": "event"
+  },
+  "bk1:B0320": {
+   "tier": "story",
+   "lines": 44,
+   "words": 1096,
+   "category": "dialogue",
+   "cast_share": 0.41,
+   "voiced_share": 0.39,
+   "kind": "event"
+  },
+  "bk1:B0321": {
+   "tier": "npc",
+   "lines": 20,
+   "words": 402,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.1,
+   "kind": "event"
+  },
+  "bk1:B0322": {
+   "tier": "story",
+   "lines": 6,
+   "words": 16,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 0.67,
+   "kind": "event"
+  },
+  "bk1:B0323": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 445,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.07,
+   "kind": "event"
+  },
+  "bk1:B0324": {
+   "tier": "npc",
+   "lines": 28,
+   "words": 379,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "event"
+  },
+  "bk1:B0325": {
+   "tier": "mixed",
+   "lines": 7,
+   "words": 63,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.14,
+   "kind": "event"
+  },
+  "bk1:B0326": {
+   "tier": "text",
+   "lines": 8,
+   "words": 8,
+   "category": "ui_battle"
+  },
+  "bk1:B0327": {
+   "tier": "text",
+   "lines": 29,
+   "words": 169,
+   "category": "ui"
+  },
+  "bk1:B0328": {
+   "tier": "text",
+   "lines": 29,
+   "words": 103,
+   "category": "ui_battle"
+  },
+  "bk1:B0329": {
+   "tier": "text",
+   "lines": 11,
+   "words": 15,
+   "category": "ui_battle"
+  },
+  "bk1:B0330": {
+   "tier": "text",
+   "lines": 15,
+   "words": 35,
+   "category": "ui_battle"
+  },
+  "bk1:B0331": {
+   "tier": "text",
+   "lines": 103,
+   "words": 660,
+   "category": "battle_voice"
+  },
+  "bk1:B0332": {
+   "tier": "text",
+   "lines": 28,
+   "words": 83,
+   "category": "ui_battle"
+  },
+  "bk1:B0333": {
+   "tier": "text",
+   "lines": 14,
+   "words": 23,
+   "category": "ui"
+  },
+  "bk1:B0334": {
+   "tier": "text",
+   "lines": 7,
+   "words": 7,
+   "category": "ui_battle"
+  },
+  "bk1:B0335": {
+   "tier": "text",
+   "lines": 32,
+   "words": 361,
+   "category": "quest_log"
+  },
+  "bk1:B0336": {
+   "tier": "text",
+   "lines": 96,
+   "words": 602,
+   "category": "quest_log"
+  },
+  "bk1:B0337": {
+   "tier": "text",
+   "lines": 146,
+   "words": 409,
+   "category": "ui"
+  },
+  "bk1:B0338": {
+   "tier": "text",
+   "lines": 72,
+   "words": 150,
+   "category": "help"
+  },
+  "bk1:B0339": {
+   "tier": "text",
+   "lines": 150,
+   "words": 2326,
+   "category": "help"
+  },
+  "bk1:B0340": {
+   "tier": "text",
+   "lines": 5,
+   "words": 6,
+   "category": "help"
+  },
+  "bk1:B0341": {
+   "tier": "names",
+   "lines": 99,
+   "words": 262,
+   "category": "magnus_name"
+  },
+  "bk1:B0342": {
+   "tier": "npc",
+   "lines": 150,
+   "words": 621,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0343": {
+   "tier": "names",
+   "lines": 31,
+   "words": 36,
+   "category": "magnus_name"
+  },
+  "bk1:B0344": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 1,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0345": {
+   "tier": "text",
+   "lines": 20,
+   "words": 70,
+   "category": "ui"
+  },
+  "bk1:B0346": {
+   "tier": "npc",
+   "lines": 83,
+   "words": 666,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0347": {
+   "tier": "text",
+   "lines": 144,
+   "words": 3818,
+   "category": "magnus_desc"
+  },
+  "bk1:B0348": {
+   "tier": "text",
+   "lines": 150,
+   "words": 3410,
+   "category": "magnus_desc"
+  },
+  "bk1:B0349": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4252,
+   "category": "magnus_desc"
+  },
+  "bk1:B0350": {
+   "tier": "text",
+   "lines": 150,
+   "words": 3850,
+   "category": "magnus_desc"
+  },
+  "bk1:B0351": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4000,
+   "category": "magnus_desc"
+  },
+  "bk1:B0352": {
+   "tier": "text",
+   "lines": 150,
+   "words": 3651,
+   "category": "magnus_desc"
+  },
+  "bk1:B0353": {
+   "tier": "text",
+   "lines": 127,
+   "words": 3331,
+   "category": "magnus_desc"
+  },
+  "bk1:B0354": {
+   "tier": "names",
+   "lines": 144,
+   "words": 287,
+   "category": "magnus_name"
+  },
+  "bk1:B0355": {
+   "tier": "names",
+   "lines": 150,
+   "words": 433,
+   "category": "magnus_name"
+  },
+  "bk1:B0356": {
+   "tier": "names",
+   "lines": 150,
+   "words": 328,
+   "category": "magnus_name"
+  },
+  "bk1:B0357": {
+   "tier": "names",
+   "lines": 150,
+   "words": 332,
+   "category": "magnus_name"
+  },
+  "bk1:B0358": {
+   "tier": "names",
+   "lines": 150,
+   "words": 290,
+   "category": "magnus_name"
+  },
+  "bk1:B0359": {
+   "tier": "names",
+   "lines": 150,
+   "words": 322,
+   "category": "magnus_name"
+  },
+  "bk1:B0360": {
+   "tier": "names",
+   "lines": 127,
+   "words": 242,
+   "category": "magnus_name"
+  },
+  "bk1:B0361": {
+   "tier": "text",
+   "lines": 59,
+   "words": 166,
+   "category": "music_title"
+  },
+  "bk1:B0362": {
+   "tier": "text",
+   "lines": 150,
+   "words": 444,
+   "category": "ui"
+  },
+  "bk1:B0363": {
+   "tier": "text",
+   "lines": 23,
+   "words": 67,
+   "category": "ui"
+  },
+  "bk1:B0364": {
+   "tier": "names",
+   "lines": 150,
+   "words": 235,
+   "category": "npc_name"
+  },
+  "bk1:B0365": {
+   "tier": "names",
+   "lines": 60,
+   "words": 98,
+   "category": "npc_name"
+  },
+  "bk1:B0366": {
+   "tier": "story",
+   "lines": 39,
+   "words": 179,
+   "category": "movie_subtitle"
+  },
+  "bk1:B0367": {
+   "tier": "names",
+   "lines": 7,
+   "words": 8,
+   "category": "party_name"
+  },
+  "bk1:B0368": {
+   "tier": "text",
+   "lines": 46,
+   "words": 882,
+   "category": "item_desc"
+  },
+  "bk1:B0369": {
+   "tier": "names",
+   "lines": 46,
+   "words": 92,
+   "category": "item_name"
+  },
+  "bk1:B0370": {
+   "tier": "text",
+   "lines": 48,
+   "words": 127,
+   "category": "ui"
+  },
+  "bk1:B0371": {
+   "tier": "text",
+   "lines": 39,
+   "words": 121,
+   "category": "minigame"
+  },
+  "bk1:B0372": {
+   "tier": "names",
+   "lines": 59,
+   "words": 121,
+   "category": "magnus_name"
+  },
+  "bk1:B0373": {
+   "tier": "npc",
+   "lines": 150,
+   "words": 761,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0374": {
+   "tier": "npc",
+   "lines": 26,
+   "words": 132,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0375": {
+   "tier": "names",
+   "lines": 107,
+   "words": 230,
+   "category": "magnus_name"
+  },
+  "bk1:B0376": {
+   "tier": "npc",
+   "lines": 28,
+   "words": 112,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "set"
+  },
+  "bk1:B0377": {
+   "tier": "names",
+   "lines": 68,
+   "words": 209,
+   "category": "location_name"
+  },
+  "bk1:B0378": {
+   "tier": "names",
+   "lines": 110,
+   "words": 246,
+   "category": "location_name"
+  },
+  "bk1:B0379": {
+   "tier": "text",
+   "lines": 150,
+   "words": 548,
+   "category": "ui"
+  },
+  "bk1:B0380": {
+   "tier": "text",
+   "lines": 124,
+   "words": 884,
+   "category": "ui"
+  },
+  "bk1:B0381": {
+   "tier": "text",
+   "lines": 150,
+   "words": 288,
+   "category": "ui"
+  },
+  "bk1:B0382": {
+   "tier": "text",
+   "lines": 51,
+   "words": 87,
+   "category": "ui"
+  },
+  "bk1:B0383": {
+   "tier": "story",
+   "lines": 37,
+   "words": 972,
+   "category": "story_summary"
+  },
+  "bk1:B0384": {
+   "tier": "story",
+   "lines": 9,
+   "words": 50,
+   "category": "movie_subtitle"
+  },
+  "bk1:B0385": {
+   "tier": "text",
+   "lines": 31,
+   "words": 159,
+   "category": "trophy"
+  },
+  "bk1:B0386": {
+   "tier": "text",
+   "lines": 31,
+   "words": 85,
+   "category": "trophy"
+  },
+  "bk1:B0387": {
+   "tier": "text",
+   "lines": 21,
+   "words": 72,
+   "category": "ui"
+  },
+  "bk2:B0000": {
+   "tier": "story",
+   "lines": 12,
+   "words": 91,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0001": {
+   "tier": "story",
+   "lines": 58,
+   "words": 629,
+   "category": "dialogue",
+   "cast_share": 0.72,
+   "voiced_share": 0.86,
+   "kind": "event_block"
+  },
+  "bk2:B0002": {
+   "tier": "story",
+   "lines": 63,
+   "words": 717,
+   "category": "dialogue",
+   "cast_share": 0.51,
+   "voiced_share": 0.94,
+   "kind": "event_block"
+  },
+  "bk2:B0003": {
+   "tier": "story",
+   "lines": 58,
+   "words": 684,
+   "category": "dialogue",
+   "cast_share": 0.52,
+   "voiced_share": 0.84,
+   "kind": "event_block"
+  },
+  "bk2:B0004": {
+   "tier": "story",
+   "lines": 61,
+   "words": 894,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 0.85,
+   "kind": "event_block"
+  },
+  "bk2:B0005": {
+   "tier": "story",
+   "lines": 62,
+   "words": 635,
+   "category": "dialogue",
+   "cast_share": 0.44,
+   "voiced_share": 0.87,
+   "kind": "event_block"
+  },
+  "bk2:B0006": {
+   "tier": "story",
+   "lines": 68,
+   "words": 691,
+   "category": "dialogue",
+   "cast_share": 0.54,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0007": {
+   "tier": "story",
+   "lines": 57,
+   "words": 477,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0008": {
+   "tier": "story",
+   "lines": 77,
+   "words": 746,
+   "category": "dialogue",
+   "cast_share": 0.18,
+   "voiced_share": 0.82,
+   "kind": "event_block"
+  },
+  "bk2:B0009": {
+   "tier": "story",
+   "lines": 32,
+   "words": 302,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 0.59,
+   "kind": "event_block"
+  },
+  "bk2:B0010": {
+   "tier": "story",
+   "lines": 60,
+   "words": 578,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0011": {
+   "tier": "story",
+   "lines": 64,
+   "words": 640,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 0.84,
+   "kind": "event_block"
+  },
+  "bk2:B0012": {
+   "tier": "story",
+   "lines": 60,
+   "words": 676,
+   "category": "dialogue",
+   "cast_share": 0.72,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0013": {
+   "tier": "story",
+   "lines": 63,
+   "words": 641,
+   "category": "dialogue",
+   "cast_share": 0.56,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0014": {
+   "tier": "story",
+   "lines": 56,
+   "words": 468,
+   "category": "dialogue",
+   "cast_share": 0.54,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0015": {
+   "tier": "story",
+   "lines": 58,
+   "words": 596,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0016": {
+   "tier": "story",
+   "lines": 60,
+   "words": 650,
+   "category": "dialogue",
+   "cast_share": 0.53,
+   "voiced_share": 0.88,
+   "kind": "event_block"
+  },
+  "bk2:B0017": {
+   "tier": "story",
+   "lines": 60,
+   "words": 714,
+   "category": "dialogue",
+   "cast_share": 0.32,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0018": {
+   "tier": "story",
+   "lines": 82,
+   "words": 931,
+   "category": "dialogue",
+   "cast_share": 0.52,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0019": {
+   "tier": "story",
+   "lines": 60,
+   "words": 612,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0020": {
+   "tier": "story",
+   "lines": 67,
+   "words": 878,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.94,
+   "kind": "event_block"
+  },
+  "bk2:B0021": {
+   "tier": "story",
+   "lines": 51,
+   "words": 623,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0022": {
+   "tier": "story",
+   "lines": 60,
+   "words": 679,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0023": {
+   "tier": "story",
+   "lines": 53,
+   "words": 666,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 0.85,
+   "kind": "event_block"
+  },
+  "bk2:B0024": {
+   "tier": "story",
+   "lines": 49,
+   "words": 577,
+   "category": "dialogue",
+   "cast_share": 0.45,
+   "voiced_share": 0.96,
+   "kind": "event_block"
+  },
+  "bk2:B0025": {
+   "tier": "story",
+   "lines": 61,
+   "words": 781,
+   "category": "dialogue",
+   "cast_share": 0.64,
+   "voiced_share": 0.87,
+   "kind": "event_block"
+  },
+  "bk2:B0026": {
+   "tier": "story",
+   "lines": 60,
+   "words": 609,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.92,
+   "kind": "event_block"
+  },
+  "bk2:B0027": {
+   "tier": "story",
+   "lines": 63,
+   "words": 851,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0028": {
+   "tier": "story",
+   "lines": 64,
+   "words": 645,
+   "category": "dialogue",
+   "cast_share": 0.69,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0029": {
+   "tier": "story",
+   "lines": 60,
+   "words": 662,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0030": {
+   "tier": "story",
+   "lines": 60,
+   "words": 591,
+   "category": "dialogue",
+   "cast_share": 0.62,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0031": {
+   "tier": "story",
+   "lines": 57,
+   "words": 603,
+   "category": "dialogue",
+   "cast_share": 0.53,
+   "voiced_share": 0.82,
+   "kind": "event_block"
+  },
+  "bk2:B0032": {
+   "tier": "story",
+   "lines": 45,
+   "words": 513,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0033": {
+   "tier": "story",
+   "lines": 60,
+   "words": 785,
+   "category": "dialogue",
+   "cast_share": 0.67,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0034": {
+   "tier": "story",
+   "lines": 64,
+   "words": 810,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.72,
+   "kind": "event_block"
+  },
+  "bk2:B0035": {
+   "tier": "story",
+   "lines": 60,
+   "words": 781,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0036": {
+   "tier": "story",
+   "lines": 60,
+   "words": 864,
+   "category": "dialogue",
+   "cast_share": 0.45,
+   "voiced_share": 0.98,
+   "kind": "event_block"
+  },
+  "bk2:B0037": {
+   "tier": "story",
+   "lines": 60,
+   "words": 1074,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0038": {
+   "tier": "story",
+   "lines": 73,
+   "words": 888,
+   "category": "dialogue",
+   "cast_share": 0.52,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0039": {
+   "tier": "story",
+   "lines": 80,
+   "words": 903,
+   "category": "dialogue",
+   "cast_share": 0.78,
+   "voiced_share": 0.94,
+   "kind": "event_block"
+  },
+  "bk2:B0040": {
+   "tier": "story",
+   "lines": 57,
+   "words": 526,
+   "category": "dialogue",
+   "cast_share": 0.68,
+   "voiced_share": 0.98,
+   "kind": "event_block"
+  },
+  "bk2:B0041": {
+   "tier": "story",
+   "lines": 58,
+   "words": 542,
+   "category": "dialogue",
+   "cast_share": 0.36,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0042": {
+   "tier": "story",
+   "lines": 72,
+   "words": 840,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0043": {
+   "tier": "story",
+   "lines": 47,
+   "words": 674,
+   "category": "dialogue",
+   "cast_share": 0.68,
+   "voiced_share": 0.89,
+   "kind": "event_block"
+  },
+  "bk2:B0044": {
+   "tier": "story",
+   "lines": 62,
+   "words": 894,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 0.84,
+   "kind": "event_block"
+  },
+  "bk2:B0045": {
+   "tier": "story",
+   "lines": 65,
+   "words": 709,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 0.8,
+   "kind": "event_block"
+  },
+  "bk2:B0046": {
+   "tier": "story",
+   "lines": 81,
+   "words": 918,
+   "category": "dialogue",
+   "cast_share": 0.52,
+   "voiced_share": 0.78,
+   "kind": "event_block"
+  },
+  "bk2:B0047": {
+   "tier": "story",
+   "lines": 60,
+   "words": 499,
+   "category": "dialogue",
+   "cast_share": 0.45,
+   "voiced_share": 0.93,
+   "kind": "event_block"
+  },
+  "bk2:B0048": {
+   "tier": "story",
+   "lines": 60,
+   "words": 482,
+   "category": "dialogue",
+   "cast_share": 0.82,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0049": {
+   "tier": "story",
+   "lines": 59,
+   "words": 668,
+   "category": "dialogue",
+   "cast_share": 0.49,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0050": {
+   "tier": "story",
+   "lines": 60,
+   "words": 699,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0051": {
+   "tier": "story",
+   "lines": 62,
+   "words": 714,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0052": {
+   "tier": "story",
+   "lines": 60,
+   "words": 577,
+   "category": "dialogue",
+   "cast_share": 0.65,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0053": {
+   "tier": "story",
+   "lines": 54,
+   "words": 570,
+   "category": "dialogue",
+   "cast_share": 0.04,
+   "voiced_share": 0.3,
+   "kind": "event_block"
+  },
+  "bk2:B0054": {
+   "tier": "story",
+   "lines": 61,
+   "words": 611,
+   "category": "dialogue",
+   "cast_share": 0.39,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0055": {
+   "tier": "story",
+   "lines": 63,
+   "words": 799,
+   "category": "dialogue",
+   "cast_share": 0.56,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0056": {
+   "tier": "story",
+   "lines": 60,
+   "words": 774,
+   "category": "dialogue",
+   "cast_share": 0.82,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0057": {
+   "tier": "story",
+   "lines": 60,
+   "words": 668,
+   "category": "dialogue",
+   "cast_share": 0.48,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0058": {
+   "tier": "story",
+   "lines": 63,
+   "words": 786,
+   "category": "dialogue",
+   "cast_share": 0.84,
+   "voiced_share": 0.98,
+   "kind": "event_block"
+  },
+  "bk2:B0059": {
+   "tier": "story",
+   "lines": 61,
+   "words": 631,
+   "category": "dialogue",
+   "cast_share": 0.64,
+   "voiced_share": 0.89,
+   "kind": "event_block"
+  },
+  "bk2:B0060": {
+   "tier": "story",
+   "lines": 57,
+   "words": 652,
+   "category": "dialogue",
+   "cast_share": 0.39,
+   "voiced_share": 0.86,
+   "kind": "event_block"
+  },
+  "bk2:B0061": {
+   "tier": "story",
+   "lines": 63,
+   "words": 617,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0062": {
+   "tier": "story",
+   "lines": 50,
+   "words": 525,
+   "category": "dialogue",
+   "cast_share": 0.56,
+   "voiced_share": 0.96,
+   "kind": "event_block"
+  },
+  "bk2:B0063": {
+   "tier": "story",
+   "lines": 60,
+   "words": 539,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0064": {
+   "tier": "story",
+   "lines": 72,
+   "words": 702,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 1.0,
+   "kind": "event_block"
+  },
+  "bk2:B0065": {
+   "tier": "story",
+   "lines": 60,
+   "words": 629,
+   "category": "dialogue",
+   "cast_share": 0.75,
+   "voiced_share": 0.9,
+   "kind": "event_block"
+  },
+  "bk2:B0066": {
+   "tier": "story",
+   "lines": 60,
+   "words": 625,
+   "category": "dialogue",
+   "cast_share": 0.87,
+   "voiced_share": 0.95,
+   "kind": "event_block"
+  },
+  "bk2:B0067": {
+   "tier": "story",
+   "lines": 60,
+   "words": 550,
+   "category": "dialogue",
+   "cast_share": 0.68,
+   "voiced_share": 0.97,
+   "kind": "event_block"
+  },
+  "bk2:B0068": {
+   "tier": "story",
+   "lines": 69,
+   "words": 745,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.81,
+   "kind": "event_block"
+  },
+  "bk2:B0069": {
+   "tier": "text",
+   "lines": 150,
+   "words": 2585,
+   "category": "help"
+  },
+  "bk2:B0070": {
+   "tier": "text",
+   "lines": 75,
+   "words": 635,
+   "category": "help"
+  },
+  "bk2:B0071": {
+   "tier": "text",
+   "lines": 102,
+   "words": 199,
+   "category": "help"
+  },
+  "bk2:B0072": {
+   "tier": "text",
+   "lines": 138,
+   "words": 463,
+   "category": "ui"
+  },
+  "bk2:B0073": {
+   "tier": "text",
+   "lines": 22,
+   "words": 74,
+   "category": "ui"
+  },
+  "bk2:B0074": {
+   "tier": "text",
+   "lines": 26,
+   "words": 170,
+   "category": "ui"
+  },
+  "bk2:B0075": {
+   "tier": "text",
+   "lines": 49,
+   "words": 109,
+   "category": "ui"
+  },
+  "bk2:B0076": {
+   "tier": "text",
+   "lines": 29,
+   "words": 125,
+   "category": "trophy"
+  },
+  "bk2:B0077": {
+   "tier": "text",
+   "lines": 29,
+   "words": 78,
+   "category": "trophy"
+  },
+  "bk2:B0078": {
+   "tier": "names",
+   "lines": 59,
+   "words": 180,
+   "category": "location_name"
+  },
+  "bk2:B0079": {
+   "tier": "text",
+   "lines": 31,
+   "words": 48,
+   "category": "ui_battle"
+  },
+  "bk2:B0080": {
+   "tier": "text",
+   "lines": 18,
+   "words": 27,
+   "category": "ui"
+  },
+  "bk2:B0081": {
+   "tier": "mixed",
+   "lines": 19,
+   "words": 205,
+   "category": "dialogue",
+   "cast_share": 0.42,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0082": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1147,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0083": {
+   "tier": "npc",
+   "lines": 24,
+   "words": 336,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0084": {
+   "tier": "npc",
+   "lines": 34,
+   "words": 289,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0085": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1259,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0086": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 223,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0087": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1092,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0088": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 818,
+   "category": "dialogue",
+   "cast_share": 0.23,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0089": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 935,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0090": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 1245,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0091": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1121,
+   "category": "dialogue",
+   "cast_share": 0.13,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0092": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1113,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0093": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1127,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0094": {
+   "tier": "npc",
+   "lines": 13,
+   "words": 188,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0095": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1090,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0096": {
+   "tier": "npc",
+   "lines": 28,
+   "words": 301,
+   "category": "dialogue",
+   "cast_share": 0.11,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0097": {
+   "tier": "mixed",
+   "lines": 46,
+   "words": 583,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0098": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1272,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0099": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1241,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0100": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 972,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0101": {
+   "tier": "npc",
+   "lines": 7,
+   "words": 167,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0102": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1157,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0103": {
+   "tier": "npc",
+   "lines": 22,
+   "words": 305,
+   "category": "dialogue",
+   "cast_share": 0.09,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0104": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1200,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0105": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 854,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0106": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 854,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0107": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1192,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0108": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 562,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0109": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1113,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0110": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 722,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0111": {
+   "tier": "npc",
+   "lines": 31,
+   "words": 236,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0112": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 941,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0113": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 881,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0114": {
+   "tier": "npc",
+   "lines": 51,
+   "words": 633,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0115": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1190,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0116": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 798,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0117": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 784,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0118": {
+   "tier": "npc",
+   "lines": 40,
+   "words": 621,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0119": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 973,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0120": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1209,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0121": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1070,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0122": {
+   "tier": "npc",
+   "lines": 17,
+   "words": 354,
+   "category": "dialogue",
+   "cast_share": 0.06,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0123": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1484,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0124": {
+   "tier": "npc",
+   "lines": 55,
+   "words": 1051,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0125": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1364,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0126": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 826,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0127": {
+   "tier": "mixed",
+   "lines": 14,
+   "words": 132,
+   "category": "dialogue",
+   "cast_share": 0.36,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0128": {
+   "tier": "npc",
+   "lines": 4,
+   "words": 50,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0129": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1062,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0130": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 7,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0131": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 614,
+   "category": "dialogue",
+   "cast_share": 0.58,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0132": {
+   "tier": "mixed",
+   "lines": 23,
+   "words": 546,
+   "category": "dialogue",
+   "cast_share": 0.39,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0133": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 789,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0134": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 669,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0135": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 605,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0136": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 771,
+   "category": "dialogue",
+   "cast_share": 0.18,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0137": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 838,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0138": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 732,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0139": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 670,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0140": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 590,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0141": {
+   "tier": "npc",
+   "lines": 7,
+   "words": 72,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0142": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 1044,
+   "category": "dialogue",
+   "cast_share": 0.42,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0143": {
+   "tier": "npc",
+   "lines": 5,
+   "words": 32,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0144": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 939,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0145": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 789,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0146": {
+   "tier": "mixed",
+   "lines": 43,
+   "words": 624,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0147": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1300,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0148": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1404,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0149": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1247,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0150": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1215,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0151": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 942,
+   "category": "dialogue",
+   "cast_share": 0.13,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0152": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1294,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0153": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1435,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0154": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 953,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0155": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1417,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0156": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1090,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0157": {
+   "tier": "npc",
+   "lines": 45,
+   "words": 635,
+   "category": "dialogue",
+   "cast_share": 0.11,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0158": {
+   "tier": "npc",
+   "lines": 10,
+   "words": 262,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0159": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1055,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0160": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 837,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0161": {
+   "tier": "npc",
+   "lines": 48,
+   "words": 887,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0162": {
+   "tier": "mixed",
+   "lines": 29,
+   "words": 524,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0163": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 659,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0164": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 669,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0165": {
+   "tier": "story",
+   "lines": 5,
+   "words": 78,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0166": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1322,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0167": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1402,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0168": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 732,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0169": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1201,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0170": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 993,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0171": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1014,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0172": {
+   "tier": "mixed",
+   "lines": 12,
+   "words": 169,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0173": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1483,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0174": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1255,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0175": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1230,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0176": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1000,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0177": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1297,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0178": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1287,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0179": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1162,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0180": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 985,
+   "category": "dialogue",
+   "cast_share": 0.12,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0181": {
+   "tier": "npc",
+   "lines": 53,
+   "words": 972,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0182": {
+   "tier": "npc",
+   "lines": 13,
+   "words": 69,
+   "category": "dialogue",
+   "cast_share": 0.23,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0183": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 1011,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0184": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 840,
+   "category": "dialogue",
+   "cast_share": 0.23,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0185": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 939,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0186": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 760,
+   "category": "dialogue",
+   "cast_share": 0.23,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0187": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 917,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0188": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 563,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0189": {
+   "tier": "npc",
+   "lines": 2,
+   "words": 2,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0190": {
+   "tier": "npc",
+   "lines": 35,
+   "words": 380,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0191": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 896,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0192": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 908,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0193": {
+   "tier": "mixed",
+   "lines": 4,
+   "words": 63,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0194": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 804,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0195": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 864,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0196": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 910,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0197": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 766,
+   "category": "dialogue",
+   "cast_share": 0.57,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0198": {
+   "tier": "story",
+   "lines": 41,
+   "words": 494,
+   "category": "dialogue",
+   "cast_share": 0.68,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0199": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 718,
+   "category": "dialogue",
+   "cast_share": 0.38,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0200": {
+   "tier": "npc",
+   "lines": 43,
+   "words": 391,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0201": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 1381,
+   "category": "dialogue",
+   "cast_share": 0.48,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0202": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1371,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0203": {
+   "tier": "story",
+   "lines": 11,
+   "words": 107,
+   "category": "dialogue",
+   "cast_share": 0.73,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0204": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 843,
+   "category": "dialogue",
+   "cast_share": 0.32,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0205": {
+   "tier": "story",
+   "lines": 60,
+   "words": 703,
+   "category": "dialogue",
+   "cast_share": 0.7,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0206": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 861,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0207": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 915,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0208": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 829,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0209": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1011,
+   "category": "dialogue",
+   "cast_share": 0.08,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0210": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 828,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0211": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 776,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0212": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1194,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0213": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 891,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0214": {
+   "tier": "mixed",
+   "lines": 14,
+   "words": 247,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0215": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1086,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0216": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 785,
+   "category": "dialogue",
+   "cast_share": 0.25,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0217": {
+   "tier": "npc",
+   "lines": 18,
+   "words": 289,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0218": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1389,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0219": {
+   "tier": "npc",
+   "lines": 46,
+   "words": 792,
+   "category": "dialogue",
+   "cast_share": 0.13,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0220": {
+   "tier": "story",
+   "lines": 60,
+   "words": 701,
+   "category": "dialogue",
+   "cast_share": 0.77,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0221": {
+   "tier": "story",
+   "lines": 60,
+   "words": 587,
+   "category": "dialogue",
+   "cast_share": 0.87,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0222": {
+   "tier": "mixed",
+   "lines": 17,
+   "words": 117,
+   "category": "dialogue",
+   "cast_share": 0.47,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0223": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 832,
+   "category": "dialogue",
+   "cast_share": 0.37,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0224": {
+   "tier": "mixed",
+   "lines": 23,
+   "words": 282,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0225": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1615,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0226": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 999,
+   "category": "dialogue",
+   "cast_share": 0.02,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0227": {
+   "tier": "npc",
+   "lines": 35,
+   "words": 447,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0228": {
+   "tier": "npc",
+   "lines": 28,
+   "words": 183,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0229": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 669,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0230": {
+   "tier": "story",
+   "lines": 60,
+   "words": 611,
+   "category": "dialogue",
+   "cast_share": 0.6,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0231": {
+   "tier": "story",
+   "lines": 60,
+   "words": 576,
+   "category": "dialogue",
+   "cast_share": 0.63,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0232": {
+   "tier": "story",
+   "lines": 60,
+   "words": 531,
+   "category": "dialogue",
+   "cast_share": 0.65,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0233": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 605,
+   "category": "dialogue",
+   "cast_share": 0.42,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0234": {
+   "tier": "npc",
+   "lines": 3,
+   "words": 6,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0235": {
+   "tier": "mixed",
+   "lines": 35,
+   "words": 484,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0236": {
+   "tier": "npc",
+   "lines": 1,
+   "words": 16,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0237": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1060,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0238": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 881,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0239": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1218,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0240": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1407,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0241": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1556,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0242": {
+   "tier": "npc",
+   "lines": 7,
+   "words": 110,
+   "category": "dialogue",
+   "cast_share": 0.14,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0243": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 892,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0244": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 660,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0245": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1357,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0246": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1360,
+   "category": "dialogue",
+   "cast_share": 0.13,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0247": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1565,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0248": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1207,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0249": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1447,
+   "category": "dialogue",
+   "cast_share": 0.07,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0250": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1345,
+   "category": "dialogue",
+   "cast_share": 0.05,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0251": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1128,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0252": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 846,
+   "category": "dialogue",
+   "cast_share": 0.3,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0253": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1589,
+   "category": "dialogue",
+   "cast_share": 0.03,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0254": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1192,
+   "category": "dialogue",
+   "cast_share": 0.15,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0255": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 955,
+   "category": "dialogue",
+   "cast_share": 0.22,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0256": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 706,
+   "category": "dialogue",
+   "cast_share": 0.43,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0257": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 943,
+   "category": "dialogue",
+   "cast_share": 0.27,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0258": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 1003,
+   "category": "dialogue",
+   "cast_share": 0.18,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0259": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 905,
+   "category": "dialogue",
+   "cast_share": 0.28,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0260": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 818,
+   "category": "dialogue",
+   "cast_share": 0.23,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0261": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 866,
+   "category": "dialogue",
+   "cast_share": 0.35,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0262": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 920,
+   "category": "dialogue",
+   "cast_share": 0.42,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0263": {
+   "tier": "npc",
+   "lines": 6,
+   "words": 125,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0264": {
+   "tier": "mixed",
+   "lines": 29,
+   "words": 285,
+   "category": "dialogue",
+   "cast_share": 0.34,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0265": {
+   "tier": "npc",
+   "lines": 4,
+   "words": 84,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0266": {
+   "tier": "npc",
+   "lines": 6,
+   "words": 63,
+   "category": "dialogue",
+   "cast_share": 0.17,
+   "voiced_share": 0.17,
+   "kind": "field_block"
+  },
+  "bk2:B0267": {
+   "tier": "story",
+   "lines": 60,
+   "words": 483,
+   "category": "dialogue",
+   "cast_share": 0.57,
+   "voiced_share": 0.9,
+   "kind": "field_block"
+  },
+  "bk2:B0268": {
+   "tier": "story",
+   "lines": 60,
+   "words": 401,
+   "category": "dialogue",
+   "cast_share": 0.55,
+   "voiced_share": 0.92,
+   "kind": "field_block"
+  },
+  "bk2:B0269": {
+   "tier": "story",
+   "lines": 60,
+   "words": 542,
+   "category": "dialogue",
+   "cast_share": 0.48,
+   "voiced_share": 0.88,
+   "kind": "field_block"
+  },
+  "bk2:B0270": {
+   "tier": "story",
+   "lines": 60,
+   "words": 636,
+   "category": "dialogue",
+   "cast_share": 0.4,
+   "voiced_share": 0.93,
+   "kind": "field_block"
+  },
+  "bk2:B0271": {
+   "tier": "story",
+   "lines": 14,
+   "words": 103,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 1.0,
+   "kind": "field_block"
+  },
+  "bk2:B0272": {
+   "tier": "story",
+   "lines": 5,
+   "words": 49,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0273": {
+   "tier": "npc",
+   "lines": 10,
+   "words": 47,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0274": {
+   "tier": "story",
+   "lines": 2,
+   "words": 21,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0275": {
+   "tier": "mixed",
+   "lines": 59,
+   "words": 755,
+   "category": "dialogue",
+   "cast_share": 0.41,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0276": {
+   "tier": "mixed",
+   "lines": 60,
+   "words": 608,
+   "category": "dialogue",
+   "cast_share": 0.45,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0277": {
+   "tier": "story",
+   "lines": 23,
+   "words": 323,
+   "category": "dialogue",
+   "cast_share": 0.7,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0278": {
+   "tier": "npc",
+   "lines": 4,
+   "words": 44,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0279": {
+   "tier": "story",
+   "lines": 26,
+   "words": 287,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0280": {
+   "tier": "npc",
+   "lines": 48,
+   "words": 1039,
+   "category": "dialogue",
+   "cast_share": 0.19,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0281": {
+   "tier": "mixed",
+   "lines": 6,
+   "words": 37,
+   "category": "dialogue",
+   "cast_share": 0.33,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0282": {
+   "tier": "npc",
+   "lines": 2,
+   "words": 6,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0283": {
+   "tier": "story",
+   "lines": 15,
+   "words": 170,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0284": {
+   "tier": "npc",
+   "lines": 36,
+   "words": 267,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0285": {
+   "tier": "npc",
+   "lines": 36,
+   "words": 388,
+   "category": "dialogue",
+   "cast_share": 0.11,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0286": {
+   "tier": "npc",
+   "lines": 4,
+   "words": 94,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0287": {
+   "tier": "npc",
+   "lines": 35,
+   "words": 767,
+   "category": "dialogue",
+   "cast_share": 0.09,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0288": {
+   "tier": "mixed",
+   "lines": 2,
+   "words": 10,
+   "category": "dialogue",
+   "cast_share": 0.5,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0289": {
+   "tier": "story",
+   "lines": 7,
+   "words": 93,
+   "category": "dialogue",
+   "cast_share": 1.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0290": {
+   "tier": "npc",
+   "lines": 18,
+   "words": 280,
+   "category": "dialogue",
+   "cast_share": 0.06,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0291": {
+   "tier": "npc",
+   "lines": 5,
+   "words": 38,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0292": {
+   "tier": "text",
+   "lines": 1,
+   "words": 4,
+   "category": "internal"
+  },
+  "bk2:B0293": {
+   "tier": "npc",
+   "lines": 5,
+   "words": 58,
+   "category": "dialogue",
+   "cast_share": 0.2,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0294": {
+   "tier": "story",
+   "lines": 129,
+   "words": 6251,
+   "category": "story_summary"
+  },
+  "bk2:B0295": {
+   "tier": "story",
+   "lines": 76,
+   "words": 3446,
+   "category": "letter"
+  },
+  "bk2:B0296": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4346,
+   "category": "magnus_desc"
+  },
+  "bk2:B0297": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4303,
+   "category": "magnus_desc"
+  },
+  "bk2:B0298": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4279,
+   "category": "magnus_desc"
+  },
+  "bk2:B0299": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4348,
+   "category": "magnus_desc"
+  },
+  "bk2:B0300": {
+   "tier": "text",
+   "lines": 79,
+   "words": 2088,
+   "category": "magnus_desc"
+  },
+  "bk2:B0301": {
+   "tier": "text",
+   "lines": 115,
+   "words": 403,
+   "category": "ui_battle"
+  },
+  "bk2:B0302": {
+   "tier": "text",
+   "lines": 61,
+   "words": 201,
+   "category": "music_title"
+  },
+  "bk2:B0303": {
+   "tier": "names",
+   "lines": 150,
+   "words": 276,
+   "category": "magnus_name"
+  },
+  "bk2:B0304": {
+   "tier": "names",
+   "lines": 150,
+   "words": 316,
+   "category": "magnus_name"
+  },
+  "bk2:B0305": {
+   "tier": "names",
+   "lines": 150,
+   "words": 314,
+   "category": "magnus_name"
+  },
+  "bk2:B0306": {
+   "tier": "names",
+   "lines": 150,
+   "words": 315,
+   "category": "magnus_name"
+  },
+  "bk2:B0307": {
+   "tier": "names",
+   "lines": 72,
+   "words": 154,
+   "category": "magnus_name"
+  },
+  "bk2:B0308": {
+   "tier": "names",
+   "lines": 36,
+   "words": 88,
+   "category": "item_name"
+  },
+  "bk2:B0309": {
+   "tier": "text",
+   "lines": 36,
+   "words": 1017,
+   "category": "item_desc"
+  },
+  "bk2:B0310": {
+   "tier": "names",
+   "lines": 60,
+   "words": 154,
+   "category": "location_name"
+  },
+  "bk2:B0311": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 475,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0312": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 443,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0313": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 506,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0314": {
+   "tier": "npc",
+   "lines": 58,
+   "words": 488,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0315": {
+   "tier": "text",
+   "lines": 150,
+   "words": 1487,
+   "category": "quest_log"
+  },
+  "bk2:B0316": {
+   "tier": "text",
+   "lines": 150,
+   "words": 1515,
+   "category": "quest_log"
+  },
+  "bk2:B0317": {
+   "tier": "text",
+   "lines": 100,
+   "words": 1019,
+   "category": "quest_log"
+  },
+  "bk2:B0318": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 445,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0319": {
+   "tier": "npc",
+   "lines": 60,
+   "words": 383,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0320": {
+   "tier": "npc",
+   "lines": 3,
+   "words": 7,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0321": {
+   "tier": "npc",
+   "lines": 56,
+   "words": 1075,
+   "category": "dialogue",
+   "cast_share": 0.0,
+   "voiced_share": 0.0,
+   "kind": "field_block"
+  },
+  "bk2:B0322": {
+   "tier": "text",
+   "lines": 150,
+   "words": 353,
+   "category": "ui"
+  },
+  "bk2:B0323": {
+   "tier": "text",
+   "lines": 150,
+   "words": 708,
+   "category": "ui"
+  },
+  "bk2:B0324": {
+   "tier": "text",
+   "lines": 150,
+   "words": 1246,
+   "category": "ui"
+  },
+  "bk2:B0325": {
+   "tier": "text",
+   "lines": 4,
+   "words": 43,
+   "category": "ui"
+  },
+  "bk2:B0326": {
+   "tier": "text",
+   "lines": 66,
+   "words": 85,
+   "category": "ui"
+  },
+  "bk2:B0327": {
+   "tier": "text",
+   "lines": 150,
+   "words": 305,
+   "category": "encyclopedia"
+  },
+  "bk2:B0328": {
+   "tier": "text",
+   "lines": 150,
+   "words": 1863,
+   "category": "encyclopedia"
+  },
+  "bk2:B0329": {
+   "tier": "text",
+   "lines": 150,
+   "words": 4032,
+   "category": "encyclopedia"
+  },
+  "bk2:B0330": {
+   "tier": "text",
+   "lines": 72,
+   "words": 2845,
+   "category": "encyclopedia"
+  },
+  "bk2:B0331": {
+   "tier": "text",
+   "lines": 127,
+   "words": 243,
+   "category": "credits"
+  },
+  "bk2:B0332": {
+   "tier": "text",
+   "lines": 4,
+   "words": 12,
+   "category": "ui"
+  },
+  "bk2:B0333": {
+   "tier": "text",
+   "lines": 1,
+   "words": 2,
+   "category": "ui"
+  },
+  "bk2:B0334": {
+   "tier": "text",
+   "lines": 3,
+   "words": 3,
+   "category": "ui"
+  },
+  "bk2:B0335": {
+   "tier": "text",
+   "lines": 28,
+   "words": 116,
+   "category": "ui"
+  },
+  "bk2:B0336": {
+   "tier": "text",
+   "lines": 6,
+   "words": 11,
+   "category": "ui"
+  },
+  "bk2:B0337": {
+   "tier": "text",
+   "lines": 52,
+   "words": 66,
+   "category": "ui"
+  },
+  "bk2:B0338": {
+   "tier": "text",
+   "lines": 7,
+   "words": 44,
+   "category": "ui"
+  },
+  "bk2:B0339": {
+   "tier": "text",
+   "lines": 25,
+   "words": 63,
+   "category": "ui"
+  },
+  "bk2:B0340": {
+   "tier": "text",
+   "lines": 25,
+   "words": 44,
+   "category": "ui"
+  },
+  "bk2:B0341": {
+   "tier": "text",
+   "lines": 16,
+   "words": 28,
+   "category": "ui"
+  },
+  "bk2:B0342": {
+   "tier": "text",
+   "lines": 14,
+   "words": 50,
+   "category": "ui"
+  },
+  "bk2:B0343": {
+   "tier": "text",
+   "lines": 9,
+   "words": 16,
+   "category": "ui"
+  },
+  "bk2:B0344": {
+   "tier": "names",
+   "lines": 150,
+   "words": 260,
+   "category": "npc_name"
+  },
+  "bk2:B0345": {
+   "tier": "names",
+   "lines": 150,
+   "words": 299,
+   "category": "npc_name"
+  },
+  "bk2:B0346": {
+   "tier": "names",
+   "lines": 114,
+   "words": 234,
+   "category": "npc_name"
+  },
+  "bk2:B0347": {
+   "tier": "names",
+   "lines": 101,
+   "words": 231,
+   "category": "magnus_name"
+  },
+  "bk2:B0348": {
+   "tier": "names",
+   "lines": 117,
+   "words": 197,
+   "category": "enemy_name"
+  },
+  "bk2:B0349": {
+   "tier": "text",
+   "lines": 150,
+   "words": 2268,
+   "category": "magnus_desc"
+  },
+  "bk2:B0350": {
+   "tier": "text",
+   "lines": 24,
+   "words": 315,
+   "category": "magnus_desc"
+  },
+  "bk2:B0351": {
+   "tier": "text",
+   "lines": 5,
+   "words": 31,
+   "category": "ui"
+  },
+  "bk2:B0352": {
+   "tier": "text",
+   "lines": 4,
+   "words": 21,
+   "category": "ui"
+  },
+  "bk2:B0353": {
+   "tier": "story",
+   "lines": 148,
+   "words": 423,
+   "category": "story_summary"
+  },
+  "bk2:B0354": {
+   "tier": "story",
+   "lines": 35,
+   "words": 92,
+   "category": "letter"
+  },
+  "bk2:B0355": {
+   "tier": "text",
+   "lines": 9,
+   "words": 32,
+   "category": "ui_battle"
+  },
+  "bk2:B0356": {
+   "tier": "text",
+   "lines": 5,
+   "words": 17,
+   "category": "ui_battle"
+  },
+  "bk2:B0357": {
+   "tier": "text",
+   "lines": 9,
+   "words": 10,
+   "category": "ui"
+  },
+  "bk2:B0358": {
+   "tier": "text",
+   "lines": 10,
+   "words": 20,
+   "category": "ui"
+  },
+  "bk2:B0359": {
+   "tier": "text",
+   "lines": 3,
+   "words": 6,
+   "category": "ui"
+  },
+  "bk2:B0360": {
+   "tier": "text",
+   "lines": 1,
+   "words": 1,
+   "category": "ui"
+  },
+  "bk2:B0361": {
+   "tier": "text",
+   "lines": 8,
+   "words": 19,
+   "category": "ui_battle"
+  },
+  "bk2:B0362": {
+   "tier": "text",
+   "lines": 62,
+   "words": 351,
+   "category": "ui"
+  },
+  "bk2:B0363": {
+   "tier": "text",
+   "lines": 36,
+   "words": 135,
+   "category": "ui"
+  },
+  "bk2:B0364": {
+   "tier": "text",
+   "lines": 16,
+   "words": 31,
+   "category": "ui_battle"
+  },
+  "bk2:B0365": {
+   "tier": "npc",
+   "lines": 30,
+   "words": 168,
+   "category": "dialogue",
+   "cast_share": 0.1,
+   "voiced_share": 0.03,
+   "kind": "field_block"
+  },
+  "bk2:B0366": {
+   "tier": "text",
+   "lines": 138,
+   "words": 169,
+   "category": "internal"
+  }
+ }
+}

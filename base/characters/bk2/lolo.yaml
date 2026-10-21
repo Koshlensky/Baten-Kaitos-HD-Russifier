@@ -1,0 +1,76 @@
+id: lolo
+games: [bk2]
+en_name: Lolo
+jp_name: ローロ
+jp_reading: Rōro
+aliases_en: []
+name_tags: ["bk2:BIGTREE_06"]
+script_lines: {bk2: 81}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#names-supporting"}
+
+sex: female
+grammatical_gender: f
+grammatical_gender_status: proposed
+pronouns_ru: она
+
+facts:
+  - claim: "Девушка."
+    confidence: confirmed
+    basis: text
+    source: "EV_2015: «[…]!»; EV_4062: «[…].» (JP あの娘); KOMOMAI_168; OPU_023; упоминания с she — 15, с he — 0"
+  - claim: "Мастер-изобретатель, работает с деревом; делает механизмы и детали."
+    confidence: confirmed
+    basis: text
+    source: "EV_0598: «I mostly work with wood.»; EV_1989: «It's Lolo's latest invention!»; EV_4062"
+  - claim: "Живёт в Opu."
+    confidence: confirmed
+    basis: text
+    source: "KOMOMAI_168: «She lives in Opu, right?»; EV_3516"
+  - claim: "Взялась сделать водяное колесо для деревни и не укладывается в срок."
+    confidence: confirmed
+    basis: text
+    source: "EV_0596, EV_0610, EV_0611"
+  - claim: "Обнимает Sagi от радости, когда тот обещает добыть дерево с Небесного древа."
+    confidence: inferred
+    basis: context
+    source: "EV_0613 «Oh, thank you!», EV_0614 Sagi «Weh?!», EV_0615 Guillo «Release him, wench!»"
+  - claim: "Японское написание ローロ."
+    confidence: confirmed
+    basis: data
+    source: "BIGTREE_06 (TextData_jp)"
+
+personality:
+  - {trait: "увлечённая, эмоциональная, вежливая с заказчиками", confidence: confirmed, source: "EV_0596–EV_0617"}
+speech_style:
+  en: ["Живая речь, восклицания: «Whoa! You could do that?», «Nuts.», «You bet!»."]
+  jp: ["わたし; です/ます в 63% реплик (с Sagi — 24 из 41, с Milly — 8 из 9); маркеры, не доказательства."]
+formality: нейтрально
+
+relationships:
+  - with: sagi
+    relation: "заказчик ремонта, затем друг"
+    register_to: vy
+    register_status: approved
+    confidence: confirmed
+    evidence: "решение D-023. Справка: JP です/ます (EV_0596 でしたよね, EV_0604 ごめんなさい); EN непринуждённо"
+    changes: []
+    source: "EV_0596–EV_0617; D-023"
+  - with: milly
+    relation: "знакомство в пилотной сцене"
+    register_to: vy
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP です/ます 8 из 9"
+    changes: []
+    source: "base/characters/_evidence/bk2.json"
+
+translation_notes:
+  - "Вежливая, но живая речь: «вы» без канцелярита («Вы правда сможете?!», а не «Неужели вы в состоянии это осуществить?»)."
+spoilers:
+  - {claim: "Может сделать тело из ветвей Небесного древа", confidence: confirmed, source: "EV_2500", revealed_at: "середина сюжета"}
+open_questions:
+  - "Переходит ли Lolo на «ты» с героями позже (проверить её поздние реплики, EV_2013 и далее)."
+sources:
+  - {type: game_data, ref: "BIGTREE_06, EV_0596–EV_0624, EV_2015, EV_2500, EV_4062, KOMOMAI_168, OPU_023"}
+status: draft

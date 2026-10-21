@@ -1,0 +1,54 @@
+# Карточка персонажа.
+# Каждый факт сопровождается источником: ID строки игры (например, SaveStoryLine_33), документ или ссылка.
+# Достоверные сведения отделяются от предположений полем confidence. Японские языковые маркеры
+# (первая персона, окончания) сами по себе пол не доказывают — это basis: jp_marker, не confirmed.
+# Русские имена и род утверждаются только через docs/DECISIONS.md.
+
+id: example                 # ключ для матрицы: speaker.id / addressee.id (латиница, нижний регистр)
+games: [bk1]                # bk1, bk2 или обе
+en_name: Example
+jp_name: null               # написание из игровых данных (списки имён TextData_jp)
+jp_reading: null            # чтение латиницей
+aliases_en: []              # другие формы в тексте: титулы, прозвища, полное имя
+name_tags: []               # таблички имени в скриптах с префиксом игры: "bk1:PCN_1" (docs/03d_re_stage_a_report.md)
+script_lines: {}            # число реплик по табличкам: {bk1: 0}
+
+ru_name:
+  status: pending           # pending | proposed | approved
+  value: null
+  forms: {}                 # склонение после утверждения: им, род, дат, вин, твор, пр
+  options_ref: null         # ссылка на раздел base/glossary/disputes.md
+
+sex: unknown                # male | female | none | player_defined | unknown — пол персонажа в мире игры
+grammatical_gender: unknown # m | f | n | variable | unknown — род в русском тексте (по решению)
+grammatical_gender_status: proposed   # proposed | approved — approved только после решения владельца
+pronouns_ru: unknown        # он / она / оно / по решению
+
+facts:                      # проверяемые утверждения
+  - claim: ""
+    confidence: confirmed   # confirmed — прямо сказано в тексте или следует из данных игры;
+                            # inferred — вывод из контекста, других локализаций, японских маркеров;
+                            # unknown — не установлено
+    basis: text             # text | data (табличка, код) | other_loc (FR/ES/IT/DE) | jp_marker | context
+    source: ""
+
+personality: []             # черты характера: [{trait, confidence, source}]
+speech_style:
+  en: []                    # наблюдения по английскому тексту (лексика, длина фраз, юмор)
+  jp: []                    # первая персона (俺/僕/わたし/わし…), окончания, вежливость — маркеры, не доказательства
+formality: unknown          # просторечно | нейтрально | книжно | церемонно | смешанно
+
+relationships:              # [{with, relation, register_to, register_status, confidence, evidence, changes, source}]
+  - with: example
+    relation: ""
+    register_to: unknown    # ty | vy | mixed | unknown — как этот персонаж обращается к with
+    register_status: proposed   # proposed | approved (D-006: по отношениям и развитию сюжета)
+    confidence: inferred
+    evidence: ""            # FR tu/vous, японская вежливость, обращения; base/characters/_evidence/<игра>.json
+    changes: []             # смена обращения: [{at: ID сцены или строки, to: ty|vy, note}]
+    source: ""
+translation_notes: []       # особенности перевода реплик
+spoilers: []                # сведения, раскрывающиеся по сюжету: [{claim, confidence, source, revealed_at}]
+open_questions: []          # что проверить
+sources: []                 # [{type: game_data|official|wiki|walkthrough|video, ref, note}]
+status: draft               # draft | reviewed | approved

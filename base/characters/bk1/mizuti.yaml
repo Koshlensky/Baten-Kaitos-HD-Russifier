@@ -1,0 +1,87 @@
+id: mizuti
+games: [bk1]
+en_name: Mizuti
+jp_name: ミズチ
+jp_reading: Mizuchi
+aliases_en: ["the Great Mizuti", "Great Mizuti", "Masked Magician"]
+name_tags: ["bk1:NPC_062", "bk1:PCN_6"]
+script_lines: {bk1: 149}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#mizuti-title"}
+
+sex: female
+grammatical_gender: variable
+grammatical_gender_status: proposed
+pronouns_ru: "до SCR_GEM02_8_4461 — без местоимений и форм рода; после — она (D-005)"
+
+facts:
+  - claim: "Пол раскрывается в сюжете репликой Gibari в деревне Gemma при первом визите: «[…]?»."
+    confidence: confirmed
+    basis: text
+    source: "SCR_GEM02_8_4461 (JP: お、女の子だったのか、ミズチさまって！？); сцена SCR_GEM02_8 — приветствие Great Kamroh (SCR_GEM02_8_3761: «Welcome home, Mizuti.»)"
+  - claim: "До точки раскрытия в репликах английского текста личных местоимений для Mizuti нет."
+    confidence: inferred
+    basis: text
+    source: "поиск упоминаний (work/scratch/mention_search.py): «she/her» относятся к другим персонажам (матери, Xelha); проверено по 60 строкам с именем и местоимениями"
+  - claim: "Женский род уже есть в описаниях магнусов-фотографий и врага: «taken without her mask», «adjusting her mask», «whether she deserved»."
+    confidence: confirmed
+    basis: text
+    source: "MGI_1064, MGI_1070, MGI_0958; MGI_0567 («Uses her magical gifts» — вероятно, о птичке-флюгере)"
+  - claim: "Говорит о себе в третьем лице («the Great Mizuti», JP ミズチさま), ломаной речью; другие так же её величают."
+    confidence: confirmed
+    basis: text
+    source: "SCR_CUR04_0_2808: «[…]!»; SCR_ANH01_20_5905; SCR_INT11_51_11673"
+  - claim: "В собственной речи Mizuti нет признаков рода ни в одной локализации: третье лицо о себе обходит согласование."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE m=0, f=0; JP — ни одного местоимения первого лица (base/characters/_evidence/bk1.json)"
+  - claim: "Табличка «Great Mizuti» (NPC_062) — в обычных сценах; табличка «Mizuti» (PCN_6) — в личных сценах: дома у матери, с Kee."
+    confidence: confirmed
+    basis: data
+    source: "PCN_6: SCR_GEM03_21_7421…8084, SCR_INT11_51_12228, SCR_INT11_52_14674, SCR_INT11_52_15985, SCR_KOM17_3_1997, SCR_EV09640B_0_2956"
+  - claim: "Из народа Детей Земли (Gemma, под Toxiclouds); родители — Koh и Kay; друг детства — Kee."
+    confidence: confirmed
+    basis: text
+    source: "SCR_MIN07A_11_15390; SCR_GEM03_21_5769 (Kay), SCR_GEM03_21_7338 (Koh), SCR_INT11_51_11673 (Kee)"
+  - claim: "Официальные англоязычные материалы до выхода игры скрывали пол: «Mizuti Age: 14 Sex: Unknown», о Mizuti — «it»."
+    confidence: confirmed
+    basis: text
+    source: "IGN, «Baten Kaitos: The Characters», 21.10.2004, материал подготовлен с Namco: «Mizuti is a puzzling creature… It wears an unusual mask… Mizuti calls itself „The Great Mizuti“»"
+  - claim: "Носит маску; эмоции скрыты."
+    confidence: confirmed
+    basis: text
+    source: "MGI_1063; SCR_KOM02A_1_5976: «[…]?»"
+  - claim: "Японское написание ミズチ."
+    confidence: confirmed
+    basis: data
+    source: "PCN_6 (TextData_jp)"
+
+personality:
+  - {trait: "хвастливая, озорная, храбрая; защищает других, принимая удар на себя", confidence: confirmed, source: "SCR_INT11_51_11673, SCR_INT11_51_10762"}
+speech_style:
+  en: ["Третье лицо о себе: «the Great Mizuti»; пропуск вспомогательных глаголов: «Great Mizuti is very tired», «If Kalas not want it»."]
+  jp: ["ミズチさま о себе; окончания ～ね (ないね, いいね), ～よ; ломаная речь."]
+formality: просторечно
+
+relationships:
+  - with: kalas
+    relation: "спутник"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 7 / vous 5; JP おまえ 4; по имени в третьем лице («[…] it?»)"
+    changes: []
+    source: "SCR_KOM02A_1_6294"
+
+translation_notes:
+  - "D-005: до SCR_GEM02_8_4461 — ни прошедшего времени от первого/третьего лица о Mizuti, ни согласованных прилагательных, ни местоимений «он/она». Ломаная речь помогает: настоящее время и инфинитив не требуют рода (схема: «[титул и имя] устать!»), но прилагательное в титуле род требует — поэтому титул решается отдельно."
+  - "Титул «the Great Mizuti» — спорный: варианты и их влияние на род — disputes.md#mizuti-title."
+  - "Описания магнусов с «her» (MGI_1064, MGI_1070, MGI_0958) можно увидеть раньше сцены в Gemma: по D-005 русский не должен раскрывать пол раньше английского — английский здесь уже раскрывает; решение — в disputes.md#mizuti-title."
+spoilers:
+  - {claim: "Mizuti — девочка", confidence: confirmed, source: "SCR_GEM02_8_4461", revealed_at: "SCR_GEM02_8 (Gemma, первый визит)"}
+open_questions:
+  - "Когда игрок может получить фото-магнусы MGI_1064, MGI_1070 и прочитать описание MGI_0958 (до или после Gemma)?"
+  - "Порядок сцен Gemma в скелете (SCR_GEM03 стоит раньше SCR_GEM02) неверен — уточнить по сюжету."
+sources:
+  - {type: game_data, ref: "NPC_062, PCN_6, SCR_GEM02_8, SCR_GEM03_21, SCR_INT11_51, MGI_0958, MGI_1063, MGI_1064, MGI_1070, SaveStoryLine_15"}
+status: draft

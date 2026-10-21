@@ -1,0 +1,88 @@
+id: giacomo
+games: [bk1, bk2]
+en_name: Giacomo
+jp_name: ジャコモ
+jp_reading: Jakomo
+aliases_en: []
+name_tags: ["bk1:MGN_0942", "bk2:NPCName_102"]
+script_lines: {bk1: 74, bk2: 15}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#names-supporting"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Мужчина."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_02: «[…].»"
+  - claim: "Другие локализации дают ему мужской род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE m=6.5, f=0 (base/characters/_evidence/bk1.json)"
+  - claim: "Убил деда и брата Kalas; цель его мести."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_02; SCR_KSM05_12_12445"
+  - claim: "Сын Georg."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EV05080B_3_3094; SCR_EVE08_2_3837 (JP 親父)"
+  - claim: "Получил сверхчеловеческую силу благодаря опытам Georg и Larikush."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EVE08_2_3837: «[…].»"
+  - claim: "Табличка имени в BK1 — строка магнуса MGN_0942 («Giacomo»)."
+    confidence: confirmed
+    basis: data
+    source: "base/evidence/bk1_script_speakers.jsonl"
+  - claim: "Японское написание ジャコモ."
+    confidence: confirmed
+    basis: data
+    source: "MGN_0942 (TextData_jp)"
+
+personality:
+  - {trait: "презрительный, жестокий, жаждет силы", confidence: confirmed, source: "SCR_EVE08_2_3017, SCR_EVE08_2_3837, SCR_EVE08_2_4051"}
+speech_style:
+  en: ["Резкие короткие фразы, «Humph.»; приказной тон."]
+  jp: ["俺; к Larikush — あんた, об отце — 親父; в BK2 к Sagi и Guillo — 貴様; маркеры, не доказательства."]
+formality: просторечно
+
+relationships:
+  - with: georg
+    relation: "сын (спойлер); не уважает отца"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP おまえ (4 реплики); FR смешанно (tu 4 / vous 3), «vous» — обращение к обоим учёным"
+    changes: []
+    source: "SCR_EVE08_2"
+  - with: larikush
+    relation: "пренебрежение"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP あんた; FR «tu es bien placé» (SCR_EVE08_2_3837)"
+    changes: []
+    source: "SCR_EVE08_2_3837"
+  - with: kalas
+    relation: "враг"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 19 / vous 4; JP おまえ 13"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+
+translation_notes:
+  - "Реплики к обоим учёным сразу (SCR_EVE08_2_2734, SCR_EVE08_2_3017) — «вы» множественное: «Вам нужно больше времени?»."
+  - "«[…]» (SCR_EVE08_2_3837) — спойлер родства подаётся вскользь; перевод не должен его усиливать."
+spoilers:
+  - {claim: "Сын Georg", confidence: confirmed, source: "SCR_EV05080B_3_3094", revealed_at: "SCR_EV05080B_3; намёк в SCR_EVE08_2_3837"}
+open_questions: []
+sources:
+  - {type: game_data, ref: "MGN_0942, NPCName_102, SaveStoryLine_02, SaveStoryLine_18, SaveStoryLine_19, SaveStoryLine_33, SCR_EVE08_2"}
+status: draft

@@ -1,0 +1,568 @@
+{
+ "game": "bk2",
+ "schema_version": 1,
+ "built_at": "2026-10-18T18:22:00",
+ "records": 20316,
+ "shards": {
+  "EV_block000-009": {
+   "records": 627,
+   "translated": 0
+  },
+  "EV_block010-019": {
+   "records": 623,
+   "translated": 0
+  },
+  "EV_block020-029": {
+   "records": 588,
+   "translated": 0
+  },
+  "EV_block030-039": {
+   "records": 619,
+   "translated": 0
+  },
+  "EV_block040-049": {
+   "records": 621,
+   "translated": 0
+  },
+  "EV_block050-059": {
+   "records": 604,
+   "translated": 0
+  },
+  "EV_block060-069": {
+   "records": 551,
+   "translated": 0
+  },
+  "HPI": {
+   "records": 225,
+   "translated": 0
+  },
+  "HPN": {
+   "records": 102,
+   "translated": 0
+  },
+  "MEA": {
+   "records": 138,
+   "translated": 0
+  },
+  "UsefulFunctions": {
+   "records": 22,
+   "translated": 0
+  },
+  "ANG": {
+   "records": 26,
+   "translated": 0
+  },
+  "POP": {
+   "records": 49,
+   "translated": 0
+  },
+  "TRP": {
+   "records": 29,
+   "translated": 0
+  },
+  "TRN": {
+   "records": 29,
+   "translated": 0
+  },
+  "STN": {
+   "records": 59,
+   "translated": 0
+  },
+  "GRP_BTL": {
+   "records": 31,
+   "translated": 0
+  },
+  "GRP_CNP": {
+   "records": 18,
+   "translated": 0
+  },
+  "AIRHOLE": {
+   "records": 19,
+   "translated": 0
+  },
+  "ALGORAB": {
+   "records": 84,
+   "translated": 0
+  },
+  "ATRIA": {
+   "records": 34,
+   "translated": 0
+  },
+  "AZHA": {
+   "records": 553,
+   "translated": 0
+  },
+  "BAELHEIT": {
+   "records": 88,
+   "translated": 0
+  },
+  "BIGTREE": {
+   "records": 46,
+   "translated": 0
+  },
+  "CEBALRAI": {
+   "records": 187,
+   "translated": 0
+  },
+  "CHURCH": {
+   "records": 82,
+   "translated": 0
+  },
+  "COLOSSEUM": {
+   "records": 451,
+   "translated": 0
+  },
+  "CUJAM": {
+   "records": 171,
+   "translated": 0
+  },
+  "ELNATH": {
+   "records": 220,
+   "translated": 0
+  },
+  "F_CAVE": {
+   "records": 197,
+   "translated": 0
+  },
+  "F_VILLAGE": {
+   "records": 115,
+   "translated": 0
+  },
+  "GEMMA": {
+   "records": 134,
+   "translated": 0
+  },
+  "HARBOR_D": {
+   "records": 4,
+   "translated": 0
+  },
+  "HARBOR_H": {
+   "records": 61,
+   "translated": 0
+  },
+  "HOLOHOLO": {
+   "records": 83,
+   "translated": 0
+  },
+  "HQ": {
+   "records": 487,
+   "translated": 0
+  },
+  "IBARA": {
+   "records": 65,
+   "translated": 0
+  },
+  "IMPERIAL": {
+   "records": 163,
+   "translated": 0
+  },
+  "KOMOMAI": {
+   "records": 645,
+   "translated": 0
+  },
+  "LIBRARY": {
+   "records": 10,
+   "translated": 0
+  },
+  "LORD": {
+   "records": 168,
+   "translated": 0
+  },
+  "MATAR": {
+   "records": 29,
+   "translated": 0
+  },
+  "MILKEWAY": {
+   "records": 125,
+   "translated": 0
+  },
+  "MINTAKA_N": {
+   "records": 372,
+   "translated": 0
+  },
+  "MINTAKA": {
+   "records": 533,
+   "translated": 0
+  },
+  "MORI": {
+   "records": 13,
+   "translated": 0
+  },
+  "NASHIRA": {
+   "records": 362,
+   "translated": 0
+  },
+  "NEKKAR": {
+   "records": 35,
+   "translated": 0
+  },
+  "NERO": {
+   "records": 124,
+   "translated": 0
+  },
+  "NIHAL": {
+   "records": 281,
+   "translated": 0
+  },
+  "NUNKI": {
+   "records": 103,
+   "translated": 0
+  },
+  "OPU": {
+   "records": 131,
+   "translated": 0
+  },
+  "PHERKAD": {
+   "records": 614,
+   "translated": 0
+  },
+  "R_LAKE": {
+   "records": 138,
+   "translated": 0
+  },
+  "RASALAS": {
+   "records": 106,
+   "translated": 0
+  },
+  "ROOT": {
+   "records": 137,
+   "translated": 0
+  },
+  "S_CANYON": {
+   "records": 83,
+   "translated": 0
+  },
+  "SEDNA": {
+   "records": 155,
+   "translated": 0
+  },
+  "SEGINUS": {
+   "records": 28,
+   "translated": 0
+  },
+  "SENKAN": {
+   "records": 303,
+   "translated": 0
+  },
+  "SEWER": {
+   "records": 35,
+   "translated": 0
+  },
+  "SFIEDA": {
+   "records": 1,
+   "translated": 0
+  },
+  "SHELIAK": {
+   "records": 307,
+   "translated": 0
+  },
+  "SHERATAN": {
+   "records": 780,
+   "translated": 0
+  },
+  "TARAZED": {
+   "records": 60,
+   "translated": 0
+  },
+  "VEGA": {
+   "records": 366,
+   "translated": 0
+  },
+  "ZAURAK": {
+   "records": 29,
+   "translated": 0
+  },
+  "ACCEPT": {
+   "records": 4,
+   "translated": 0
+  },
+  "ANCMAPJUMP": {
+   "records": 6,
+   "translated": 0
+  },
+  "BEV": {
+   "records": 254,
+   "translated": 0
+  },
+  "CLOUD": {
+   "records": 5,
+   "translated": 0
+  },
+  "ESCALATOR": {
+   "records": 10,
+   "translated": 0
+  },
+  "ESCAPE_ENEMY": {
+   "records": 2,
+   "translated": 0
+  },
+  "FATIGUE_QUEST": {
+   "records": 59,
+   "translated": 0
+  },
+  "FLAME_QUEST": {
+   "records": 83,
+   "translated": 0
+  },
+  "GETQC_SP": {
+   "records": 4,
+   "translated": 0
+  },
+  "GIMMICK_ROOM": {
+   "records": 26,
+   "translated": 0
+  },
+  "GLEYTHORN_QUEST": {
+   "records": 48,
+   "translated": 0
+  },
+  "GLEYTHORN_Y": {
+   "records": 6,
+   "translated": 0
+  },
+  "GLEYTHORN": {
+   "records": 2,
+   "translated": 0
+  },
+  "IJI_ROOM": {
+   "records": 15,
+   "translated": 0
+  },
+  "KEIHIN": {
+   "records": 36,
+   "translated": 0
+  },
+  "MIX_REPORT": {
+   "records": 36,
+   "translated": 0
+  },
+  "MOVEOUT": {
+   "records": 4,
+   "translated": 0
+  },
+  "RANKUPQUEST": {
+   "records": 35,
+   "translated": 0
+  },
+  "RECIPE": {
+   "records": 2,
+   "translated": 0
+  },
+  "SUNA": {
+   "records": 7,
+   "translated": 0
+  },
+  "WORLDMAP": {
+   "records": 18,
+   "translated": 0
+  },
+  "QM_SCRIPT_S": {
+   "records": 5,
+   "translated": 0
+  },
+  "EVテンプレ": {
+   "records": 1,
+   "translated": 0
+  },
+  "TALK_SFIEDA": {
+   "records": 5,
+   "translated": 0
+  },
+  "STORYOUTLINE": {
+   "records": 129,
+   "translated": 0
+  },
+  "LETTER": {
+   "records": 76,
+   "translated": 0
+  },
+  "MGNINF": {
+   "records": 679,
+   "translated": 0
+  },
+  "EFCLIST": {
+   "records": 115,
+   "translated": 0
+  },
+  "MSC": {
+   "records": 61,
+   "translated": 0
+  },
+  "MGNNAME": {
+   "records": 672,
+   "translated": 0
+  },
+  "PRCS_NAME": {
+   "records": 36,
+   "translated": 0
+  },
+  "PRCS_INFO": {
+   "records": 36,
+   "translated": 0
+  },
+  "SAVE_POINT": {
+   "records": 60,
+   "translated": 0
+  },
+  "SHOP": {
+   "records": 238,
+   "translated": 0
+  },
+  "SUBQUEST": {
+   "records": 400,
+   "translated": 0
+  },
+  "TRADE": {
+   "records": 123,
+   "translated": 0
+  },
+  "UPGREADE": {
+   "records": 56,
+   "translated": 0
+  },
+  "CMNSTR": {
+   "records": 454,
+   "translated": 0
+  },
+  "GATHERING_DATA": {
+   "records": 66,
+   "translated": 0
+  },
+  "BOOK": {
+   "records": 522,
+   "translated": 0
+  },
+  "CREDITS": {
+   "records": 127,
+   "translated": 0
+  },
+  "CMPINIT": {
+   "records": 4,
+   "translated": 0
+  },
+  "DECKDATA": {
+   "records": 1,
+   "translated": 0
+  },
+  "CMP_DATA": {
+   "records": 3,
+   "translated": 0
+  },
+  "MGN_HLD": {
+   "records": 28,
+   "translated": 0
+  },
+  "MGN_VIEW": {
+   "records": 6,
+   "translated": 0
+  },
+  "CHARA_WND": {
+   "records": 52,
+   "translated": 0
+  },
+  "DATA_SELECTOR": {
+   "records": 7,
+   "translated": 0
+  },
+  "DECKWIZ": {
+   "records": 25,
+   "translated": 0
+  },
+  "MGN_SRT": {
+   "records": 25,
+   "translated": 0
+  },
+  "NOTE_WND": {
+   "records": 16,
+   "translated": 0
+  },
+  "ROOT_CPP": {
+   "records": 14,
+   "translated": 0
+  },
+  "TREE_VIEW": {
+   "records": 9,
+   "translated": 0
+  },
+  "NPCName": {
+   "records": 414,
+   "translated": 0
+  },
+  "EXCombo": {
+   "records": 101,
+   "translated": 0
+  },
+  "Enemy": {
+   "records": 117,
+   "translated": 0
+  },
+  "EXCombo_info": {
+   "records": 174,
+   "translated": 0
+  },
+  "CWNDQMAGNUS_CPP": {
+   "records": 5,
+   "translated": 0
+  },
+  "CMAGNUSHOLDER_H": {
+   "records": 4,
+   "translated": 0
+  },
+  "STORYOUTLINENAME": {
+   "records": 148,
+   "translated": 0
+  },
+  "LETTERNAME": {
+   "records": 35,
+   "translated": 0
+  },
+  "CDISPBTLRESULT_CPP": {
+   "records": 9,
+   "translated": 0
+  },
+  "BC_CPP": {
+   "records": 5,
+   "translated": 0
+  },
+  "HELP_CPP": {
+   "records": 9,
+   "translated": 0
+  },
+  "PERSON_CPP": {
+   "records": 10,
+   "translated": 0
+  },
+  "ITEM_CPP": {
+   "records": 3,
+   "translated": 0
+  },
+  "PLAYER_CPP": {
+   "records": 1,
+   "translated": 0
+  },
+  "WEAKPOINT": {
+   "records": 8,
+   "translated": 0
+  },
+  "COLOSSEUM_ADD": {
+   "records": 62,
+   "translated": 0
+  },
+  "CHURCH_ADD": {
+   "records": 36,
+   "translated": 0
+  },
+  "battleparam": {
+   "records": 16,
+   "translated": 0
+  },
+  "BKSCRIPT": {
+   "records": 30,
+   "translated": 0
+  },
+  "BK2_ADD": {
+   "records": 138,
+   "translated": 0
+  }
+ }
+}

@@ -1,0 +1,65 @@
+id: lyude
+games: [bk1]
+en_name: Lyude
+jp_name: リュード
+jp_reading: Ryūdo
+aliases_en: []
+name_tags: ["bk1:PCN_4"]
+script_lines: {bk1: 264}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk1"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Мужчина, военный."
+    confidence: confirmed
+    basis: text
+    source: "MGI_1061: «[…].»; MGI_1068; упоминания с he — 20"
+  - claim: "Другие локализации дают ему мужской род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE m=10.0, f=0.5 (base/characters/_evidence/bk1.json)"
+  - claim: "В японском говорит вежливо: です/ます в 55% реплик, первая персона 僕 и 私."
+    confidence: confirmed
+    basis: jp_marker
+    source: "base/characters/_evidence/bk1.json; маркер речи, не пол"
+  - claim: "Японское написание リュード."
+    confidence: confirmed
+    basis: data
+    source: "PCN_4 (TextData_jp)"
+
+personality:
+  - {trait: "сдержанный, дисциплинированный, вежливый", confidence: confirmed, source: "MGI_1068; вежливая речь в японском"}
+speech_style:
+  en: []
+  jp: ["僕 (49), 私 (13); です/ます в 55% реплик; к Kalas — あなた, きみ."]
+formality: книжно
+
+relationships:
+  - with: kalas
+    relation: "спутник"
+    register_to: mixed
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP вежливо (26 из 41 реплики с です/ます), FR tu 7 / vous 0 — локализации расходятся; решать по сценам (D-006)"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: gibari
+    relation: "спутник, старше"
+    register_to: vy
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP вежливо 15 из 22; FR vous 2 / tu 0"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+translation_notes:
+  - "Вежливость Lyude — черта характера: даже при «ты» сохранять корректную, книжную речь."
+spoilers: []
+open_questions: ["«Ты» или «вы» к Kalas и Xelha: японский вежлив, французский — на «ты»; выбрать по первой совместной сцене."]
+sources:
+  - {type: game_data, ref: "PCN_4, MGI_1061, MGI_1068, SaveStoryLine_19"}
+status: draft

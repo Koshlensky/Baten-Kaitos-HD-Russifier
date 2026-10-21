@@ -1,0 +1,93 @@
+id: georg
+games: [bk1, bk2]
+en_name: Georg
+jp_name: ゲオルグ
+jp_reading: Georugu
+aliases_en: ["the scientist Georg"]
+name_tags: ["bk1:NPC_053", "bk2:NPCName_78"]
+script_lines: {bk1: 15, bk2: 35}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#names-supporting"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Мужчина; дед Kalas."
+    confidence: confirmed
+    basis: text
+    source: "SCR_KDK05_11_4257: «your grandfather, Georg»; упоминания с he — 21 (base/characters/_evidence/bk1.json)"
+  - claim: "Учёный; вместе с Larikush создал жизнь из магнуса (Kalas и Fee)."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_22: «the scientist Georg»; SCR_EVE08_2_1593; SCR_EVE08_2_2083"
+  - claim: "Работал на Империю по приказу Geldoblame; решил взорвать лабораторию, инсценировать гибель и бежать в Mira."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EVE08_2_1823, SCR_EVE08_2_2281, SCR_EVE08_2_2349, SCR_EVE08_2_2448"
+  - claim: "Отец Giacomo."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EV05080B_3_3094: «[…].»; SCR_EVE08_2_3837: «[…]» (JP 親父やあんたとは違う)"
+  - claim: "В BK2 (раньше событий BK1) — изобретатель, к которому Sagi обращается вежливо; «He can make anything»."
+    confidence: confirmed
+    basis: text
+    source: "NIHAL_265: «[…]...»; вежливость Sagi к Georg — JP です/ます в 9 из 13 реплик"
+  - claim: "Японское написание ゲオルグ."
+    confidence: confirmed
+    basis: data
+    source: "NPC_053 (TextData_jp)"
+
+personality:
+  - {trait: "совестливый; мучается последствиями своих опытов", confidence: confirmed, source: "SCR_EVE08_2_1593; SaveStoryLine_33 (JP ゲオルグの贖罪 — «искупление Georg»)"}
+  - {trait: "вспыльчив, когда речь о детях", confidence: confirmed, source: "SCR_EVE08_2_3174, SCR_EVE08_2_3242 (Larikush его удерживает)"}
+speech_style:
+  en: ["Сдержанная, немного книжная речь: «Nothing shall remain.», «[…]?»."]
+  jp: ["Первая персона 私; к Larikush — きみ; к Giacomo — おまえ; маркеры, не доказательства."]
+formality: книжно
+
+relationships:
+  - with: larikush
+    relation: "коллега и друг"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR «Tu as raison» (SCR_EVE08_2_1755); JP きみ"
+    changes: []
+    source: "SCR_EVE08_2"
+  - with: giacomo
+    relation: "отец (спойлер)"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR «comment peux-tu» (SCR_EVE08_2_3174); JP おまえ"
+    changes: []
+    source: "SCR_EVE08_2_3174"
+  - with: kalas
+    relation: "дед и создатель"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 4 / vous 0; JP きみ, おまえ"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: sagi
+    relation: "BK2: знакомый изобретатель"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP きみ (6 реплик)"
+    changes: []
+    source: "base/characters/_evidence/bk2.json"
+
+translation_notes:
+  - "В SCR_EVE08_2 Kalas и Fee — «дети» учёных; слово «parents» в кавычках у Larikush (SCR_EVE08_2_1652) — сохранить кавычки."
+spoilers:
+  - {claim: "Отец Giacomo", confidence: confirmed, source: "SCR_EV05080B_3_3094", revealed_at: "SCR_EV05080B_3; намёк в SCR_EVE08_2_3837"}
+open_questions:
+  - "Место флешбэка SCR_EVE08_2 в сюжете (когда игрок его видит)."
+sources:
+  - {type: game_data, ref: "NPC_053, NPCName_78, SaveStoryLine_22, SaveStoryLine_32, SaveStoryLine_33, SCR_EVE08_2, NIHAL_265"}
+status: draft

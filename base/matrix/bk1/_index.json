@@ -1,0 +1,376 @@
+{
+ "game": "bk1",
+ "schema_version": 1,
+ "built_at": "2026-10-18T18:21:58",
+ "records": 14716,
+ "shards": {
+  "SCR_CEB": {
+   "records": 466,
+   "translated": 0
+  },
+  "SCR_PHE": {
+   "records": 1093,
+   "translated": 0
+  },
+  "SCR_TDM": {
+   "records": 151,
+   "translated": 0
+  },
+  "SCR_TYN": {
+   "records": 172,
+   "translated": 0
+  },
+  "SCR_EV": {
+   "records": 526,
+   "translated": 0
+  },
+  "SCR_EVE": {
+   "records": 251,
+   "translated": 0
+  },
+  "SCR_JNS": {
+   "records": 36,
+   "translated": 0
+  },
+  "SCR_KAF": {
+   "records": 292,
+   "translated": 0
+  },
+  "SCR_MAP": {
+   "records": 25,
+   "translated": 0
+  },
+  "SCR_MNA": {
+   "records": 27,
+   "translated": 0
+  },
+  "SCR_RYO": {
+   "records": 164,
+   "translated": 0
+  },
+  "SCR_BAL": {
+   "records": 633,
+   "translated": 0
+  },
+  "SCR_DNM": {
+   "records": 12,
+   "translated": 0
+  },
+  "SCR_CNS": {
+   "records": 380,
+   "translated": 0
+  },
+  "SCR_NAS": {
+   "records": 552,
+   "translated": 0
+  },
+  "SCR_SHE": {
+   "records": 225,
+   "translated": 0
+  },
+  "SCR_CNM": {
+   "records": 51,
+   "translated": 0
+  },
+  "SCR_GEM": {
+   "records": 242,
+   "translated": 0
+  },
+  "SCR_STG": {
+   "records": 29,
+   "translated": 0
+  },
+  "SCR_GDB": {
+   "records": 78,
+   "translated": 0
+  },
+  "SCR_KEI": {
+   "records": 34,
+   "translated": 0
+  },
+  "SCR_KOM": {
+   "records": 1089,
+   "translated": 0
+  },
+  "SCR_QMT": {
+   "records": 183,
+   "translated": 0
+  },
+  "SCR_KDK": {
+   "records": 118,
+   "translated": 0
+  },
+  "SCR_GTJ": {
+   "records": 122,
+   "translated": 0
+  },
+  "SCR_JHH": {
+   "records": 10,
+   "translated": 0
+  },
+  "SCR_OPU": {
+   "records": 167,
+   "translated": 0
+  },
+  "SCR_NIH": {
+   "records": 124,
+   "translated": 0
+  },
+  "SCR_TNM": {
+   "records": 86,
+   "translated": 0
+  },
+  "SCR_COR": {
+   "records": 112,
+   "translated": 0
+  },
+  "SCR_CUR": {
+   "records": 198,
+   "translated": 0
+  },
+  "SCR_DDS": {
+   "records": 147,
+   "translated": 0
+  },
+  "SCR_INT": {
+   "records": 156,
+   "translated": 0
+  },
+  "SCR_KNM": {
+   "records": 30,
+   "translated": 0
+  },
+  "SCR_MNT": {
+   "records": 6,
+   "translated": 0
+  },
+  "SCR_PAR": {
+   "records": 293,
+   "translated": 0
+  },
+  "SCR_KSM": {
+   "records": 123,
+   "translated": 0
+  },
+  "SCR_ANH": {
+   "records": 46,
+   "translated": 0
+  },
+  "SCR_DTN": {
+   "records": 132,
+   "translated": 0
+  },
+  "SCR_SNM": {
+   "records": 102,
+   "translated": 0
+  },
+  "SCR_KNH": {
+   "records": 10,
+   "translated": 0
+  },
+  "SCR_MIN": {
+   "records": 357,
+   "translated": 0
+  },
+  "SCR_YRS": {
+   "records": 83,
+   "translated": 0
+  },
+  "SCR_AZH": {
+   "records": 153,
+   "translated": 0
+  },
+  "SCR_ALG": {
+   "records": 84,
+   "translated": 0
+  },
+  "SCR_MEI": {
+   "records": 31,
+   "translated": 0
+  },
+  "SCR_SNT": {
+   "records": 13,
+   "translated": 0
+  },
+  "SCR_DTG": {
+   "records": 85,
+   "translated": 0
+  },
+  "SCR_KYO": {
+   "records": 120,
+   "translated": 0
+  },
+  "SCR_REV": {
+   "records": 59,
+   "translated": 0
+  },
+  "ABN": {
+   "records": 8,
+   "translated": 0
+  },
+  "AdvancedNewGame": {
+   "records": 29,
+   "translated": 0
+  },
+  "BFF": {
+   "records": 29,
+   "translated": 0
+  },
+  "BMG": {
+   "records": 11,
+   "translated": 0
+  },
+  "BTM": {
+   "records": 15,
+   "translated": 0
+  },
+  "BattleVoice": {
+   "records": 103,
+   "translated": 0
+  },
+  "Battle_Add": {
+   "records": 28,
+   "translated": 0
+  },
+  "DIA_DATA": {
+   "records": 14,
+   "translated": 0
+  },
+  "ELM": {
+   "records": 7,
+   "translated": 0
+  },
+  "FMN": {
+   "records": 32,
+   "translated": 0
+  },
+  "FMO": {
+   "records": 96,
+   "translated": 0
+  },
+  "GRP": {
+   "records": 146,
+   "translated": 0
+  },
+  "Help_Name": {
+   "records": 72,
+   "translated": 0
+  },
+  "Help_info": {
+   "records": 155,
+   "translated": 0
+  },
+  "ITS": {
+   "records": 99,
+   "translated": 0
+  },
+  "KYO": {
+   "records": 181,
+   "translated": 0
+  },
+  "KYO_ADD": {
+   "records": 1,
+   "translated": 0
+  },
+  "LIB_DDMV": {
+   "records": 20,
+   "translated": 0
+  },
+  "LIB_STDS": {
+   "records": 83,
+   "translated": 0
+  },
+  "MGI": {
+   "records": 1032,
+   "translated": 0
+  },
+  "MGN": {
+   "records": 1032,
+   "translated": 0
+  },
+  "MSC": {
+   "records": 59,
+   "translated": 0
+  },
+  "Menu_Add": {
+   "records": 173,
+   "translated": 0
+  },
+  "NPC": {
+   "records": 210,
+   "translated": 0
+  },
+  "OMV": {
+   "records": 39,
+   "translated": 0
+  },
+  "PCN": {
+   "records": 7,
+   "translated": 0
+  },
+  "PII": {
+   "records": 46,
+   "translated": 0
+  },
+  "PIT": {
+   "records": 46,
+   "translated": 0
+  },
+  "POP": {
+   "records": 48,
+   "translated": 0
+  },
+  "PRZ": {
+   "records": 39,
+   "translated": 0
+  },
+  "QMG": {
+   "records": 59,
+   "translated": 0
+  },
+  "SHP": {
+   "records": 176,
+   "translated": 0
+  },
+  "SPS": {
+   "records": 107,
+   "translated": 0
+  },
+  "STD_DATA": {
+   "records": 28,
+   "translated": 0
+  },
+  "STG": {
+   "records": 68,
+   "translated": 0
+  },
+  "SVP": {
+   "records": 110,
+   "translated": 0
+  },
+  "SYS": {
+   "records": 501,
+   "translated": 0
+  },
+  "SaveStoryLine": {
+   "records": 37,
+   "translated": 0
+  },
+  "TDM": {
+   "records": 9,
+   "translated": 0
+  },
+  "Trophy": {
+   "records": 31,
+   "translated": 0
+  },
+  "Trophy_Name": {
+   "records": 31,
+   "translated": 0
+  },
+  "UsefulFunctions": {
+   "records": 21,
+   "translated": 0
+  }
+ }
+}

@@ -1,0 +1,97 @@
+id: sagi
+games: [bk2]
+en_name: Sagi
+jp_name: サギ
+jp_reading: Sagi
+aliases_en: []
+name_tags: ["bk2:KOMOMAI_060", "bk2:STORYOUTLINENAME_76"]
+script_lines: {bk2: 2744}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk2"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Главный герой BK2, юноша 15 лет, с рождения носит в себе духа-хранителя; служит в Dark Service."
+    confidence: confirmed
+    basis: text
+    source: "BOOK_519: «A boy of 15, […].»; HPI_000"
+  - claim: "Часть записей дневника ведёт Sagi (табличка «Sagi's Journal»)."
+    confidence: confirmed
+    basis: data
+    source: "STORYOUTLINENAME_76; STORYOUTLINE_00, STORYOUTLINE_03 (base/evidence/bk2_script_speakers.jsonl)"
+  - claim: "Родом из Hassaleh (деревня Sheratan); скрыл это от Dark Service."
+    confidence: confirmed
+    basis: text
+    source: "EV_0014, EV_0017, EV_1705: «[…].»"
+  - claim: "Мать — Gena."
+    confidence: inferred
+    basis: context
+    source: "EV_3324 (Gena: «He's always been by himself. […]0>.»); письма «Mom» — LETTER_29"
+  - claim: "Японское написание サギ."
+    confidence: confirmed
+    basis: data
+    source: "NPCName_89 (TextData_jp)"
+
+personality:
+  - {trait: "добрый и прямодушный, но ради цели идёт на крайности", confidence: confirmed, source: "BOOK_519"}
+  - {trait: "легко берётся помочь — Milly называет это «wild promises»", confidence: confirmed, source: "EV_0605–EV_0619"}
+speech_style:
+  en: ["Живая разговорная речь подростка: «We blew it.», «Try to think positive!»."]
+  jp: ["Первая персона 僕 (211 реплик); с незнакомыми и старшими — です/ます (EV_0597, EV_0599; к Georg 9 из 13); маркеры, не доказательства."]
+formality: нейтрально
+
+relationships:
+  - with: guillo
+    relation: "напарник; Guillo откопан Sagi в детстве"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "EN по имени, приказной тон («Guillo, time to go.»); JP 行こう、ギロ — простые формы"
+    changes: []
+    source: "EV_0025, BOOK_521"
+  - with: milly
+    relation: "спутница"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP きみ, простые формы"
+    changes: []
+    source: "EV_0039, EV_0619"
+  - with: lolo
+    relation: "мастер, которого просят о ремонте; позже — друг"
+    register_to: ty
+    register_status: approved
+    confidence: confirmed
+    evidence: "решение D-023: «ты» с начала. Справка: JP сначала です/ます (EV_0597, EV_0599), с EV_0605 — простые формы; EN всё время непринуждённо"
+    changes: []
+    source: "EV_0596–EV_0619; D-023"
+  - with: georg
+    relation: "BK2: знакомый изобретатель, старший"
+    register_to: vy
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP です/ます в 9 из 13 реплик к Georg"
+    changes: []
+    source: "base/characters/_evidence/bk2.json"
+  - with: guardian_spirit
+    relation: "дух-хранитель с рождения"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "EV_0010: «You can't be serious, <n0>!»; EV_0018: «We'll be fine, <n0>.»; JP простые формы"
+    changes: []
+    source: "EV_0010, EV_0018, EV_0042"
+
+translation_notes:
+  - "Речь подростка: короткие фразы, разговорные обороты без грубости."
+spoilers: []
+open_questions:
+  - "Обращение к Lolo — решение на пилоте (docs/10_pilot_review.md)."
+  - "Обращение к Gibari (BK2): JP вежливость 5 из 15 — смешанно."
+sources:
+  - {type: game_data, ref: "KOMOMAI_060, NPCName_89, BOOK_519, HPI_000, STORYOUTLINE_128, BOOK_521, EV_0000–EV_0049"}
+status: draft

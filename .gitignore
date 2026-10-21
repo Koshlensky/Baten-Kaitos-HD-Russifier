@@ -1,0 +1,27 @@
+﻿# Окружение и кэши
+.venv/
+__pycache__/
+*.pyc
+
+# Локальные данные, создаваемые инструментами (в них оригинальные ресурсы и тексты игры — не публиковать)
+source/
+work/
+backups/
+exports/
+dist/
+reports/
+runs/
+
+# Ресурсы игры и любые бинарные файлы сборки
+*.bundle
+*.resS
+*.dll
+*.exe
+*.zip
+*.7z
+tools/third_party/*
+!tools/third_party/README.md
+
+# Локальные пути и журналы
+*.log
+.env

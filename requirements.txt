@@ -1,0 +1,15 @@
+﻿# Python 3.12, Windows 10/11 (для графики нужны шрифты Windows и Office, см. BUILDING.md)
+UnityPy==1.25.3
+fonttools==4.65.0
+PyYAML==6.0.2
+pillow==12.3.0
+numpy==2.1.1
+opencv-python-headless==5.0.0.93
+texture2ddecoder==1.0.6
+zstandard==0.25.0
+pyinstaller==6.22.3
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+openpyxl==3.1.5
+# только для разбора скриптов игры (tools/re), для сборки не нужен
+capstone==5.0.9

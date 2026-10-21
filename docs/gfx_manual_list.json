@@ -1,0 +1,455 @@
+{
+ "bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+ "items": [
+  {
+   "sprite": "BTK1_BattleResult_Frame01__UC",
+   "english": "OFFENSE",
+   "russian": "АТАКА",
+   "note": "табличка из камня: текст в рельефе, нужен новый рельеф на фактуре",
+   "size": [
+    608,
+    393
+   ],
+   "atlas_rect": [
+    1550.076,
+    1204.076,
+    607.848,
+    392.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_Frame02__UC",
+   "english": "DEFENSE",
+   "russian": "ЗАЩИТА",
+   "note": "то же",
+   "size": [
+    608,
+    393
+   ],
+   "atlas_rect": [
+    3208.076,
+    1085.076,
+    607.848,
+    392.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_Frame03__UC",
+   "english": "RESULTS",
+   "russian": "РЕЗУЛЬТАТЫ",
+   "note": "то же; 10 букв, возможно потребуется сжать буквы по горизонтали",
+   "size": [
+    609,
+    393
+   ],
+   "atlas_rect": [
+    3208.076,
+    688.076,
+    608.848,
+    392.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_FinalWord__UC",
+   "english": "FINAL RESULTS",
+   "russian": "ИТОГИ БОЯ",
+   "note": "белый курсив с серым объёмом",
+   "size": [
+    694,
+    114
+   ],
+   "atlas_rect": [
+    1485.048,
+    5555.027,
+    693.876,
+    113.93
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_FinalDamageWord__UC",
+   "english": "DAMAGE",
+   "russian": "УРОН",
+   "note": "белые буквы с серой обводкой",
+   "size": [
+    198,
+    40
+   ],
+   "atlas_rect": [
+    6453.076,
+    7730.0,
+    197.924,
+    40.0
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_FinalRecoverWord__UC",
+   "english": "RECOVER",
+   "russian": "ВОССТАНОВЛЕНО ОЗ",
+   "note": "зелёный градиент с обводкой; 216×40 — текст придётся сжать, возможен вариант «ВОССТ. ОЗ»",
+   "size": [
+    216,
+    40
+   ],
+   "atlas_rect": [
+    7334.076,
+    7581.0,
+    215.897,
+    40.0
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PRIZE__UC",
+   "english": "PRIZE",
+   "russian": "ПРИЗ",
+   "note": "золотые буквы на свитке",
+   "size": [
+    398,
+    109
+   ],
+   "atlas_rect": [
+    0.076,
+    7458.027,
+    397.897,
+    108.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_SPCOMBO__UC",
+   "english": "SP COMBO",
+   "russian": "СПЕЦКОМБО",
+   "note": "белые буквы с чёрной обводкой на свитке",
+   "size": [
+    398,
+    113
+   ],
+   "atlas_rect": [
+    2397.076,
+    5863.027,
+    397.897,
+    112.947
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_ComboMAX__UC",
+   "english": "COMBO MAX",
+   "russian": "КОМБО МАКС",
+   "note": "красно-белый курсив",
+   "size": [
+    170,
+    90
+   ],
+   "atlas_rect": [
+    7407.027,
+    5946.076,
+    169.93,
+    89.848
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_NEXT__UC",
+   "english": "NEXT",
+   "russian": "ДАЛЕЕ",
+   "note": "красно-белый курсив",
+   "size": [
+    116,
+    51
+   ],
+   "atlas_rect": [
+    7493.043,
+    7260.076,
+    115.921,
+    50.873
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_MagWord_Attack__UC",
+   "english": "Attack",
+   "russian": "Атака",
+   "note": "красный градиент",
+   "size": [
+    200,
+    64
+   ],
+   "atlas_rect": [
+    7356.0,
+    6764.043,
+    200.0,
+    63.93
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_MagWord_Guard__UC",
+   "english": "Guard",
+   "russian": "Защита",
+   "note": "синий градиент",
+   "size": [
+    172,
+    62
+   ],
+   "atlas_rect": [
+    7232.027,
+    7430.051,
+    171.947,
+    61.873
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_MagWord_GuardEne__UC",
+   "english": "Guard (enemy)",
+   "russian": "Защита",
+   "note": "тёмно-синий вариант",
+   "size": [
+    140,
+    51
+   ],
+   "atlas_rect": [
+    1888.027,
+    7978.076,
+    139.942,
+    50.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_ResultFrame_Hit__UC",
+   "english": "Hit",
+   "russian": "Удар",
+   "note": "оранжевое свечение",
+   "size": [
+    85,
+    57
+   ],
+   "atlas_rect": [
+    7453.034,
+    7002.076,
+    84.94,
+    56.848
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_ResultFrame_Hits__UC",
+   "english": "Hits",
+   "russian": "Удары",
+   "note": "то же",
+   "size": [
+    104,
+    57
+   ],
+   "atlas_rect": [
+    7624.034,
+    5337.076,
+    103.89,
+    56.848
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_ResultFrame_Guard__UC",
+   "english": "Guard",
+   "russian": "Защита",
+   "note": "то же",
+   "size": [
+    155,
+    60
+   ],
+   "atlas_rect": [
+    4004.0,
+    8064.076,
+    154.969,
+    59.848
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_Battle_ResultFrame_Guards__UC",
+   "english": "Guards",
+   "russian": "Защиты",
+   "note": "то же",
+   "size": [
+    168,
+    60
+   ],
+   "atlas_rect": [
+    6453.0,
+    7666.076,
+    167.957,
+    59.848
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord01__UC",
+   "english": "Cards",
+   "russian": "нужен термин",
+   "note": "золотая подпись комбинации призов",
+   "size": [
+    84,
+    31
+   ],
+   "atlas_rect": [
+    7738.027,
+    5637.027,
+    83.947,
+    30.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord02__UC",
+   "english": "Cards   Pairs",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    194,
+    31
+   ],
+   "atlas_rect": [
+    6009.027,
+    7819.027,
+    193.947,
+    30.897
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord03__UC",
+   "english": "Cards with 9",
+   "russian": "нужен термин",
+   "note": "то же; цифра 9 — часть спрайта",
+   "size": [
+    182,
+    40
+   ],
+   "atlas_rect": [
+    5823.027,
+    7814.013,
+    181.947,
+    39.96
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord04__UC",
+   "english": "Straight",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    111,
+    35
+   ],
+   "atlas_rect": [
+    6273.027,
+    7819.0,
+    110.897,
+    34.949
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord05__UC",
+   "english": "Straight with 9",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    212,
+    44
+   ],
+   "atlas_rect": [
+    7509.027,
+    6268.0,
+    211.947,
+    43.973
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord06__UC",
+   "english": "Voice",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    84,
+    38
+   ],
+   "atlas_rect": [
+    7872.076,
+    4147.051,
+    83.848,
+    37.873
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord07__UC",
+   "english": "Final Straight Sunset",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    294,
+    43
+   ],
+   "atlas_rect": [
+    6453.076,
+    7619.0,
+    293.848,
+    42.924
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  },
+  {
+   "sprite": "BTK1_BattleResult_PrizeWord08__UC",
+   "english": "Final Straight Sunrise",
+   "russian": "нужен термин",
+   "note": "то же",
+   "size": [
+    304,
+    43
+   ],
+   "atlas_rect": [
+    6620.076,
+    7551.0,
+    303.897,
+    42.924
+   ],
+   "atlas_bundle": "b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "mode": "RGBA PNG, размер не менять, альфа сохранить"
+  }
+ ]
+}

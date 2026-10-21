@@ -1,0 +1,45 @@
+id: ladekahn
+games: [bk1, bk2]
+en_name: Ladekahn
+name_tags: ["bk1:NPC_098"]
+
+ru_name: {status: proposed, value: Ладекан, forms: {}}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: confirmed
+pronouns_ru: он
+
+formality: торжественно-сдержанно
+
+speech_style:
+  en: ["Король Диадемы; сдержанная, достойная речь без архаизации."]
+
+relationships:
+  - with: gibari
+    relation: "BK1: давний знакомый, Гибари — рыцарь Диадемы"
+    register_to: ty
+    register_status: approved
+    confidence: owner_decision
+    evidence: "FR tu (Tu es arrivé juste à temps, une faveur à te demander); решение владельца D-034"
+    changes: []
+  - with: xelha
+    relation: "BK1: гостья, спутница Гибари"
+    register_to: vy
+    register_status: approved
+    confidence: owner_decision
+    evidence: "решение владельца D-034"
+    changes: []
+  - with: lyude
+    relation: "BK1: гость, бывший имперский"
+    register_to: vy
+    register_status: approved
+    confidence: owner_decision
+    evidence: "решение владельца D-034"
+    changes: []
+translation_notes: ["В списках говорящих — NPC_098 (король Диадемы). К королю обращаются «государь» (My Lord) и «Ваше Величество» (Your Majesty)."]
+spoilers: []
+open_questions: []
+sources:
+  - {type: owner_decision, ref: "D-034"}
+status: draft

@@ -1,0 +1,87 @@
+id: guardian_spirit
+games: [bk1, bk2]
+en_name: Guardian Spirit
+jp_name: 精霊
+jp_reading: seirei
+aliases_en: ["<n0> (имя, введённое игроком)", "$$NAME_PLAYER$$", "spirit"]
+name_tags: []
+script_lines: {}
+
+ru_name:
+  status: pending
+  value: null
+  forms: {}
+  options_ref: "disputes.md#guardian-spirit"
+
+sex: player_defined
+grammatical_gender: unknown
+grammatical_gender_status: proposed
+pronouns_ru: "без местоимений и форм рода в обращениях (D-002); реплики самого духа — варианты по роду (D-003)"
+
+facts:
+  - claim: "Игрок — дух-хранитель главного героя; персонажи обращаются к нему по имени <n0>."
+    confidence: confirmed
+    basis: text
+    source: "Help_info_013 (bk1): «you, the Guardian Spirit»; SYS_0088 (bk1)"
+  - claim: "Английский текст BK2 говорит о духе в единственном числе «they» — нейтрально."
+    confidence: confirmed
+    basis: text
+    source: "EV_0035: «<[…].»; EV_0037: «[…].»"
+  - claim: "BK1 спрашивает пол духа на экране ввода имени, но только для языков jp, kr, tc, sc."
+    confidence: confirmed
+    basis: data
+    source: "SYS_0227 «Please select your gender.»; TextManager.isEnabledSelectGender() — docs/03b_re_spike_report.md"
+  - claim: "В BK1 154 меню выбора имеют варианты _0 (в японском женская речь) и _1 (мужская); английский текст вариантов одинаков."
+    confidence: confirmed
+    basis: data
+    source: "docs/03b_re_spike_report.md; base/matrix: variant.kind = spirit_gender; пример SCR_CEB01_6_10707_0/_1 (なんでもないわ / なんでもないよ)"
+  - claim: "В функцию меню BK1 передаются оба варианта; какой показать, решается во время игры."
+    confidence: confirmed
+    basis: data
+    source: "docs/03d_re_stage_a_report.md (вызов с двумя ресурсами _0 и _1)"
+  - claim: "В BK2 меню выбора тоже идут парами строк с одинаковым английским (EV_0006/EV_0007, EV_0015/EV_0016, EV_0043/EV_0044, EV_0046/EV_0047); японские варианты различаются мужской и женской или простой и вежливой речью."
+    confidence: inferred
+    basis: jp_marker
+    source: "EV_0015 そうだね / EV_0016 そうね; EV_0046 なんか気に入らない / EV_0047 なんか気に入らないわ; EV_0043 ほんとだよ / EV_0044 ほんとです"
+  - claim: "Реплики, обращённые к духу, встречаются часто: <n0> в 293 строках BK1 и 411 строках BK2."
+    confidence: confirmed
+    basis: data
+    source: "docs/02_text_inventory.md"
+
+personality: []
+speech_style:
+  en: ["Говорит только через меню выбора."]
+  jp: ["BK1: в _0 — женская речь (そうね, わ, かしら), в _1 — мужская (さ, な, よ). BK2: пары с теми же различиями или простая/вежливая речь."]
+formality: unknown
+
+relationships:
+  - with: kalas
+    relation: "дух-хранитель Kalas (bk1)"
+    register_to: unknown
+    register_status: proposed
+    confidence: inferred
+    evidence: "реплики меню обращены к Kalas по-дружески; в японском _0/_1 — простые формы"
+    changes: []
+    source: "SCR_CEB01_6_10707_0, SCR_CEB01_6_10707_1"
+  - with: sagi
+    relation: "дух-хранитель Sagi (bk2)"
+    register_to: unknown
+    register_status: proposed
+    confidence: inferred
+    evidence: "в парах BK2 один из вариантов вежливый (EV_0044 ほんとです)"
+    changes: []
+    source: "STORYOUTLINE_03 (bk2): «It never mattered to me […].»"
+
+translation_notes:
+  - "D-002: обращения к духу — без форм рода: «Тебя что-то беспокоит?», «<n0>, что скажешь?»; не «Ты устал?», «Ты готова?»."
+  - "О духе в третьем лице (EV_0035, EV_0037) — без местоимения и без лишних подстановок (<n0> только там, где он есть в оригинале): «Есть ещё кое-кто. <n0>. Живёт у меня в сердце», «Голос слышу только я, но там точно кто-то есть»."
+  - "D-003: варианты _0/_1 переводятся оба; если по-русски реплика нейтральна, тексты вариантов совпадают («Ничего.»), если нет — _0 женский, _1 мужской род («Встречала.» / «Встречал.»)."
+  - "Тег <n0> сохраняется; русское окружение не должно требовать падежа имени (имя вводит игрок)."
+spoilers: []
+open_questions:
+  - "Какой вариант (_0 или _1) показывается в русском слоте, где выбор пола выключен (D-003, проверка в игре на пилоте)?"
+  - "BK2: варианты пар EV — это пол духа, вежливость или и то и другое? Какой вариант показывает английская версия?"
+  - "Обращается ли дух к героям на «ты» (BK2: вежливый вариант EV_0044)?"
+sources:
+  - {type: game_data, ref: "source/bk1/lines.jsonl, source/bk2/lines.jsonl, docs/03b_re_spike_report.md, docs/03d_re_stage_a_report.md"}
+status: draft

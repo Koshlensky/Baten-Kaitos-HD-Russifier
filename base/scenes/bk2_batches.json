@@ -1,0 +1,3677 @@
+{
+ "game": "bk2",
+ "min": 40,
+ "max": 150,
+ "batches": [
+  {
+   "batch_id": "bk2:B0000",
+   "scene_ids": [
+    "bk2:EV#000"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 62,
+   "words": 668
+  },
+  {
+   "batch_id": "bk2:B0001",
+   "scene_ids": [
+    "bk2:EV#001"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 58,
+   "words": 636
+  },
+  {
+   "batch_id": "bk2:B0002",
+   "scene_ids": [
+    "bk2:EV#002"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 733
+  },
+  {
+   "batch_id": "bk2:B0003",
+   "scene_ids": [
+    "bk2:EV#003"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 58,
+   "words": 694
+  },
+  {
+   "batch_id": "bk2:B0004",
+   "scene_ids": [
+    "bk2:EV#004"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 61,
+   "words": 928
+  },
+  {
+   "batch_id": "bk2:B0005",
+   "scene_ids": [
+    "bk2:EV#005"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 62,
+   "words": 635
+  },
+  {
+   "batch_id": "bk2:B0006",
+   "scene_ids": [
+    "bk2:EV#006"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 68,
+   "words": 699
+  },
+  {
+   "batch_id": "bk2:B0007",
+   "scene_ids": [
+    "bk2:EV#007"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 57,
+   "words": 487
+  },
+  {
+   "batch_id": "bk2:B0008",
+   "scene_ids": [
+    "bk2:EV#008"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 77,
+   "words": 762
+  },
+  {
+   "batch_id": "bk2:B0009",
+   "scene_ids": [
+    "bk2:EV#009"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 61,
+   "words": 758
+  },
+  {
+   "batch_id": "bk2:B0010",
+   "scene_ids": [
+    "bk2:EV#010"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 591
+  },
+  {
+   "batch_id": "bk2:B0011",
+   "scene_ids": [
+    "bk2:EV#011"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 64,
+   "words": 650
+  },
+  {
+   "batch_id": "bk2:B0012",
+   "scene_ids": [
+    "bk2:EV#012"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 689
+  },
+  {
+   "batch_id": "bk2:B0013",
+   "scene_ids": [
+    "bk2:EV#013"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 646
+  },
+  {
+   "batch_id": "bk2:B0014",
+   "scene_ids": [
+    "bk2:EV#014"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 56,
+   "words": 474
+  },
+  {
+   "batch_id": "bk2:B0015",
+   "scene_ids": [
+    "bk2:EV#015"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 58,
+   "words": 608
+  },
+  {
+   "batch_id": "bk2:B0016",
+   "scene_ids": [
+    "bk2:EV#016"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 659
+  },
+  {
+   "batch_id": "bk2:B0017",
+   "scene_ids": [
+    "bk2:EV#017"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 718
+  },
+  {
+   "batch_id": "bk2:B0018",
+   "scene_ids": [
+    "bk2:EV#018"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 82,
+   "words": 936
+  },
+  {
+   "batch_id": "bk2:B0019",
+   "scene_ids": [
+    "bk2:EV#019"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 618
+  },
+  {
+   "batch_id": "bk2:B0020",
+   "scene_ids": [
+    "bk2:EV#020"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 67,
+   "words": 889
+  },
+  {
+   "batch_id": "bk2:B0021",
+   "scene_ids": [
+    "bk2:EV#021"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 51,
+   "words": 636
+  },
+  {
+   "batch_id": "bk2:B0022",
+   "scene_ids": [
+    "bk2:EV#022"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 683
+  },
+  {
+   "batch_id": "bk2:B0023",
+   "scene_ids": [
+    "bk2:EV#023"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 53,
+   "words": 673
+  },
+  {
+   "batch_id": "bk2:B0024",
+   "scene_ids": [
+    "bk2:EV#024"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 49,
+   "words": 588
+  },
+  {
+   "batch_id": "bk2:B0025",
+   "scene_ids": [
+    "bk2:EV#025"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 61,
+   "words": 777
+  },
+  {
+   "batch_id": "bk2:B0026",
+   "scene_ids": [
+    "bk2:EV#026"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 619
+  },
+  {
+   "batch_id": "bk2:B0027",
+   "scene_ids": [
+    "bk2:EV#027"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 877
+  },
+  {
+   "batch_id": "bk2:B0028",
+   "scene_ids": [
+    "bk2:EV#028"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 64,
+   "words": 653
+  },
+  {
+   "batch_id": "bk2:B0029",
+   "scene_ids": [
+    "bk2:EV#029"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 677
+  },
+  {
+   "batch_id": "bk2:B0030",
+   "scene_ids": [
+    "bk2:EV#030"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 601
+  },
+  {
+   "batch_id": "bk2:B0031",
+   "scene_ids": [
+    "bk2:EV#031"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 57,
+   "words": 611
+  },
+  {
+   "batch_id": "bk2:B0032",
+   "scene_ids": [
+    "bk2:EV#032"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 45,
+   "words": 534
+  },
+  {
+   "batch_id": "bk2:B0033",
+   "scene_ids": [
+    "bk2:EV#033"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 817
+  },
+  {
+   "batch_id": "bk2:B0034",
+   "scene_ids": [
+    "bk2:EV#034"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 64,
+   "words": 807
+  },
+  {
+   "batch_id": "bk2:B0035",
+   "scene_ids": [
+    "bk2:EV#035"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 807
+  },
+  {
+   "batch_id": "bk2:B0036",
+   "scene_ids": [
+    "bk2:EV#036"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 899
+  },
+  {
+   "batch_id": "bk2:B0037",
+   "scene_ids": [
+    "bk2:EV#037"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1131
+  },
+  {
+   "batch_id": "bk2:B0038",
+   "scene_ids": [
+    "bk2:EV#038"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 73,
+   "words": 911
+  },
+  {
+   "batch_id": "bk2:B0039",
+   "scene_ids": [
+    "bk2:EV#039"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 80,
+   "words": 927
+  },
+  {
+   "batch_id": "bk2:B0040",
+   "scene_ids": [
+    "bk2:EV#040"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 57,
+   "words": 542
+  },
+  {
+   "batch_id": "bk2:B0041",
+   "scene_ids": [
+    "bk2:EV#041"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 58,
+   "words": 539
+  },
+  {
+   "batch_id": "bk2:B0042",
+   "scene_ids": [
+    "bk2:EV#042"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 72,
+   "words": 862
+  },
+  {
+   "batch_id": "bk2:B0043",
+   "scene_ids": [
+    "bk2:EV#043"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 47,
+   "words": 696
+  },
+  {
+   "batch_id": "bk2:B0044",
+   "scene_ids": [
+    "bk2:EV#044"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 62,
+   "words": 922
+  },
+  {
+   "batch_id": "bk2:B0045",
+   "scene_ids": [
+    "bk2:EV#045"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 65,
+   "words": 723
+  },
+  {
+   "batch_id": "bk2:B0046",
+   "scene_ids": [
+    "bk2:EV#046"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 81,
+   "words": 945
+  },
+  {
+   "batch_id": "bk2:B0047",
+   "scene_ids": [
+    "bk2:EV#047"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 505
+  },
+  {
+   "batch_id": "bk2:B0048",
+   "scene_ids": [
+    "bk2:EV#048"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 488
+  },
+  {
+   "batch_id": "bk2:B0049",
+   "scene_ids": [
+    "bk2:EV#049"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 59,
+   "words": 681
+  },
+  {
+   "batch_id": "bk2:B0050",
+   "scene_ids": [
+    "bk2:EV#050"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 714
+  },
+  {
+   "batch_id": "bk2:B0051",
+   "scene_ids": [
+    "bk2:EV#051"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 62,
+   "words": 731
+  },
+  {
+   "batch_id": "bk2:B0052",
+   "scene_ids": [
+    "bk2:EV#052"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 582
+  },
+  {
+   "batch_id": "bk2:B0053",
+   "scene_ids": [
+    "bk2:EV#053"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 54,
+   "words": 574
+  },
+  {
+   "batch_id": "bk2:B0054",
+   "scene_ids": [
+    "bk2:EV#054"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 61,
+   "words": 621
+  },
+  {
+   "batch_id": "bk2:B0055",
+   "scene_ids": [
+    "bk2:EV#055"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 811
+  },
+  {
+   "batch_id": "bk2:B0056",
+   "scene_ids": [
+    "bk2:EV#056"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 789
+  },
+  {
+   "batch_id": "bk2:B0057",
+   "scene_ids": [
+    "bk2:EV#057"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 689
+  },
+  {
+   "batch_id": "bk2:B0058",
+   "scene_ids": [
+    "bk2:EV#058"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 807
+  },
+  {
+   "batch_id": "bk2:B0059",
+   "scene_ids": [
+    "bk2:EV#059"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 61,
+   "words": 627
+  },
+  {
+   "batch_id": "bk2:B0060",
+   "scene_ids": [
+    "bk2:EV#060"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 57,
+   "words": 660
+  },
+  {
+   "batch_id": "bk2:B0061",
+   "scene_ids": [
+    "bk2:EV#061"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 63,
+   "words": 627
+  },
+  {
+   "batch_id": "bk2:B0062",
+   "scene_ids": [
+    "bk2:EV#062"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 50,
+   "words": 533
+  },
+  {
+   "batch_id": "bk2:B0063",
+   "scene_ids": [
+    "bk2:EV#063"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 546
+  },
+  {
+   "batch_id": "bk2:B0064",
+   "scene_ids": [
+    "bk2:EV#064"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 72,
+   "words": 718
+  },
+  {
+   "batch_id": "bk2:B0065",
+   "scene_ids": [
+    "bk2:EV#065"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 634
+  },
+  {
+   "batch_id": "bk2:B0066",
+   "scene_ids": [
+    "bk2:EV#066"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 633
+  },
+  {
+   "batch_id": "bk2:B0067",
+   "scene_ids": [
+    "bk2:EV#067"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 555
+  },
+  {
+   "batch_id": "bk2:B0068",
+   "scene_ids": [
+    "bk2:EV#068"
+   ],
+   "kind": "event_block",
+   "category": "dialogue",
+   "count": 69,
+   "words": 760
+  },
+  {
+   "batch_id": "bk2:B0069",
+   "scene_ids": [
+    "bk2:HPI#00"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 150,
+   "words": 2588
+  },
+  {
+   "batch_id": "bk2:B0070",
+   "scene_ids": [
+    "bk2:HPI#01"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 75,
+   "words": 614
+  },
+  {
+   "batch_id": "bk2:B0071",
+   "scene_ids": [
+    "bk2:HPN#00"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 102,
+   "words": 203
+  },
+  {
+   "batch_id": "bk2:B0072",
+   "scene_ids": [
+    "bk2:MEA#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 138,
+   "words": 468
+  },
+  {
+   "batch_id": "bk2:B0073",
+   "scene_ids": [
+    "bk2:UsefulFunctions#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 22,
+   "words": 79
+  },
+  {
+   "batch_id": "bk2:B0074",
+   "scene_ids": [
+    "bk2:ANG#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 26,
+   "words": 167
+  },
+  {
+   "batch_id": "bk2:B0075",
+   "scene_ids": [
+    "bk2:POP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 49,
+   "words": 119
+  },
+  {
+   "batch_id": "bk2:B0076",
+   "scene_ids": [
+    "bk2:TRP#00"
+   ],
+   "kind": "set",
+   "category": "trophy",
+   "count": 29,
+   "words": 126
+  },
+  {
+   "batch_id": "bk2:B0077",
+   "scene_ids": [
+    "bk2:TRN#00"
+   ],
+   "kind": "set",
+   "category": "trophy",
+   "count": 29,
+   "words": 78
+  },
+  {
+   "batch_id": "bk2:B0078",
+   "scene_ids": [
+    "bk2:STN#00"
+   ],
+   "kind": "set",
+   "category": "location_name",
+   "count": 59,
+   "words": 180
+  },
+  {
+   "batch_id": "bk2:B0079",
+   "scene_ids": [
+    "bk2:GRP_BTL#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 31,
+   "words": 48
+  },
+  {
+   "batch_id": "bk2:B0080",
+   "scene_ids": [
+    "bk2:GRP_CNP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 18,
+   "words": 27
+  },
+  {
+   "batch_id": "bk2:B0081",
+   "scene_ids": [
+    "bk2:AIRHOLE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 19,
+   "words": 208
+  },
+  {
+   "batch_id": "bk2:B0082",
+   "scene_ids": [
+    "bk2:ALGORAB#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1181
+  },
+  {
+   "batch_id": "bk2:B0083",
+   "scene_ids": [
+    "bk2:ALGORAB#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 24,
+   "words": 339
+  },
+  {
+   "batch_id": "bk2:B0084",
+   "scene_ids": [
+    "bk2:ATRIA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 34,
+   "words": 292
+  },
+  {
+   "batch_id": "bk2:B0085",
+   "scene_ids": [
+    "bk2:AZHA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1313
+  },
+  {
+   "batch_id": "bk2:B0086",
+   "scene_ids": [
+    "bk2:AZHA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 367
+  },
+  {
+   "batch_id": "bk2:B0087",
+   "scene_ids": [
+    "bk2:AZHA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1124
+  },
+  {
+   "batch_id": "bk2:B0088",
+   "scene_ids": [
+    "bk2:AZHA#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 850
+  },
+  {
+   "batch_id": "bk2:B0089",
+   "scene_ids": [
+    "bk2:AZHA#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 962
+  },
+  {
+   "batch_id": "bk2:B0090",
+   "scene_ids": [
+    "bk2:AZHA#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1284
+  },
+  {
+   "batch_id": "bk2:B0091",
+   "scene_ids": [
+    "bk2:AZHA#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1165
+  },
+  {
+   "batch_id": "bk2:B0092",
+   "scene_ids": [
+    "bk2:AZHA#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1151
+  },
+  {
+   "batch_id": "bk2:B0093",
+   "scene_ids": [
+    "bk2:AZHA#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1182
+  },
+  {
+   "batch_id": "bk2:B0094",
+   "scene_ids": [
+    "bk2:AZHA#09"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 13,
+   "words": 205
+  },
+  {
+   "batch_id": "bk2:B0095",
+   "scene_ids": [
+    "bk2:BAELHEIT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1126
+  },
+  {
+   "batch_id": "bk2:B0096",
+   "scene_ids": [
+    "bk2:BAELHEIT#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 28,
+   "words": 302
+  },
+  {
+   "batch_id": "bk2:B0097",
+   "scene_ids": [
+    "bk2:BIGTREE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 46,
+   "words": 599
+  },
+  {
+   "batch_id": "bk2:B0098",
+   "scene_ids": [
+    "bk2:CEBALRAI#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1315
+  },
+  {
+   "batch_id": "bk2:B0099",
+   "scene_ids": [
+    "bk2:CEBALRAI#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1285
+  },
+  {
+   "batch_id": "bk2:B0100",
+   "scene_ids": [
+    "bk2:CEBALRAI#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1002
+  },
+  {
+   "batch_id": "bk2:B0101",
+   "scene_ids": [
+    "bk2:CEBALRAI#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 7,
+   "words": 173
+  },
+  {
+   "batch_id": "bk2:B0102",
+   "scene_ids": [
+    "bk2:CHURCH#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1198
+  },
+  {
+   "batch_id": "bk2:B0103",
+   "scene_ids": [
+    "bk2:CHURCH#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 22,
+   "words": 314
+  },
+  {
+   "batch_id": "bk2:B0104",
+   "scene_ids": [
+    "bk2:COLOSSEUM#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1262
+  },
+  {
+   "batch_id": "bk2:B0105",
+   "scene_ids": [
+    "bk2:COLOSSEUM#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 878
+  },
+  {
+   "batch_id": "bk2:B0106",
+   "scene_ids": [
+    "bk2:COLOSSEUM#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 890
+  },
+  {
+   "batch_id": "bk2:B0107",
+   "scene_ids": [
+    "bk2:COLOSSEUM#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1250
+  },
+  {
+   "batch_id": "bk2:B0108",
+   "scene_ids": [
+    "bk2:COLOSSEUM#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 573
+  },
+  {
+   "batch_id": "bk2:B0109",
+   "scene_ids": [
+    "bk2:COLOSSEUM#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1174
+  },
+  {
+   "batch_id": "bk2:B0110",
+   "scene_ids": [
+    "bk2:COLOSSEUM#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 688
+  },
+  {
+   "batch_id": "bk2:B0111",
+   "scene_ids": [
+    "bk2:COLOSSEUM#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 31,
+   "words": 225
+  },
+  {
+   "batch_id": "bk2:B0112",
+   "scene_ids": [
+    "bk2:CUJAM#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 959
+  },
+  {
+   "batch_id": "bk2:B0113",
+   "scene_ids": [
+    "bk2:CUJAM#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 892
+  },
+  {
+   "batch_id": "bk2:B0114",
+   "scene_ids": [
+    "bk2:CUJAM#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 51,
+   "words": 640
+  },
+  {
+   "batch_id": "bk2:B0115",
+   "scene_ids": [
+    "bk2:ELNATH#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1231
+  },
+  {
+   "batch_id": "bk2:B0116",
+   "scene_ids": [
+    "bk2:ELNATH#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 821
+  },
+  {
+   "batch_id": "bk2:B0117",
+   "scene_ids": [
+    "bk2:ELNATH#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 812
+  },
+  {
+   "batch_id": "bk2:B0118",
+   "scene_ids": [
+    "bk2:ELNATH#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 40,
+   "words": 640
+  },
+  {
+   "batch_id": "bk2:B0119",
+   "scene_ids": [
+    "bk2:F_CAVE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1008
+  },
+  {
+   "batch_id": "bk2:B0120",
+   "scene_ids": [
+    "bk2:F_CAVE#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1258
+  },
+  {
+   "batch_id": "bk2:B0121",
+   "scene_ids": [
+    "bk2:F_CAVE#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1121
+  },
+  {
+   "batch_id": "bk2:B0122",
+   "scene_ids": [
+    "bk2:F_CAVE#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 17,
+   "words": 369
+  },
+  {
+   "batch_id": "bk2:B0123",
+   "scene_ids": [
+    "bk2:F_VILLAGE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1552
+  },
+  {
+   "batch_id": "bk2:B0124",
+   "scene_ids": [
+    "bk2:F_VILLAGE#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 55,
+   "words": 1086
+  },
+  {
+   "batch_id": "bk2:B0125",
+   "scene_ids": [
+    "bk2:GEMMA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1422
+  },
+  {
+   "batch_id": "bk2:B0126",
+   "scene_ids": [
+    "bk2:GEMMA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 849
+  },
+  {
+   "batch_id": "bk2:B0127",
+   "scene_ids": [
+    "bk2:GEMMA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 14,
+   "words": 132
+  },
+  {
+   "batch_id": "bk2:B0128",
+   "scene_ids": [
+    "bk2:HARBOR_D#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 4,
+   "words": 52
+  },
+  {
+   "batch_id": "bk2:B0129",
+   "scene_ids": [
+    "bk2:HARBOR_H#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1091
+  },
+  {
+   "batch_id": "bk2:B0130",
+   "scene_ids": [
+    "bk2:HARBOR_H#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 1,
+   "words": 7
+  },
+  {
+   "batch_id": "bk2:B0131",
+   "scene_ids": [
+    "bk2:HOLOHOLO#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 624
+  },
+  {
+   "batch_id": "bk2:B0132",
+   "scene_ids": [
+    "bk2:HOLOHOLO#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 23,
+   "words": 564
+  },
+  {
+   "batch_id": "bk2:B0133",
+   "scene_ids": [
+    "bk2:HQ#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 803
+  },
+  {
+   "batch_id": "bk2:B0134",
+   "scene_ids": [
+    "bk2:HQ#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 676
+  },
+  {
+   "batch_id": "bk2:B0135",
+   "scene_ids": [
+    "bk2:HQ#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 606
+  },
+  {
+   "batch_id": "bk2:B0136",
+   "scene_ids": [
+    "bk2:HQ#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 786
+  },
+  {
+   "batch_id": "bk2:B0137",
+   "scene_ids": [
+    "bk2:HQ#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 852
+  },
+  {
+   "batch_id": "bk2:B0138",
+   "scene_ids": [
+    "bk2:HQ#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 739
+  },
+  {
+   "batch_id": "bk2:B0139",
+   "scene_ids": [
+    "bk2:HQ#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 680
+  },
+  {
+   "batch_id": "bk2:B0140",
+   "scene_ids": [
+    "bk2:HQ#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 594
+  },
+  {
+   "batch_id": "bk2:B0141",
+   "scene_ids": [
+    "bk2:HQ#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 7,
+   "words": 70
+  },
+  {
+   "batch_id": "bk2:B0142",
+   "scene_ids": [
+    "bk2:IBARA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1078
+  },
+  {
+   "batch_id": "bk2:B0143",
+   "scene_ids": [
+    "bk2:IBARA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 5,
+   "words": 32
+  },
+  {
+   "batch_id": "bk2:B0144",
+   "scene_ids": [
+    "bk2:IMPERIAL#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 953
+  },
+  {
+   "batch_id": "bk2:B0145",
+   "scene_ids": [
+    "bk2:IMPERIAL#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 792
+  },
+  {
+   "batch_id": "bk2:B0146",
+   "scene_ids": [
+    "bk2:IMPERIAL#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 43,
+   "words": 622
+  },
+  {
+   "batch_id": "bk2:B0147",
+   "scene_ids": [
+    "bk2:KOMOMAI#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1334
+  },
+  {
+   "batch_id": "bk2:B0148",
+   "scene_ids": [
+    "bk2:KOMOMAI#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1444
+  },
+  {
+   "batch_id": "bk2:B0149",
+   "scene_ids": [
+    "bk2:KOMOMAI#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1280
+  },
+  {
+   "batch_id": "bk2:B0150",
+   "scene_ids": [
+    "bk2:KOMOMAI#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1243
+  },
+  {
+   "batch_id": "bk2:B0151",
+   "scene_ids": [
+    "bk2:KOMOMAI#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 959
+  },
+  {
+   "batch_id": "bk2:B0152",
+   "scene_ids": [
+    "bk2:KOMOMAI#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1330
+  },
+  {
+   "batch_id": "bk2:B0153",
+   "scene_ids": [
+    "bk2:KOMOMAI#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1481
+  },
+  {
+   "batch_id": "bk2:B0154",
+   "scene_ids": [
+    "bk2:KOMOMAI#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 971
+  },
+  {
+   "batch_id": "bk2:B0155",
+   "scene_ids": [
+    "bk2:KOMOMAI#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1461
+  },
+  {
+   "batch_id": "bk2:B0156",
+   "scene_ids": [
+    "bk2:KOMOMAI#09"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1098
+  },
+  {
+   "batch_id": "bk2:B0157",
+   "scene_ids": [
+    "bk2:KOMOMAI#10"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 45,
+   "words": 649
+  },
+  {
+   "batch_id": "bk2:B0158",
+   "scene_ids": [
+    "bk2:LIBRARY#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 10,
+   "words": 277
+  },
+  {
+   "batch_id": "bk2:B0159",
+   "scene_ids": [
+    "bk2:LORD#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1085
+  },
+  {
+   "batch_id": "bk2:B0160",
+   "scene_ids": [
+    "bk2:LORD#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 853
+  },
+  {
+   "batch_id": "bk2:B0161",
+   "scene_ids": [
+    "bk2:LORD#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 48,
+   "words": 905
+  },
+  {
+   "batch_id": "bk2:B0162",
+   "scene_ids": [
+    "bk2:MATAR#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 29,
+   "words": 527
+  },
+  {
+   "batch_id": "bk2:B0163",
+   "scene_ids": [
+    "bk2:MILKEWAY#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 657
+  },
+  {
+   "batch_id": "bk2:B0164",
+   "scene_ids": [
+    "bk2:MILKEWAY#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 678
+  },
+  {
+   "batch_id": "bk2:B0165",
+   "scene_ids": [
+    "bk2:MILKEWAY#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 5,
+   "words": 79
+  },
+  {
+   "batch_id": "bk2:B0166",
+   "scene_ids": [
+    "bk2:MINTAKA_N#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1372
+  },
+  {
+   "batch_id": "bk2:B0167",
+   "scene_ids": [
+    "bk2:MINTAKA_N#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1459
+  },
+  {
+   "batch_id": "bk2:B0168",
+   "scene_ids": [
+    "bk2:MINTAKA_N#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 749
+  },
+  {
+   "batch_id": "bk2:B0169",
+   "scene_ids": [
+    "bk2:MINTAKA_N#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1248
+  },
+  {
+   "batch_id": "bk2:B0170",
+   "scene_ids": [
+    "bk2:MINTAKA_N#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1032
+  },
+  {
+   "batch_id": "bk2:B0171",
+   "scene_ids": [
+    "bk2:MINTAKA_N#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1047
+  },
+  {
+   "batch_id": "bk2:B0172",
+   "scene_ids": [
+    "bk2:MINTAKA_N#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 12,
+   "words": 172
+  },
+  {
+   "batch_id": "bk2:B0173",
+   "scene_ids": [
+    "bk2:MINTAKA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1549
+  },
+  {
+   "batch_id": "bk2:B0174",
+   "scene_ids": [
+    "bk2:MINTAKA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1294
+  },
+  {
+   "batch_id": "bk2:B0175",
+   "scene_ids": [
+    "bk2:MINTAKA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1277
+  },
+  {
+   "batch_id": "bk2:B0176",
+   "scene_ids": [
+    "bk2:MINTAKA#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1025
+  },
+  {
+   "batch_id": "bk2:B0177",
+   "scene_ids": [
+    "bk2:MINTAKA#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1339
+  },
+  {
+   "batch_id": "bk2:B0178",
+   "scene_ids": [
+    "bk2:MINTAKA#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1341
+  },
+  {
+   "batch_id": "bk2:B0179",
+   "scene_ids": [
+    "bk2:MINTAKA#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1214
+  },
+  {
+   "batch_id": "bk2:B0180",
+   "scene_ids": [
+    "bk2:MINTAKA#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1023
+  },
+  {
+   "batch_id": "bk2:B0181",
+   "scene_ids": [
+    "bk2:MINTAKA#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 53,
+   "words": 1001
+  },
+  {
+   "batch_id": "bk2:B0182",
+   "scene_ids": [
+    "bk2:MORI#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 13,
+   "words": 73
+  },
+  {
+   "batch_id": "bk2:B0183",
+   "scene_ids": [
+    "bk2:NASHIRA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1031
+  },
+  {
+   "batch_id": "bk2:B0184",
+   "scene_ids": [
+    "bk2:NASHIRA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 851
+  },
+  {
+   "batch_id": "bk2:B0185",
+   "scene_ids": [
+    "bk2:NASHIRA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 960
+  },
+  {
+   "batch_id": "bk2:B0186",
+   "scene_ids": [
+    "bk2:NASHIRA#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 763
+  },
+  {
+   "batch_id": "bk2:B0187",
+   "scene_ids": [
+    "bk2:NASHIRA#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 943
+  },
+  {
+   "batch_id": "bk2:B0188",
+   "scene_ids": [
+    "bk2:NASHIRA#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 562
+  },
+  {
+   "batch_id": "bk2:B0189",
+   "scene_ids": [
+    "bk2:NASHIRA#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 2,
+   "words": 2
+  },
+  {
+   "batch_id": "bk2:B0190",
+   "scene_ids": [
+    "bk2:NEKKAR#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 35,
+   "words": 391
+  },
+  {
+   "batch_id": "bk2:B0191",
+   "scene_ids": [
+    "bk2:NERO#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 924
+  },
+  {
+   "batch_id": "bk2:B0192",
+   "scene_ids": [
+    "bk2:NERO#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 925
+  },
+  {
+   "batch_id": "bk2:B0193",
+   "scene_ids": [
+    "bk2:NERO#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 4,
+   "words": 64
+  },
+  {
+   "batch_id": "bk2:B0194",
+   "scene_ids": [
+    "bk2:NIHAL#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 815
+  },
+  {
+   "batch_id": "bk2:B0195",
+   "scene_ids": [
+    "bk2:NIHAL#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 877
+  },
+  {
+   "batch_id": "bk2:B0196",
+   "scene_ids": [
+    "bk2:NIHAL#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 929
+  },
+  {
+   "batch_id": "bk2:B0197",
+   "scene_ids": [
+    "bk2:NIHAL#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 777
+  },
+  {
+   "batch_id": "bk2:B0198",
+   "scene_ids": [
+    "bk2:NIHAL#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 41,
+   "words": 500
+  },
+  {
+   "batch_id": "bk2:B0199",
+   "scene_ids": [
+    "bk2:NUNKI#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 729
+  },
+  {
+   "batch_id": "bk2:B0200",
+   "scene_ids": [
+    "bk2:NUNKI#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 43,
+   "words": 439
+  },
+  {
+   "batch_id": "bk2:B0201",
+   "scene_ids": [
+    "bk2:OPU#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1460
+  },
+  {
+   "batch_id": "bk2:B0202",
+   "scene_ids": [
+    "bk2:OPU#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1411
+  },
+  {
+   "batch_id": "bk2:B0203",
+   "scene_ids": [
+    "bk2:OPU#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 11,
+   "words": 110
+  },
+  {
+   "batch_id": "bk2:B0204",
+   "scene_ids": [
+    "bk2:PHERKAD#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 860
+  },
+  {
+   "batch_id": "bk2:B0205",
+   "scene_ids": [
+    "bk2:PHERKAD#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 712
+  },
+  {
+   "batch_id": "bk2:B0206",
+   "scene_ids": [
+    "bk2:PHERKAD#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 881
+  },
+  {
+   "batch_id": "bk2:B0207",
+   "scene_ids": [
+    "bk2:PHERKAD#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 944
+  },
+  {
+   "batch_id": "bk2:B0208",
+   "scene_ids": [
+    "bk2:PHERKAD#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 846
+  },
+  {
+   "batch_id": "bk2:B0209",
+   "scene_ids": [
+    "bk2:PHERKAD#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1041
+  },
+  {
+   "batch_id": "bk2:B0210",
+   "scene_ids": [
+    "bk2:PHERKAD#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 831
+  },
+  {
+   "batch_id": "bk2:B0211",
+   "scene_ids": [
+    "bk2:PHERKAD#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 788
+  },
+  {
+   "batch_id": "bk2:B0212",
+   "scene_ids": [
+    "bk2:PHERKAD#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1226
+  },
+  {
+   "batch_id": "bk2:B0213",
+   "scene_ids": [
+    "bk2:PHERKAD#09"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 904
+  },
+  {
+   "batch_id": "bk2:B0214",
+   "scene_ids": [
+    "bk2:PHERKAD#10"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 14,
+   "words": 251
+  },
+  {
+   "batch_id": "bk2:B0215",
+   "scene_ids": [
+    "bk2:R_LAKE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1112
+  },
+  {
+   "batch_id": "bk2:B0216",
+   "scene_ids": [
+    "bk2:R_LAKE#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 794
+  },
+  {
+   "batch_id": "bk2:B0217",
+   "scene_ids": [
+    "bk2:R_LAKE#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 18,
+   "words": 292
+  },
+  {
+   "batch_id": "bk2:B0218",
+   "scene_ids": [
+    "bk2:RASALAS#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1442
+  },
+  {
+   "batch_id": "bk2:B0219",
+   "scene_ids": [
+    "bk2:RASALAS#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 46,
+   "words": 817
+  },
+  {
+   "batch_id": "bk2:B0220",
+   "scene_ids": [
+    "bk2:ROOT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 708
+  },
+  {
+   "batch_id": "bk2:B0221",
+   "scene_ids": [
+    "bk2:ROOT#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 579
+  },
+  {
+   "batch_id": "bk2:B0222",
+   "scene_ids": [
+    "bk2:ROOT#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 17,
+   "words": 112
+  },
+  {
+   "batch_id": "bk2:B0223",
+   "scene_ids": [
+    "bk2:S_CANYON#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 841
+  },
+  {
+   "batch_id": "bk2:B0224",
+   "scene_ids": [
+    "bk2:S_CANYON#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 23,
+   "words": 293
+  },
+  {
+   "batch_id": "bk2:B0225",
+   "scene_ids": [
+    "bk2:SEDNA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1730
+  },
+  {
+   "batch_id": "bk2:B0226",
+   "scene_ids": [
+    "bk2:SEDNA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1035
+  },
+  {
+   "batch_id": "bk2:B0227",
+   "scene_ids": [
+    "bk2:SEDNA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 35,
+   "words": 450
+  },
+  {
+   "batch_id": "bk2:B0228",
+   "scene_ids": [
+    "bk2:SEGINUS#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 28,
+   "words": 199
+  },
+  {
+   "batch_id": "bk2:B0229",
+   "scene_ids": [
+    "bk2:SENKAN#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 672
+  },
+  {
+   "batch_id": "bk2:B0230",
+   "scene_ids": [
+    "bk2:SENKAN#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 600
+  },
+  {
+   "batch_id": "bk2:B0231",
+   "scene_ids": [
+    "bk2:SENKAN#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 556
+  },
+  {
+   "batch_id": "bk2:B0232",
+   "scene_ids": [
+    "bk2:SENKAN#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 519
+  },
+  {
+   "batch_id": "bk2:B0233",
+   "scene_ids": [
+    "bk2:SENKAN#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 617
+  },
+  {
+   "batch_id": "bk2:B0234",
+   "scene_ids": [
+    "bk2:SENKAN#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 3,
+   "words": 6
+  },
+  {
+   "batch_id": "bk2:B0235",
+   "scene_ids": [
+    "bk2:SEWER#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 35,
+   "words": 495
+  },
+  {
+   "batch_id": "bk2:B0236",
+   "scene_ids": [
+    "bk2:SFIEDA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 1,
+   "words": 17
+  },
+  {
+   "batch_id": "bk2:B0237",
+   "scene_ids": [
+    "bk2:SHELIAK#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1110
+  },
+  {
+   "batch_id": "bk2:B0238",
+   "scene_ids": [
+    "bk2:SHELIAK#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 936
+  },
+  {
+   "batch_id": "bk2:B0239",
+   "scene_ids": [
+    "bk2:SHELIAK#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1287
+  },
+  {
+   "batch_id": "bk2:B0240",
+   "scene_ids": [
+    "bk2:SHELIAK#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1486
+  },
+  {
+   "batch_id": "bk2:B0241",
+   "scene_ids": [
+    "bk2:SHELIAK#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1640
+  },
+  {
+   "batch_id": "bk2:B0242",
+   "scene_ids": [
+    "bk2:SHELIAK#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 7,
+   "words": 112
+  },
+  {
+   "batch_id": "bk2:B0243",
+   "scene_ids": [
+    "bk2:SHERATAN#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 923
+  },
+  {
+   "batch_id": "bk2:B0244",
+   "scene_ids": [
+    "bk2:SHERATAN#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 677
+  },
+  {
+   "batch_id": "bk2:B0245",
+   "scene_ids": [
+    "bk2:SHERATAN#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1420
+  },
+  {
+   "batch_id": "bk2:B0246",
+   "scene_ids": [
+    "bk2:SHERATAN#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1420
+  },
+  {
+   "batch_id": "bk2:B0247",
+   "scene_ids": [
+    "bk2:SHERATAN#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1628
+  },
+  {
+   "batch_id": "bk2:B0248",
+   "scene_ids": [
+    "bk2:SHERATAN#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1251
+  },
+  {
+   "batch_id": "bk2:B0249",
+   "scene_ids": [
+    "bk2:SHERATAN#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1508
+  },
+  {
+   "batch_id": "bk2:B0250",
+   "scene_ids": [
+    "bk2:SHERATAN#07"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1411
+  },
+  {
+   "batch_id": "bk2:B0251",
+   "scene_ids": [
+    "bk2:SHERATAN#08"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1166
+  },
+  {
+   "batch_id": "bk2:B0252",
+   "scene_ids": [
+    "bk2:SHERATAN#09"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 874
+  },
+  {
+   "batch_id": "bk2:B0253",
+   "scene_ids": [
+    "bk2:SHERATAN#10"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1667
+  },
+  {
+   "batch_id": "bk2:B0254",
+   "scene_ids": [
+    "bk2:SHERATAN#11"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1239
+  },
+  {
+   "batch_id": "bk2:B0255",
+   "scene_ids": [
+    "bk2:SHERATAN#12"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 987
+  },
+  {
+   "batch_id": "bk2:B0256",
+   "scene_ids": [
+    "bk2:TARAZED#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 708
+  },
+  {
+   "batch_id": "bk2:B0257",
+   "scene_ids": [
+    "bk2:VEGA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 968
+  },
+  {
+   "batch_id": "bk2:B0258",
+   "scene_ids": [
+    "bk2:VEGA#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 1027
+  },
+  {
+   "batch_id": "bk2:B0259",
+   "scene_ids": [
+    "bk2:VEGA#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 919
+  },
+  {
+   "batch_id": "bk2:B0260",
+   "scene_ids": [
+    "bk2:VEGA#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 831
+  },
+  {
+   "batch_id": "bk2:B0261",
+   "scene_ids": [
+    "bk2:VEGA#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 878
+  },
+  {
+   "batch_id": "bk2:B0262",
+   "scene_ids": [
+    "bk2:VEGA#05"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 936
+  },
+  {
+   "batch_id": "bk2:B0263",
+   "scene_ids": [
+    "bk2:VEGA#06"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 6,
+   "words": 131
+  },
+  {
+   "batch_id": "bk2:B0264",
+   "scene_ids": [
+    "bk2:ZAURAK#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 29,
+   "words": 285
+  },
+  {
+   "batch_id": "bk2:B0265",
+   "scene_ids": [
+    "bk2:ACCEPT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 4,
+   "words": 88
+  },
+  {
+   "batch_id": "bk2:B0266",
+   "scene_ids": [
+    "bk2:ANCMAPJUMP#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 6,
+   "words": 58
+  },
+  {
+   "batch_id": "bk2:B0267",
+   "scene_ids": [
+    "bk2:BEV#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 479
+  },
+  {
+   "batch_id": "bk2:B0268",
+   "scene_ids": [
+    "bk2:BEV#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 414
+  },
+  {
+   "batch_id": "bk2:B0269",
+   "scene_ids": [
+    "bk2:BEV#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 545
+  },
+  {
+   "batch_id": "bk2:B0270",
+   "scene_ids": [
+    "bk2:BEV#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 645
+  },
+  {
+   "batch_id": "bk2:B0271",
+   "scene_ids": [
+    "bk2:BEV#04"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 14,
+   "words": 104
+  },
+  {
+   "batch_id": "bk2:B0272",
+   "scene_ids": [
+    "bk2:CLOUD#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 5,
+   "words": 50
+  },
+  {
+   "batch_id": "bk2:B0273",
+   "scene_ids": [
+    "bk2:ESCALATOR#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 10,
+   "words": 47
+  },
+  {
+   "batch_id": "bk2:B0274",
+   "scene_ids": [
+    "bk2:ESCAPE_ENEMY#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 2,
+   "words": 21
+  },
+  {
+   "batch_id": "bk2:B0275",
+   "scene_ids": [
+    "bk2:FATIGUE_QUEST#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 59,
+   "words": 755
+  },
+  {
+   "batch_id": "bk2:B0276",
+   "scene_ids": [
+    "bk2:FLAME_QUEST#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 608
+  },
+  {
+   "batch_id": "bk2:B0277",
+   "scene_ids": [
+    "bk2:FLAME_QUEST#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 23,
+   "words": 324
+  },
+  {
+   "batch_id": "bk2:B0278",
+   "scene_ids": [
+    "bk2:GETQC_SP#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 4,
+   "words": 39
+  },
+  {
+   "batch_id": "bk2:B0279",
+   "scene_ids": [
+    "bk2:GIMMICK_ROOM#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 26,
+   "words": 288
+  },
+  {
+   "batch_id": "bk2:B0280",
+   "scene_ids": [
+    "bk2:GLEYTHORN_QUEST#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 48,
+   "words": 1088
+  },
+  {
+   "batch_id": "bk2:B0281",
+   "scene_ids": [
+    "bk2:GLEYTHORN_Y#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 6,
+   "words": 38
+  },
+  {
+   "batch_id": "bk2:B0282",
+   "scene_ids": [
+    "bk2:GLEYTHORN#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 2,
+   "words": 7
+  },
+  {
+   "batch_id": "bk2:B0283",
+   "scene_ids": [
+    "bk2:IJI_ROOM#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 15,
+   "words": 172
+  },
+  {
+   "batch_id": "bk2:B0284",
+   "scene_ids": [
+    "bk2:KEIHIN#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 36,
+   "words": 262
+  },
+  {
+   "batch_id": "bk2:B0285",
+   "scene_ids": [
+    "bk2:MIX_REPORT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 36,
+   "words": 390
+  },
+  {
+   "batch_id": "bk2:B0286",
+   "scene_ids": [
+    "bk2:MOVEOUT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 4,
+   "words": 99
+  },
+  {
+   "batch_id": "bk2:B0287",
+   "scene_ids": [
+    "bk2:RANKUPQUEST#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 35,
+   "words": 802
+  },
+  {
+   "batch_id": "bk2:B0288",
+   "scene_ids": [
+    "bk2:RECIPE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 2,
+   "words": 8
+  },
+  {
+   "batch_id": "bk2:B0289",
+   "scene_ids": [
+    "bk2:SUNA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 7,
+   "words": 93
+  },
+  {
+   "batch_id": "bk2:B0290",
+   "scene_ids": [
+    "bk2:WORLDMAP#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 18,
+   "words": 284
+  },
+  {
+   "batch_id": "bk2:B0291",
+   "scene_ids": [
+    "bk2:QM_SCRIPT_S#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 5,
+   "words": 38
+  },
+  {
+   "batch_id": "bk2:B0292",
+   "scene_ids": [
+    "bk2:EVテンプレ#00"
+   ],
+   "kind": "set",
+   "category": "internal",
+   "count": 1,
+   "words": 3
+  },
+  {
+   "batch_id": "bk2:B0293",
+   "scene_ids": [
+    "bk2:TALK_SFIEDA#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 5,
+   "words": 60
+  },
+  {
+   "batch_id": "bk2:B0294",
+   "scene_ids": [
+    "bk2:STORYOUTLINE#00"
+   ],
+   "kind": "set",
+   "category": "story_summary",
+   "count": 129,
+   "words": 6286
+  },
+  {
+   "batch_id": "bk2:B0295",
+   "scene_ids": [
+    "bk2:LETTER#00"
+   ],
+   "kind": "set",
+   "category": "letter",
+   "count": 76,
+   "words": 3701
+  },
+  {
+   "batch_id": "bk2:B0296",
+   "scene_ids": [
+    "bk2:MGNINF#00"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4408
+  },
+  {
+   "batch_id": "bk2:B0297",
+   "scene_ids": [
+    "bk2:MGNINF#01"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4328
+  },
+  {
+   "batch_id": "bk2:B0298",
+   "scene_ids": [
+    "bk2:MGNINF#02"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4298
+  },
+  {
+   "batch_id": "bk2:B0299",
+   "scene_ids": [
+    "bk2:MGNINF#03"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4393
+  },
+  {
+   "batch_id": "bk2:B0300",
+   "scene_ids": [
+    "bk2:MGNINF#04"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 79,
+   "words": 2120
+  },
+  {
+   "batch_id": "bk2:B0301",
+   "scene_ids": [
+    "bk2:EFCLIST#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 115,
+   "words": 407
+  },
+  {
+   "batch_id": "bk2:B0302",
+   "scene_ids": [
+    "bk2:MSC#00"
+   ],
+   "kind": "set",
+   "category": "music_title",
+   "count": 61,
+   "words": 204
+  },
+  {
+   "batch_id": "bk2:B0303",
+   "scene_ids": [
+    "bk2:MGNNAME#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 276
+  },
+  {
+   "batch_id": "bk2:B0304",
+   "scene_ids": [
+    "bk2:MGNNAME#01"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 322
+  },
+  {
+   "batch_id": "bk2:B0305",
+   "scene_ids": [
+    "bk2:MGNNAME#02"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 324
+  },
+  {
+   "batch_id": "bk2:B0306",
+   "scene_ids": [
+    "bk2:MGNNAME#03"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 324
+  },
+  {
+   "batch_id": "bk2:B0307",
+   "scene_ids": [
+    "bk2:MGNNAME#04"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 72,
+   "words": 158
+  },
+  {
+   "batch_id": "bk2:B0308",
+   "scene_ids": [
+    "bk2:PRCS_NAME#00"
+   ],
+   "kind": "set",
+   "category": "item_name",
+   "count": 36,
+   "words": 89
+  },
+  {
+   "batch_id": "bk2:B0309",
+   "scene_ids": [
+    "bk2:PRCS_INFO#00"
+   ],
+   "kind": "set",
+   "category": "item_desc",
+   "count": 36,
+   "words": 1039
+  },
+  {
+   "batch_id": "bk2:B0310",
+   "scene_ids": [
+    "bk2:SAVE_POINT#00"
+   ],
+   "kind": "set",
+   "category": "location_name",
+   "count": 60,
+   "words": 157
+  },
+  {
+   "batch_id": "bk2:B0311",
+   "scene_ids": [
+    "bk2:SHOP#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 468
+  },
+  {
+   "batch_id": "bk2:B0312",
+   "scene_ids": [
+    "bk2:SHOP#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 437
+  },
+  {
+   "batch_id": "bk2:B0313",
+   "scene_ids": [
+    "bk2:SHOP#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 499
+  },
+  {
+   "batch_id": "bk2:B0314",
+   "scene_ids": [
+    "bk2:SHOP#03"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 58,
+   "words": 481
+  },
+  {
+   "batch_id": "bk2:B0315",
+   "scene_ids": [
+    "bk2:SUBQUEST#00"
+   ],
+   "kind": "set",
+   "category": "quest_log",
+   "count": 150,
+   "words": 1503
+  },
+  {
+   "batch_id": "bk2:B0316",
+   "scene_ids": [
+    "bk2:SUBQUEST#01"
+   ],
+   "kind": "set",
+   "category": "quest_log",
+   "count": 150,
+   "words": 1527
+  },
+  {
+   "batch_id": "bk2:B0317",
+   "scene_ids": [
+    "bk2:SUBQUEST#02"
+   ],
+   "kind": "set",
+   "category": "quest_log",
+   "count": 100,
+   "words": 1028
+  },
+  {
+   "batch_id": "bk2:B0318",
+   "scene_ids": [
+    "bk2:TRADE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 443
+  },
+  {
+   "batch_id": "bk2:B0319",
+   "scene_ids": [
+    "bk2:TRADE#01"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 60,
+   "words": 376
+  },
+  {
+   "batch_id": "bk2:B0320",
+   "scene_ids": [
+    "bk2:TRADE#02"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 3,
+   "words": 7
+  },
+  {
+   "batch_id": "bk2:B0321",
+   "scene_ids": [
+    "bk2:UPGREADE#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 56,
+   "words": 1080
+  },
+  {
+   "batch_id": "bk2:B0322",
+   "scene_ids": [
+    "bk2:CMNSTR#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 354
+  },
+  {
+   "batch_id": "bk2:B0323",
+   "scene_ids": [
+    "bk2:CMNSTR#01"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 712
+  },
+  {
+   "batch_id": "bk2:B0324",
+   "scene_ids": [
+    "bk2:CMNSTR#02"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 1245
+  },
+  {
+   "batch_id": "bk2:B0325",
+   "scene_ids": [
+    "bk2:CMNSTR#03"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 4,
+   "words": 42
+  },
+  {
+   "batch_id": "bk2:B0326",
+   "scene_ids": [
+    "bk2:GATHERING_DATA#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 66,
+   "words": 70
+  },
+  {
+   "batch_id": "bk2:B0327",
+   "scene_ids": [
+    "bk2:BOOK#00"
+   ],
+   "kind": "set",
+   "category": "encyclopedia",
+   "count": 150,
+   "words": 311
+  },
+  {
+   "batch_id": "bk2:B0328",
+   "scene_ids": [
+    "bk2:BOOK#01"
+   ],
+   "kind": "set",
+   "category": "encyclopedia",
+   "count": 150,
+   "words": 1916
+  },
+  {
+   "batch_id": "bk2:B0329",
+   "scene_ids": [
+    "bk2:BOOK#02"
+   ],
+   "kind": "set",
+   "category": "encyclopedia",
+   "count": 150,
+   "words": 4119
+  },
+  {
+   "batch_id": "bk2:B0330",
+   "scene_ids": [
+    "bk2:BOOK#03"
+   ],
+   "kind": "set",
+   "category": "encyclopedia",
+   "count": 72,
+   "words": 2872
+  },
+  {
+   "batch_id": "bk2:B0331",
+   "scene_ids": [
+    "bk2:CREDITS#00"
+   ],
+   "kind": "set",
+   "category": "credits",
+   "count": 127,
+   "words": 241
+  },
+  {
+   "batch_id": "bk2:B0332",
+   "scene_ids": [
+    "bk2:CMPINIT#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 4,
+   "words": 12
+  },
+  {
+   "batch_id": "bk2:B0333",
+   "scene_ids": [
+    "bk2:DECKDATA#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 1,
+   "words": 2
+  },
+  {
+   "batch_id": "bk2:B0334",
+   "scene_ids": [
+    "bk2:CMP_DATA#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 3,
+   "words": 3
+  },
+  {
+   "batch_id": "bk2:B0335",
+   "scene_ids": [
+    "bk2:MGN_HLD#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 28,
+   "words": 108
+  },
+  {
+   "batch_id": "bk2:B0336",
+   "scene_ids": [
+    "bk2:MGN_VIEW#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 6,
+   "words": 8
+  },
+  {
+   "batch_id": "bk2:B0337",
+   "scene_ids": [
+    "bk2:CHARA_WND#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 52,
+   "words": 58
+  },
+  {
+   "batch_id": "bk2:B0338",
+   "scene_ids": [
+    "bk2:DATA_SELECTOR#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 7,
+   "words": 40
+  },
+  {
+   "batch_id": "bk2:B0339",
+   "scene_ids": [
+    "bk2:DECKWIZ#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 25,
+   "words": 64
+  },
+  {
+   "batch_id": "bk2:B0340",
+   "scene_ids": [
+    "bk2:MGN_SRT#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 25,
+   "words": 37
+  },
+  {
+   "batch_id": "bk2:B0341",
+   "scene_ids": [
+    "bk2:NOTE_WND#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 16,
+   "words": 15
+  },
+  {
+   "batch_id": "bk2:B0342",
+   "scene_ids": [
+    "bk2:ROOT_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 14,
+   "words": 52
+  },
+  {
+   "batch_id": "bk2:B0343",
+   "scene_ids": [
+    "bk2:TREE_VIEW#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 9,
+   "words": 15
+  },
+  {
+   "batch_id": "bk2:B0344",
+   "scene_ids": [
+    "bk2:NPCName#00"
+   ],
+   "kind": "set",
+   "category": "npc_name",
+   "count": 150,
+   "words": 269
+  },
+  {
+   "batch_id": "bk2:B0345",
+   "scene_ids": [
+    "bk2:NPCName#01"
+   ],
+   "kind": "set",
+   "category": "npc_name",
+   "count": 150,
+   "words": 307
+  },
+  {
+   "batch_id": "bk2:B0346",
+   "scene_ids": [
+    "bk2:NPCName#02"
+   ],
+   "kind": "set",
+   "category": "npc_name",
+   "count": 114,
+   "words": 238
+  },
+  {
+   "batch_id": "bk2:B0347",
+   "scene_ids": [
+    "bk2:EXCombo#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 101,
+   "words": 240
+  },
+  {
+   "batch_id": "bk2:B0348",
+   "scene_ids": [
+    "bk2:Enemy#00"
+   ],
+   "kind": "set",
+   "category": "enemy_name",
+   "count": 117,
+   "words": 205
+  },
+  {
+   "batch_id": "bk2:B0349",
+   "scene_ids": [
+    "bk2:EXCombo_info#00"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 2371
+  },
+  {
+   "batch_id": "bk2:B0350",
+   "scene_ids": [
+    "bk2:EXCombo_info#01"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 24,
+   "words": 332
+  },
+  {
+   "batch_id": "bk2:B0351",
+   "scene_ids": [
+    "bk2:CWNDQMAGNUS_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 5,
+   "words": 27
+  },
+  {
+   "batch_id": "bk2:B0352",
+   "scene_ids": [
+    "bk2:CMAGNUSHOLDER_H#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 4,
+   "words": 21
+  },
+  {
+   "batch_id": "bk2:B0353",
+   "scene_ids": [
+    "bk2:STORYOUTLINENAME#00"
+   ],
+   "kind": "set",
+   "category": "story_summary",
+   "count": 148,
+   "words": 423
+  },
+  {
+   "batch_id": "bk2:B0354",
+   "scene_ids": [
+    "bk2:LETTERNAME#00"
+   ],
+   "kind": "set",
+   "category": "letter",
+   "count": 35,
+   "words": 92
+  },
+  {
+   "batch_id": "bk2:B0355",
+   "scene_ids": [
+    "bk2:CDISPBTLRESULT_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 9,
+   "words": 30
+  },
+  {
+   "batch_id": "bk2:B0356",
+   "scene_ids": [
+    "bk2:BC_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 5,
+   "words": 17
+  },
+  {
+   "batch_id": "bk2:B0357",
+   "scene_ids": [
+    "bk2:HELP_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 9,
+   "words": 10
+  },
+  {
+   "batch_id": "bk2:B0358",
+   "scene_ids": [
+    "bk2:PERSON_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 10,
+   "words": 12
+  },
+  {
+   "batch_id": "bk2:B0359",
+   "scene_ids": [
+    "bk2:ITEM_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 3,
+   "words": 6
+  },
+  {
+   "batch_id": "bk2:B0360",
+   "scene_ids": [
+    "bk2:PLAYER_CPP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 1,
+   "words": 1
+  },
+  {
+   "batch_id": "bk2:B0361",
+   "scene_ids": [
+    "bk2:WEAKPOINT#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 8,
+   "words": 19
+  },
+  {
+   "batch_id": "bk2:B0362",
+   "scene_ids": [
+    "bk2:COLOSSEUM_ADD#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 62,
+   "words": 356
+  },
+  {
+   "batch_id": "bk2:B0363",
+   "scene_ids": [
+    "bk2:CHURCH_ADD#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 36,
+   "words": 146
+  },
+  {
+   "batch_id": "bk2:B0364",
+   "scene_ids": [
+    "bk2:battleparam#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 16,
+   "words": 31
+  },
+  {
+   "batch_id": "bk2:B0365",
+   "scene_ids": [
+    "bk2:BKSCRIPT#00"
+   ],
+   "kind": "field_block",
+   "category": "dialogue",
+   "count": 30,
+   "words": 149
+  },
+  {
+   "batch_id": "bk2:B0366",
+   "scene_ids": [
+    "bk2:BK2_ADD#00"
+   ],
+   "kind": "set",
+   "category": "internal",
+   "count": 138,
+   "words": 177
+  }
+ ]
+}

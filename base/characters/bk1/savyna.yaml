@@ -1,0 +1,52 @@
+id: savyna
+games: [bk1, bk2]
+en_name: Savyna
+jp_name: サヴィナ
+jp_reading: Savina
+aliases_en: ["Lady Death"]
+name_tags: ["bk1:PCN_5", "bk2:NPCName_88"]
+script_lines: {bk1: 141, bk2: 1}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk1"}
+
+sex: female
+grammatical_gender: f
+grammatical_gender_status: proposed
+pronouns_ru: она
+
+facts:
+  - claim: "Женщина; в прошлом известна как «Lady Death»."
+    confidence: confirmed
+    basis: text
+    source: "SCR_AZH01_17_12655: «[…].»; SCR_AZH01_17_12533; упоминания с she — 8"
+  - claim: "Другие локализации дают ей женский род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "FR/ES/IT/DE f=2.5, m=0 (base/characters/_evidence/bk1.json)"
+  - claim: "Японское написание サヴィナ."
+    confidence: confirmed
+    basis: data
+    source: "PCN_5 (TextData_jp)"
+
+personality: []
+speech_style:
+  en: []
+  jp: ["私 (18 реплик), почти без вежливых форм; к Kalas — おまえ; маркеры, не доказательства."]
+formality: unknown
+
+relationships:
+  - with: kalas
+    relation: "спутник"
+    register_to: unknown
+    register_status: proposed
+    confidence: unknown
+    evidence: "FR tu 7 / vous 6 — смешанно; JP おまえ 5"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+translation_notes: []
+spoilers:
+  - {claim: "Прошлое «Lady Death»", confidence: confirmed, source: "SCR_AZH01_17_12533", revealed_at: "Azha"}
+open_questions: []
+sources:
+  - {type: game_data, ref: "PCN_5, NPCName_88, SCR_AZH01_17_12533, SCR_AZH01_17_12655, SaveStoryLine_12"}
+status: draft

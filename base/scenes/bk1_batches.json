@@ -1,0 +1,5736 @@
+{
+ "game": "bk1",
+ "min": 40,
+ "max": 150,
+ "batches": [
+  {
+   "batch_id": "bk1:B0000",
+   "scene_ids": [
+    "bk1:SCR_CEB01_1",
+    "bk1:SCR_CEB01_2",
+    "bk1:SCR_CEB01_3",
+    "bk1:SCR_CEB01_4",
+    "bk1:SCR_CEB01_5",
+    "bk1:SCR_CEB01_6",
+    "bk1:SCR_CEB01_7",
+    "bk1:SCR_CEB01_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 874
+  },
+  {
+   "batch_id": "bk1:B0001",
+   "scene_ids": [
+    "bk1:SCR_CEB01_9",
+    "bk1:SCR_CEB01_10",
+    "bk1:SCR_CEB01_11",
+    "bk1:SCR_CEB01_12",
+    "bk1:SCR_CEB01_13",
+    "bk1:SCR_CEB01_15",
+    "bk1:SCR_CEB01_20",
+    "bk1:SCR_CEB01_22",
+    "bk1:SCR_CEB01_23"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 1058
+  },
+  {
+   "batch_id": "bk1:B0002",
+   "scene_ids": [
+    "bk1:SCR_CEB01_24",
+    "bk1:SCR_CEB01_25",
+    "bk1:SCR_CEB01_26",
+    "bk1:SCR_CEB01_27",
+    "bk1:SCR_CEB01_29",
+    "bk1:SCR_CEB03_0",
+    "bk1:SCR_CEB03_1",
+    "bk1:SCR_CEB03_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 979
+  },
+  {
+   "batch_id": "bk1:B0003",
+   "scene_ids": [
+    "bk1:SCR_CEB03_3",
+    "bk1:SCR_CEB03_5",
+    "bk1:SCR_CEB03_6",
+    "bk1:SCR_CEB03_7",
+    "bk1:SCR_CEB03_8",
+    "bk1:SCR_CEB03_9",
+    "bk1:SCR_CEB03_10",
+    "bk1:SCR_CEB04_1",
+    "bk1:SCR_CEB04_2",
+    "bk1:SCR_CEB04_3",
+    "bk1:SCR_CEB04_4",
+    "bk1:SCR_CEB04_5",
+    "bk1:SCR_CEB04_6",
+    "bk1:SCR_CEB04_7",
+    "bk1:SCR_CEB04_8",
+    "bk1:SCR_CEB04_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1014
+  },
+  {
+   "batch_id": "bk1:B0004",
+   "scene_ids": [
+    "bk1:SCR_CEB04_10",
+    "bk1:SCR_CEB04_12",
+    "bk1:SCR_CEB05_0",
+    "bk1:SCR_CEB05_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 802
+  },
+  {
+   "batch_id": "bk1:B0005",
+   "scene_ids": [
+    "bk1:SCR_CEB05_2",
+    "bk1:SCR_CEB05_3",
+    "bk1:SCR_CEB05_4",
+    "bk1:SCR_CEB05_5",
+    "bk1:SCR_CEB05_6",
+    "bk1:SCR_CEB05_7",
+    "bk1:SCR_CEB05_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 1051
+  },
+  {
+   "batch_id": "bk1:B0006",
+   "scene_ids": [
+    "bk1:SCR_CEB05_10",
+    "bk1:SCR_CEB05_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 2,
+   "words": 27
+  },
+  {
+   "batch_id": "bk1:B0007",
+   "scene_ids": [
+    "bk1:SCR_PHE06_0",
+    "bk1:SCR_PHE06_1",
+    "bk1:SCR_PHE06_2",
+    "bk1:SCR_PHE06_3",
+    "bk1:SCR_PHE06_4",
+    "bk1:SCR_PHE06_5",
+    "bk1:SCR_PHE06_6",
+    "bk1:SCR_PHE06_7",
+    "bk1:SCR_PHE06_8",
+    "bk1:SCR_PHE06_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 777
+  },
+  {
+   "batch_id": "bk1:B0008",
+   "scene_ids": [
+    "bk1:SCR_TDM05B_1",
+    "bk1:SCR_TDM05B_2",
+    "bk1:SCR_TDM05B_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 138
+  },
+  {
+   "batch_id": "bk1:B0009",
+   "scene_ids": [
+    "bk1:SCR_TYN26_2",
+    "bk1:SCR_TYN26_3",
+    "bk1:SCR_TYN26_4",
+    "bk1:SCR_TYN26_5",
+    "bk1:SCR_TYN26_6",
+    "bk1:SCR_TYN26_7",
+    "bk1:SCR_TYN26_8",
+    "bk1:SCR_TYN26_9",
+    "bk1:SCR_TYN26_10",
+    "bk1:SCR_TYN26_11",
+    "bk1:SCR_TYN26_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 15,
+   "words": 199
+  },
+  {
+   "batch_id": "bk1:B0010",
+   "scene_ids": [
+    "bk1:SCR_EV03050B_1",
+    "bk1:SCR_EV05070B_3",
+    "bk1:SCR_EV09110B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 551
+  },
+  {
+   "batch_id": "bk1:B0011",
+   "scene_ids": [
+    "bk1:SCR_EV11050B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 1
+  },
+  {
+   "batch_id": "bk1:B0012",
+   "scene_ids": [
+    "bk1:SCR_EVE00_239",
+    "bk1:SCR_EVE00_240",
+    "bk1:SCR_EVE00_241",
+    "bk1:SCR_EVE00_261",
+    "bk1:SCR_EVE00_263",
+    "bk1:SCR_EVE00_264",
+    "bk1:SCR_EVE00_267",
+    "bk1:SCR_EVE00_270",
+    "bk1:SCR_EVE00_275",
+    "bk1:SCR_EVE00_277",
+    "bk1:SCR_EVE00_281",
+    "bk1:SCR_EVE00_282",
+    "bk1:SCR_EVE00_284",
+    "bk1:SCR_EVE00_303",
+    "bk1:SCR_EVE00_308",
+    "bk1:SCR_EVE00_309",
+    "bk1:SCR_EVE20_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 71,
+   "words": 620
+  },
+  {
+   "batch_id": "bk1:B0013",
+   "scene_ids": [
+    "bk1:SCR_JNS02_2",
+    "bk1:SCR_JNS02_5",
+    "bk1:SCR_JNS05_2",
+    "bk1:SCR_JNS05_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 222
+  },
+  {
+   "batch_id": "bk1:B0014",
+   "scene_ids": [
+    "bk1:SCR_KAF03_0",
+    "bk1:SCR_KAF03_1",
+    "bk1:SCR_KAF03_2",
+    "bk1:SCR_KAF03_3",
+    "bk1:SCR_KAF03_4",
+    "bk1:SCR_KAF03_5",
+    "bk1:SCR_KAF03_6",
+    "bk1:SCR_KAF03_7",
+    "bk1:SCR_KAF03_9",
+    "bk1:SCR_KAF03_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1041
+  },
+  {
+   "batch_id": "bk1:B0015",
+   "scene_ids": [
+    "bk1:SCR_KAF03_13",
+    "bk1:SCR_KAF03_14",
+    "bk1:SCR_KAF03_15",
+    "bk1:SCR_KAF03_16",
+    "bk1:SCR_KAF03_17",
+    "bk1:SCR_KAF03_18",
+    "bk1:SCR_KAF03_19",
+    "bk1:SCR_KAF06_0",
+    "bk1:SCR_KAF06_1",
+    "bk1:SCR_KAF06_2",
+    "bk1:SCR_KAF06_3",
+    "bk1:SCR_KAF06_4",
+    "bk1:SCR_KAF06_5",
+    "bk1:SCR_KAF10_0",
+    "bk1:SCR_KAF10_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 1003
+  },
+  {
+   "batch_id": "bk1:B0016",
+   "scene_ids": [
+    "bk1:SCR_KAF10_3",
+    "bk1:SCR_KAF10_4",
+    "bk1:SCR_KAF10_5",
+    "bk1:SCR_KAF10_6",
+    "bk1:SCR_KAF10_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 153
+  },
+  {
+   "batch_id": "bk1:B0017",
+   "scene_ids": [
+    "bk1:SCR_MAP02_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 5,
+   "words": 132
+  },
+  {
+   "batch_id": "bk1:B0018",
+   "scene_ids": [
+    "bk1:SCR_MNA02_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 39
+  },
+  {
+   "batch_id": "bk1:B0019",
+   "scene_ids": [
+    "bk1:SCR_PHE04_2",
+    "bk1:SCR_PHE04_3",
+    "bk1:SCR_PHE04_7",
+    "bk1:SCR_PHE04_8",
+    "bk1:SCR_PHE04_9",
+    "bk1:SCR_PHE04_16",
+    "bk1:SCR_PHE04_17",
+    "bk1:SCR_PHE04_18",
+    "bk1:SCR_PHE08_0",
+    "bk1:SCR_PHE08_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 739
+  },
+  {
+   "batch_id": "bk1:B0020",
+   "scene_ids": [
+    "bk1:SCR_PHE08_2",
+    "bk1:SCR_PHE08_3",
+    "bk1:SCR_PHE08_4",
+    "bk1:SCR_PHE08_7",
+    "bk1:SCR_PHE08_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 66,
+   "words": 1539
+  },
+  {
+   "batch_id": "bk1:B0021",
+   "scene_ids": [
+    "bk1:SCR_RYO01_1",
+    "bk1:SCR_RYO01_3",
+    "bk1:SCR_RYO01_4",
+    "bk1:SCR_RYO01_5",
+    "bk1:SCR_RYO01_8",
+    "bk1:SCR_RYO01_9",
+    "bk1:SCR_RYO01_10",
+    "bk1:SCR_RYO05_1",
+    "bk1:SCR_RYO05_2",
+    "bk1:SCR_RYO05_4",
+    "bk1:SCR_RYO05_6",
+    "bk1:SCR_RYO05_7",
+    "bk1:SCR_RYO06_1",
+    "bk1:SCR_RYO06_3",
+    "bk1:SCR_RYO06_4",
+    "bk1:SCR_RYO06_7",
+    "bk1:SCR_RYO09_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 556
+  },
+  {
+   "batch_id": "bk1:B0022",
+   "scene_ids": [
+    "bk1:SCR_RYO09_2",
+    "bk1:SCR_RYO09_5",
+    "bk1:SCR_RYO09_7",
+    "bk1:SCR_RYO09_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 33,
+   "words": 281
+  },
+  {
+   "batch_id": "bk1:B0023",
+   "scene_ids": [
+    "bk1:SCR_TYN23_4",
+    "bk1:SCR_TYN29_1",
+    "bk1:SCR_TYN29_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 29,
+   "words": 245
+  },
+  {
+   "batch_id": "bk1:B0024",
+   "scene_ids": [
+    "bk1:SCR_BAL03_1",
+    "bk1:SCR_BAL03_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 724
+  },
+  {
+   "batch_id": "bk1:B0025",
+   "scene_ids": [
+    "bk1:SCR_BAL03_3",
+    "bk1:SCR_BAL03_4",
+    "bk1:SCR_BAL03_5",
+    "bk1:SCR_BAL03_6",
+    "bk1:SCR_BAL03_7",
+    "bk1:SCR_BAL03_10",
+    "bk1:SCR_BAL03_11",
+    "bk1:SCR_BAL03_12",
+    "bk1:SCR_BAL03_13",
+    "bk1:SCR_BAL04_0",
+    "bk1:SCR_BAL04_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1220
+  },
+  {
+   "batch_id": "bk1:B0026",
+   "scene_ids": [
+    "bk1:SCR_BAL04_2",
+    "bk1:SCR_BAL04_3",
+    "bk1:SCR_BAL04_5",
+    "bk1:SCR_BAL04_6",
+    "bk1:SCR_BAL04_7",
+    "bk1:SCR_BAL04_8",
+    "bk1:SCR_BAL04_9",
+    "bk1:SCR_BAL04_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 18,
+   "words": 241
+  },
+  {
+   "batch_id": "bk1:B0027",
+   "scene_ids": [
+    "bk1:SCR_DNM01_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 144
+  },
+  {
+   "batch_id": "bk1:B0028",
+   "scene_ids": [
+    "bk1:SCR_EV05170B_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 69,
+   "words": 875
+  },
+  {
+   "batch_id": "bk1:B0029",
+   "scene_ids": [
+    "bk1:SCR_EV07071B_0",
+    "bk1:SCR_EV07080B_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 52,
+   "words": 469
+  },
+  {
+   "batch_id": "bk1:B0030",
+   "scene_ids": [
+    "bk1:SCR_EV09070B_0",
+    "bk1:SCR_EV10100B_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 24,
+   "words": 212
+  },
+  {
+   "batch_id": "bk1:B0031",
+   "scene_ids": [
+    "bk1:SCR_CNS03_0",
+    "bk1:SCR_CNS03_1",
+    "bk1:SCR_CNS03_2",
+    "bk1:SCR_CNS03_3",
+    "bk1:SCR_CNS03_4",
+    "bk1:SCR_CNS03_5",
+    "bk1:SCR_CNS03_6",
+    "bk1:SCR_CNS03_7",
+    "bk1:SCR_CNS03_8",
+    "bk1:SCR_CNS03_11",
+    "bk1:SCR_CNS03_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1111
+  },
+  {
+   "batch_id": "bk1:B0032",
+   "scene_ids": [
+    "bk1:SCR_CNS03_13",
+    "bk1:SCR_CNS03_14",
+    "bk1:SCR_CNS03_18",
+    "bk1:SCR_CNS03_19",
+    "bk1:SCR_CNS03_21",
+    "bk1:SCR_CNS03_532",
+    "bk1:SCR_CNS05_0",
+    "bk1:SCR_CNS05_1",
+    "bk1:SCR_CNS05_6",
+    "bk1:SCR_CNS05_7",
+    "bk1:SCR_CNS05_10",
+    "bk1:SCR_CNS05_11",
+    "bk1:SCR_CNS05_12",
+    "bk1:SCR_CNS05_13",
+    "bk1:SCR_CNS05_15",
+    "bk1:SCR_CNS05_39",
+    "bk1:SCR_CNS05_40",
+    "bk1:SCR_CNS05_43"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 500
+  },
+  {
+   "batch_id": "bk1:B0033",
+   "scene_ids": [
+    "bk1:SCR_CNS05_44",
+    "bk1:SCR_CNS06_8",
+    "bk1:SCR_CNS06_9",
+    "bk1:SCR_CNS06_10",
+    "bk1:SCR_CNS06_11",
+    "bk1:SCR_CNS06_12",
+    "bk1:SCR_CNS06_15",
+    "bk1:SCR_CNS06_16",
+    "bk1:SCR_CNS06_17",
+    "bk1:SCR_CNS06_18",
+    "bk1:SCR_CNS06_19",
+    "bk1:SCR_CNS06_21",
+    "bk1:SCR_CNS06_24",
+    "bk1:SCR_CNS06_29"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 645
+  },
+  {
+   "batch_id": "bk1:B0034",
+   "scene_ids": [
+    "bk1:SCR_NAS06_5",
+    "bk1:SCR_NAS06_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 66,
+   "words": 917
+  },
+  {
+   "batch_id": "bk1:B0035",
+   "scene_ids": [
+    "bk1:SCR_NAS06_7",
+    "bk1:SCR_NAS06_8",
+    "bk1:SCR_NAS06_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 597
+  },
+  {
+   "batch_id": "bk1:B0036",
+   "scene_ids": [
+    "bk1:SCR_NAS06_14",
+    "bk1:SCR_NAS06_15",
+    "bk1:SCR_NAS06_16",
+    "bk1:SCR_NAS06_17",
+    "bk1:SCR_NAS06_18",
+    "bk1:SCR_NAS06_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 49,
+   "words": 1393
+  },
+  {
+   "batch_id": "bk1:B0037",
+   "scene_ids": [
+    "bk1:SCR_NAS06_20",
+    "bk1:SCR_NAS06_21",
+    "bk1:SCR_NAS06_22",
+    "bk1:SCR_NAS06_23",
+    "bk1:SCR_NAS06_24",
+    "bk1:SCR_NAS06_29",
+    "bk1:SCR_NAS06_30"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 29,
+   "words": 689
+  },
+  {
+   "batch_id": "bk1:B0038",
+   "scene_ids": [
+    "bk1:SCR_SHE03_0",
+    "bk1:SCR_SHE03_1",
+    "bk1:SCR_SHE03_5",
+    "bk1:SCR_SHE03_6",
+    "bk1:SCR_SHE03_7",
+    "bk1:SCR_SHE03_8",
+    "bk1:SCR_SHE03_9",
+    "bk1:SCR_SHE03_10",
+    "bk1:SCR_SHE03_11",
+    "bk1:SCR_SHE03_12",
+    "bk1:SCR_SHE03_13",
+    "bk1:SCR_SHE03_15",
+    "bk1:SCR_SHE03_16",
+    "bk1:SCR_SHE03_17",
+    "bk1:SCR_SHE03_18",
+    "bk1:SCR_SHE03_23",
+    "bk1:SCR_SHE03_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 50,
+   "words": 1160
+  },
+  {
+   "batch_id": "bk1:B0039",
+   "scene_ids": [
+    "bk1:SCR_SHE07_0",
+    "bk1:SCR_SHE07_1",
+    "bk1:SCR_SHE07_2",
+    "bk1:SCR_SHE07_3",
+    "bk1:SCR_SHE07_4",
+    "bk1:SCR_SHE07_5",
+    "bk1:SCR_SHE07_6",
+    "bk1:SCR_SHE07_7",
+    "bk1:SCR_SHE07_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 360
+  },
+  {
+   "batch_id": "bk1:B0040",
+   "scene_ids": [
+    "bk1:SCR_TYN05_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 100
+  },
+  {
+   "batch_id": "bk1:B0041",
+   "scene_ids": [
+    "bk1:SCR_CNM05_11",
+    "bk1:SCR_CNM05_12",
+    "bk1:SCR_CNM05_13",
+    "bk1:SCR_CNM05_14",
+    "bk1:SCR_CNM05_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 125
+  },
+  {
+   "batch_id": "bk1:B0042",
+   "scene_ids": [
+    "bk1:SCR_GEM00_0",
+    "bk1:SCR_GEM00_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 44
+  },
+  {
+   "batch_id": "bk1:B0043",
+   "scene_ids": [
+    "bk1:SCR_MAP07_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 16
+  },
+  {
+   "batch_id": "bk1:B0044",
+   "scene_ids": [
+    "bk1:SCR_NAS00_2",
+    "bk1:SCR_NAS01_0",
+    "bk1:SCR_NAS01_1",
+    "bk1:SCR_NAS01_2",
+    "bk1:SCR_NAS01_3",
+    "bk1:SCR_NAS01_4",
+    "bk1:SCR_NAS01_5",
+    "bk1:SCR_NAS01_9",
+    "bk1:SCR_NAS01_10",
+    "bk1:SCR_NAS02_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 915
+  },
+  {
+   "batch_id": "bk1:B0045",
+   "scene_ids": [
+    "bk1:SCR_NAS02_1",
+    "bk1:SCR_NAS02_2",
+    "bk1:SCR_NAS02_3",
+    "bk1:SCR_NAS02_4",
+    "bk1:SCR_NAS02_5",
+    "bk1:SCR_NAS02_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 1132
+  },
+  {
+   "batch_id": "bk1:B0046",
+   "scene_ids": [
+    "bk1:SCR_NAS02_7",
+    "bk1:SCR_NAS02_8",
+    "bk1:SCR_NAS02_9",
+    "bk1:SCR_NAS02_10",
+    "bk1:SCR_NAS02_11",
+    "bk1:SCR_NAS02_12",
+    "bk1:SCR_NAS02_13",
+    "bk1:SCR_NAS02_15",
+    "bk1:SCR_NAS02_16",
+    "bk1:SCR_NAS02_17",
+    "bk1:SCR_NAS02_18",
+    "bk1:SCR_NAS02_22",
+    "bk1:SCR_NAS02_23"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1193
+  },
+  {
+   "batch_id": "bk1:B0047",
+   "scene_ids": [
+    "bk1:SCR_NAS02_24",
+    "bk1:SCR_NAS02_30",
+    "bk1:SCR_NAS02_34",
+    "bk1:SCR_NAS02_35",
+    "bk1:SCR_NAS02_36"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 574
+  },
+  {
+   "batch_id": "bk1:B0048",
+   "scene_ids": [
+    "bk1:SCR_NAS03_1",
+    "bk1:SCR_NAS03_2",
+    "bk1:SCR_NAS03_3",
+    "bk1:SCR_NAS03_4",
+    "bk1:SCR_NAS03_5",
+    "bk1:SCR_NAS03_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 1076
+  },
+  {
+   "batch_id": "bk1:B0049",
+   "scene_ids": [
+    "bk1:SCR_NAS03_7",
+    "bk1:SCR_NAS03_8",
+    "bk1:SCR_NAS03_9",
+    "bk1:SCR_NAS03_10",
+    "bk1:SCR_NAS03_11",
+    "bk1:SCR_NAS03_12",
+    "bk1:SCR_NAS03_13",
+    "bk1:SCR_NAS03_14",
+    "bk1:SCR_NAS03_15",
+    "bk1:SCR_NAS03_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 33,
+   "words": 517
+  },
+  {
+   "batch_id": "bk1:B0050",
+   "scene_ids": [
+    "bk1:SCR_SHE04_0",
+    "bk1:SCR_SHE04_1",
+    "bk1:SCR_SHE04_2",
+    "bk1:SCR_SHE04_3",
+    "bk1:SCR_SHE04_4",
+    "bk1:SCR_SHE04_5",
+    "bk1:SCR_SHE04_6",
+    "bk1:SCR_SHE04_7",
+    "bk1:SCR_SHE04_8",
+    "bk1:SCR_SHE04_9",
+    "bk1:SCR_SHE04_10",
+    "bk1:SCR_SHE05_1",
+    "bk1:SCR_SHE05_2",
+    "bk1:SCR_SHE05_3",
+    "bk1:SCR_SHE05_4",
+    "bk1:SCR_SHE05_6",
+    "bk1:SCR_SHE05_7",
+    "bk1:SCR_SHE05_8",
+    "bk1:SCR_SHE05_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 39,
+   "words": 943
+  },
+  {
+   "batch_id": "bk1:B0051",
+   "scene_ids": [
+    "bk1:SCR_STG01_7",
+    "bk1:SCR_STG01_8",
+    "bk1:SCR_STG01_10",
+    "bk1:SCR_STG01_11",
+    "bk1:SCR_STG01_13",
+    "bk1:SCR_STG01_16"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 116
+  },
+  {
+   "batch_id": "bk1:B0052",
+   "scene_ids": [
+    "bk1:SCR_CEB00_0",
+    "bk1:SCR_CEB00_1",
+    "bk1:SCR_CEB00_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 103
+  },
+  {
+   "batch_id": "bk1:B0053",
+   "scene_ids": [
+    "bk1:SCR_CNS09_0",
+    "bk1:SCR_CNS09_1",
+    "bk1:SCR_CNS09_2",
+    "bk1:SCR_CNS09_4",
+    "bk1:SCR_CNS09_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 813
+  },
+  {
+   "batch_id": "bk1:B0054",
+   "scene_ids": [
+    "bk1:SCR_CNS09_6",
+    "bk1:SCR_CNS09_8",
+    "bk1:SCR_CNS09_9",
+    "bk1:SCR_CNS09_10",
+    "bk1:SCR_CNS09_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 5,
+   "words": 101
+  },
+  {
+   "batch_id": "bk1:B0055",
+   "scene_ids": [
+    "bk1:SCR_GDB02_14"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 3
+  },
+  {
+   "batch_id": "bk1:B0056",
+   "scene_ids": [
+    "bk1:SCR_KEI02_4",
+    "bk1:SCR_KEI02_5",
+    "bk1:SCR_KEI02_10",
+    "bk1:SCR_KEI02_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 153
+  },
+  {
+   "batch_id": "bk1:B0057",
+   "scene_ids": [
+    "bk1:SCR_KOM08_0",
+    "bk1:SCR_KOM08_1",
+    "bk1:SCR_KOM08_2",
+    "bk1:SCR_KOM08_3",
+    "bk1:SCR_KOM08_4",
+    "bk1:SCR_KOM08_5",
+    "bk1:SCR_KOM08_6",
+    "bk1:SCR_KOM08_7",
+    "bk1:SCR_KOM08_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 1006
+  },
+  {
+   "batch_id": "bk1:B0058",
+   "scene_ids": [
+    "bk1:SCR_KOM08_9",
+    "bk1:SCR_KOM08_10",
+    "bk1:SCR_KOM08_11",
+    "bk1:SCR_KOM08_12",
+    "bk1:SCR_KOM08_13",
+    "bk1:SCR_KOM08_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 271
+  },
+  {
+   "batch_id": "bk1:B0059",
+   "scene_ids": [
+    "bk1:SCR_CNS01_1",
+    "bk1:SCR_CNS01_2",
+    "bk1:SCR_CNS01_3",
+    "bk1:SCR_CNS01_4",
+    "bk1:SCR_CNS01_5",
+    "bk1:SCR_CNS01_6",
+    "bk1:SCR_CNS01_7",
+    "bk1:SCR_CNS01_8",
+    "bk1:SCR_CNS01_9",
+    "bk1:SCR_CNS01_10",
+    "bk1:SCR_CNS01_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 32,
+   "words": 513
+  },
+  {
+   "batch_id": "bk1:B0060",
+   "scene_ids": [
+    "bk1:SCR_KOM01_0",
+    "bk1:SCR_KOM01_1",
+    "bk1:SCR_KOM01_2",
+    "bk1:SCR_KOM01_3",
+    "bk1:SCR_KOM01_4",
+    "bk1:SCR_KOM01_5",
+    "bk1:SCR_KOM01_8",
+    "bk1:SCR_KOM01_9",
+    "bk1:SCR_KOM01_10",
+    "bk1:SCR_KOM01_15",
+    "bk1:SCR_KOM01_17",
+    "bk1:SCR_KOM13_4",
+    "bk1:SCR_KOM13_5",
+    "bk1:SCR_KOM13_6",
+    "bk1:SCR_KOM13_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 617
+  },
+  {
+   "batch_id": "bk1:B0061",
+   "scene_ids": [
+    "bk1:SCR_KOM13_8",
+    "bk1:SCR_KOM13_9",
+    "bk1:SCR_KOM13_10",
+    "bk1:SCR_KOM13_11",
+    "bk1:SCR_KOM13_12",
+    "bk1:SCR_KOM13_13",
+    "bk1:SCR_KOM13_14",
+    "bk1:SCR_KOM13_15",
+    "bk1:SCR_KOM13_16",
+    "bk1:SCR_KOM13_17",
+    "bk1:SCR_KOM13_18",
+    "bk1:SCR_KOM13_19",
+    "bk1:SCR_KOM13_22",
+    "bk1:SCR_KOM13_24",
+    "bk1:SCR_KOM13_30",
+    "bk1:SCR_KOM13_31"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1050
+  },
+  {
+   "batch_id": "bk1:B0062",
+   "scene_ids": [
+    "bk1:SCR_KOM13_32",
+    "bk1:SCR_KOM13_38",
+    "bk1:SCR_KOM13_39"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 227
+  },
+  {
+   "batch_id": "bk1:B0063",
+   "scene_ids": [
+    "bk1:SCR_EV11040B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 82
+  },
+  {
+   "batch_id": "bk1:B0064",
+   "scene_ids": [
+    "bk1:SCR_KOM03_1",
+    "bk1:SCR_KOM03_2",
+    "bk1:SCR_KOM03_3",
+    "bk1:SCR_KOM03_4",
+    "bk1:SCR_KOM03_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 536
+  },
+  {
+   "batch_id": "bk1:B0065",
+   "scene_ids": [
+    "bk1:SCR_KOM03_8",
+    "bk1:SCR_KOM03_9",
+    "bk1:SCR_KOM03_10",
+    "bk1:SCR_KOM03_11",
+    "bk1:SCR_KOM03_12",
+    "bk1:SCR_KOM03_13",
+    "bk1:SCR_KOM03_14",
+    "bk1:SCR_KOM03_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 1202
+  },
+  {
+   "batch_id": "bk1:B0066",
+   "scene_ids": [
+    "bk1:SCR_KOM03_16",
+    "bk1:SCR_KOM03_17",
+    "bk1:SCR_KOM03_18",
+    "bk1:SCR_KOM03_20",
+    "bk1:SCR_KOM03_21",
+    "bk1:SCR_KOM04_0",
+    "bk1:SCR_KOM04_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 780
+  },
+  {
+   "batch_id": "bk1:B0067",
+   "scene_ids": [
+    "bk1:SCR_KOM04_2",
+    "bk1:SCR_KOM04_3",
+    "bk1:SCR_KOM04_4",
+    "bk1:SCR_KOM11_0",
+    "bk1:SCR_KOM11_1",
+    "bk1:SCR_KOM11_2",
+    "bk1:SCR_KOM11_3",
+    "bk1:SCR_KOM11_4",
+    "bk1:SCR_KOM11_5",
+    "bk1:SCR_KOM11_6",
+    "bk1:SCR_KOM11_7",
+    "bk1:SCR_KOM11_8",
+    "bk1:SCR_KOM11_9",
+    "bk1:SCR_KOM11_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1222
+  },
+  {
+   "batch_id": "bk1:B0068",
+   "scene_ids": [
+    "bk1:SCR_KOM11_11",
+    "bk1:SCR_KOM11_12",
+    "bk1:SCR_KOM11_13",
+    "bk1:SCR_KOM11_15",
+    "bk1:SCR_KOM11_16",
+    "bk1:SCR_KOM11_17",
+    "bk1:SCR_KOM11_18",
+    "bk1:SCR_KOM11_19",
+    "bk1:SCR_KOM11_21",
+    "bk1:SCR_KOM11_22",
+    "bk1:SCR_KOM12_0",
+    "bk1:SCR_KOM12_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1122
+  },
+  {
+   "batch_id": "bk1:B0069",
+   "scene_ids": [
+    "bk1:SCR_KOM12_2",
+    "bk1:SCR_KOM12_3",
+    "bk1:SCR_KOM12_4",
+    "bk1:SCR_KOM12_5",
+    "bk1:SCR_KOM12_7",
+    "bk1:SCR_KOM12_8",
+    "bk1:SCR_KOM12_9",
+    "bk1:SCR_KOM12_10",
+    "bk1:SCR_KOM14_0",
+    "bk1:SCR_KOM14_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 67,
+   "words": 1655
+  },
+  {
+   "batch_id": "bk1:B0070",
+   "scene_ids": [
+    "bk1:SCR_KOM14_3",
+    "bk1:SCR_KOM14_5",
+    "bk1:SCR_KOM14_6",
+    "bk1:SCR_KOM14_7",
+    "bk1:SCR_KOM14_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 90
+  },
+  {
+   "batch_id": "bk1:B0071",
+   "scene_ids": [
+    "bk1:SCR_MAP03_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 9
+  },
+  {
+   "batch_id": "bk1:B0072",
+   "scene_ids": [
+    "bk1:SCR_QMT08_0",
+    "bk1:SCR_QMT08_1",
+    "bk1:SCR_QMT08_2",
+    "bk1:SCR_QMT08_3",
+    "bk1:SCR_QMT08_6",
+    "bk1:SCR_QMT08_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 18,
+   "words": 666
+  },
+  {
+   "batch_id": "bk1:B0073",
+   "scene_ids": [
+    "bk1:SCR_EV04121B_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 6,
+   "words": 40
+  },
+  {
+   "batch_id": "bk1:B0074",
+   "scene_ids": [
+    "bk1:SCR_KDK06_5",
+    "bk1:SCR_KDK06_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 22,
+   "words": 146
+  },
+  {
+   "batch_id": "bk1:B0075",
+   "scene_ids": [
+    "bk1:SCR_EV03133B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 102
+  },
+  {
+   "batch_id": "bk1:B0076",
+   "scene_ids": [
+    "bk1:SCR_GTJ02_0",
+    "bk1:SCR_GTJ02_5",
+    "bk1:SCR_GTJ02_8",
+    "bk1:SCR_GTJ04_0",
+    "bk1:SCR_GTJ04_6",
+    "bk1:SCR_GTJ04_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 30,
+   "words": 332
+  },
+  {
+   "batch_id": "bk1:B0077",
+   "scene_ids": [
+    "bk1:SCR_JHH01_10",
+    "bk1:SCR_JHH01_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 85
+  },
+  {
+   "batch_id": "bk1:B0078",
+   "scene_ids": [
+    "bk1:SCR_KOM09_0",
+    "bk1:SCR_KOM09_1",
+    "bk1:SCR_KOM09_2",
+    "bk1:SCR_KOM09_3",
+    "bk1:SCR_KOM09_4",
+    "bk1:SCR_KOM09_5",
+    "bk1:SCR_KOM09_6",
+    "bk1:SCR_KOM09_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 255
+  },
+  {
+   "batch_id": "bk1:B0079",
+   "scene_ids": [
+    "bk1:SCR_OPU00_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 6
+  },
+  {
+   "batch_id": "bk1:B0080",
+   "scene_ids": [
+    "bk1:SCR_EV03130B_0",
+    "bk1:SCR_EV03132B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 38,
+   "words": 300
+  },
+  {
+   "batch_id": "bk1:B0081",
+   "scene_ids": [
+    "bk1:SCR_GTJ01_1",
+    "bk1:SCR_GTJ01_2",
+    "bk1:SCR_GTJ01_3",
+    "bk1:SCR_GTJ01_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 802
+  },
+  {
+   "batch_id": "bk1:B0082",
+   "scene_ids": [
+    "bk1:SCR_GTJ01_9",
+    "bk1:SCR_GTJ01_10",
+    "bk1:SCR_GTJ01_12",
+    "bk1:SCR_GTJ01_13",
+    "bk1:SCR_GTJ01_15",
+    "bk1:SCR_GTJ01_16",
+    "bk1:SCR_GTJ01_17",
+    "bk1:SCR_GTJ01_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 569
+  },
+  {
+   "batch_id": "bk1:B0083",
+   "scene_ids": [
+    "bk1:SCR_GTJ01_20",
+    "bk1:SCR_GTJ01_22"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 20
+  },
+  {
+   "batch_id": "bk1:B0084",
+   "scene_ids": [
+    "bk1:SCR_KOM02_4",
+    "bk1:SCR_KOM02_5",
+    "bk1:SCR_KOM02_6",
+    "bk1:SCR_KOM02_7",
+    "bk1:SCR_KOM02_8",
+    "bk1:SCR_KOM02_9",
+    "bk1:SCR_KOM02_10",
+    "bk1:SCR_KOM02_11",
+    "bk1:SCR_KOM02_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 961
+  },
+  {
+   "batch_id": "bk1:B0085",
+   "scene_ids": [
+    "bk1:SCR_KOM02_13",
+    "bk1:SCR_KOM02_14",
+    "bk1:SCR_KOM02_15",
+    "bk1:SCR_KOM02_16",
+    "bk1:SCR_KOM02_17",
+    "bk1:SCR_KOM02_18",
+    "bk1:SCR_KOM02_19",
+    "bk1:SCR_KOM02_28",
+    "bk1:SCR_KOM02_30",
+    "bk1:SCR_KOM02_31"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1010
+  },
+  {
+   "batch_id": "bk1:B0086",
+   "scene_ids": [
+    "bk1:SCR_KOM05_0",
+    "bk1:SCR_KOM05_1",
+    "bk1:SCR_KOM05_2",
+    "bk1:SCR_KOM05_3",
+    "bk1:SCR_KOM05_4",
+    "bk1:SCR_KOM06_0",
+    "bk1:SCR_KOM06_1",
+    "bk1:SCR_KOM06_2",
+    "bk1:SCR_KOM06_5",
+    "bk1:SCR_KOM06_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 903
+  },
+  {
+   "batch_id": "bk1:B0087",
+   "scene_ids": [
+    "bk1:SCR_KOM10_0",
+    "bk1:SCR_KOM10_1",
+    "bk1:SCR_KOM10_2",
+    "bk1:SCR_KOM10_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 303
+  },
+  {
+   "batch_id": "bk1:B0088",
+   "scene_ids": [
+    "bk1:SCR_NIH2B_14",
+    "bk1:SCR_NIH2B_16",
+    "bk1:SCR_NIH2B_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 129
+  },
+  {
+   "batch_id": "bk1:B0089",
+   "scene_ids": [
+    "bk1:SCR_OPU01_3",
+    "bk1:SCR_OPU01_4",
+    "bk1:SCR_OPU01_5",
+    "bk1:SCR_OPU01_6",
+    "bk1:SCR_OPU01_7",
+    "bk1:SCR_OPU01_8",
+    "bk1:SCR_OPU01_9",
+    "bk1:SCR_OPU01_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 958
+  },
+  {
+   "batch_id": "bk1:B0090",
+   "scene_ids": [
+    "bk1:SCR_OPU01_11",
+    "bk1:SCR_OPU01_16",
+    "bk1:SCR_OPU01_20",
+    "bk1:SCR_OPU02_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 661
+  },
+  {
+   "batch_id": "bk1:B0091",
+   "scene_ids": [
+    "bk1:SCR_OPU02_3",
+    "bk1:SCR_OPU02_4",
+    "bk1:SCR_OPU02_5",
+    "bk1:SCR_OPU02_6",
+    "bk1:SCR_OPU03_0",
+    "bk1:SCR_OPU03_1",
+    "bk1:SCR_OPU03_2",
+    "bk1:SCR_OPU03_3",
+    "bk1:SCR_OPU03_4",
+    "bk1:SCR_OPU03_5",
+    "bk1:SCR_OPU03_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 936
+  },
+  {
+   "batch_id": "bk1:B0092",
+   "scene_ids": [
+    "bk1:SCR_CNS02_3",
+    "bk1:SCR_CNS02_4",
+    "bk1:SCR_CNS02_5",
+    "bk1:SCR_CNS02_6",
+    "bk1:SCR_CNS02_7",
+    "bk1:SCR_CNS02_8",
+    "bk1:SCR_CNS02_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 51,
+   "words": 824
+  },
+  {
+   "batch_id": "bk1:B0093",
+   "scene_ids": [
+    "bk1:SCR_CNS02_13",
+    "bk1:SCR_CNS07_2",
+    "bk1:SCR_CNS07_3",
+    "bk1:SCR_CNS07_4",
+    "bk1:SCR_CNS07_7",
+    "bk1:SCR_CNS07_9",
+    "bk1:SCR_CNS07_11",
+    "bk1:SCR_CNS11_1",
+    "bk1:SCR_CNS11_2",
+    "bk1:SCR_CNS11_4",
+    "bk1:SCR_CNS11_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 64,
+   "words": 821
+  },
+  {
+   "batch_id": "bk1:B0094",
+   "scene_ids": [
+    "bk1:SCR_CNS11_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 15
+  },
+  {
+   "batch_id": "bk1:B0095",
+   "scene_ids": [
+    "bk1:SCR_JNS03_2",
+    "bk1:SCR_JNS03_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 185
+  },
+  {
+   "batch_id": "bk1:B0096",
+   "scene_ids": [
+    "bk1:SCR_SHE06_0",
+    "bk1:SCR_SHE06_1",
+    "bk1:SCR_SHE06_2",
+    "bk1:SCR_SHE06_3",
+    "bk1:SCR_SHE06_4",
+    "bk1:SCR_SHE06_5",
+    "bk1:SCR_SHE06_6",
+    "bk1:SCR_SHE06_7",
+    "bk1:SCR_SHE06_8",
+    "bk1:SCR_SHE06_9",
+    "bk1:SCR_SHE06_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 16,
+   "words": 360
+  },
+  {
+   "batch_id": "bk1:B0097",
+   "scene_ids": [
+    "bk1:SCR_STG03_6",
+    "bk1:SCR_STG03_7",
+    "bk1:SCR_STG03_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 73
+  },
+  {
+   "batch_id": "bk1:B0098",
+   "scene_ids": [
+    "bk1:SCR_TDM03_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 49,
+   "words": 634
+  },
+  {
+   "batch_id": "bk1:B0099",
+   "scene_ids": [
+    "bk1:SCR_KOM16_0",
+    "bk1:SCR_KOM16_1",
+    "bk1:SCR_KOM16_2",
+    "bk1:SCR_KOM16_3",
+    "bk1:SCR_KOM16_4",
+    "bk1:SCR_KOM16_5",
+    "bk1:SCR_KOM16_6",
+    "bk1:SCR_KOM16_7",
+    "bk1:SCR_KOM16_8",
+    "bk1:SCR_KOM16_9",
+    "bk1:SCR_KOM16_10",
+    "bk1:SCR_KOM16_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 685
+  },
+  {
+   "batch_id": "bk1:B0100",
+   "scene_ids": [
+    "bk1:SCR_KOM16_12",
+    "bk1:SCR_KOM16_14",
+    "bk1:SCR_KOM16_15",
+    "bk1:SCR_KOM16_16"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 5,
+   "words": 103
+  },
+  {
+   "batch_id": "bk1:B0101",
+   "scene_ids": [
+    "bk1:SCR_TNM05_4",
+    "bk1:SCR_TNM05_5",
+    "bk1:SCR_TNM05_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 161
+  },
+  {
+   "batch_id": "bk1:B0102",
+   "scene_ids": [
+    "bk1:SCR_BAL10_0",
+    "bk1:SCR_BAL10_1",
+    "bk1:SCR_BAL10_2",
+    "bk1:SCR_BAL10_3",
+    "bk1:SCR_BAL10_4",
+    "bk1:SCR_BAL10_5",
+    "bk1:SCR_BAL10_6",
+    "bk1:SCR_BAL10_7",
+    "bk1:SCR_BAL10_10",
+    "bk1:SCR_BAL10_11",
+    "bk1:SCR_BAL10_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 71,
+   "words": 921
+  },
+  {
+   "batch_id": "bk1:B0103",
+   "scene_ids": [
+    "bk1:SCR_COR02_2",
+    "bk1:SCR_COR02_3",
+    "bk1:SCR_COR02_4",
+    "bk1:SCR_COR02_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 127
+  },
+  {
+   "batch_id": "bk1:B0104",
+   "scene_ids": [
+    "bk1:SCR_CUR04_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 929
+  },
+  {
+   "batch_id": "bk1:B0105",
+   "scene_ids": [
+    "bk1:SCR_CUR04_1",
+    "bk1:SCR_CUR04_2",
+    "bk1:SCR_CUR04_3",
+    "bk1:SCR_CUR04_4",
+    "bk1:SCR_CUR04_6",
+    "bk1:SCR_CUR04_8",
+    "bk1:SCR_CUR04_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 327
+  },
+  {
+   "batch_id": "bk1:B0106",
+   "scene_ids": [
+    "bk1:SCR_DDS01_0",
+    "bk1:SCR_DDS01_1",
+    "bk1:SCR_DDS01_2",
+    "bk1:SCR_DDS01_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 575
+  },
+  {
+   "batch_id": "bk1:B0107",
+   "scene_ids": [
+    "bk1:SCR_DDS01_4",
+    "bk1:SCR_DDS01_5",
+    "bk1:SCR_DDS01_6",
+    "bk1:SCR_DDS01_7",
+    "bk1:SCR_DDS01_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 463
+  },
+  {
+   "batch_id": "bk1:B0108",
+   "scene_ids": [
+    "bk1:SCR_DDS01_10",
+    "bk1:SCR_DDS01_11",
+    "bk1:SCR_DDS01_12",
+    "bk1:SCR_DDS01_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 61,
+   "words": 767
+  },
+  {
+   "batch_id": "bk1:B0109",
+   "scene_ids": [
+    "bk1:SCR_EVE25_1",
+    "bk1:SCR_EVE25_2",
+    "bk1:SCR_EVE25_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 18,
+   "words": 221
+  },
+  {
+   "batch_id": "bk1:B0110",
+   "scene_ids": [
+    "bk1:SCR_GEM01_3",
+    "bk1:SCR_GEM01_6",
+    "bk1:SCR_GEM01_10",
+    "bk1:SCR_GEM01_11",
+    "bk1:SCR_GEM01_12",
+    "bk1:SCR_GEM01_13",
+    "bk1:SCR_GEM01_14",
+    "bk1:SCR_GEM01_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 849
+  },
+  {
+   "batch_id": "bk1:B0111",
+   "scene_ids": [
+    "bk1:SCR_GEM01_16",
+    "bk1:SCR_GEM01_17",
+    "bk1:SCR_GEM01_23",
+    "bk1:SCR_GEM01_24",
+    "bk1:SCR_GEM01_28",
+    "bk1:SCR_GEM01_45",
+    "bk1:SCR_GEM03_0",
+    "bk1:SCR_GEM03_3",
+    "bk1:SCR_GEM03_4",
+    "bk1:SCR_GEM03_5",
+    "bk1:SCR_GEM03_6",
+    "bk1:SCR_GEM03_7",
+    "bk1:SCR_GEM03_8",
+    "bk1:SCR_GEM03_9",
+    "bk1:SCR_GEM03_10",
+    "bk1:SCR_GEM03_11",
+    "bk1:SCR_GEM03_12",
+    "bk1:SCR_GEM03_13",
+    "bk1:SCR_GEM03_14",
+    "bk1:SCR_GEM03_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1025
+  },
+  {
+   "batch_id": "bk1:B0112",
+   "scene_ids": [
+    "bk1:SCR_GEM03_16",
+    "bk1:SCR_GEM03_17",
+    "bk1:SCR_GEM03_18",
+    "bk1:SCR_GEM03_21"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 25,
+   "words": 430
+  },
+  {
+   "batch_id": "bk1:B0113",
+   "scene_ids": [
+    "bk1:SCR_INT11_49",
+    "bk1:SCR_INT11_51",
+    "bk1:SCR_INT11_52"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 34,
+   "words": 344
+  },
+  {
+   "batch_id": "bk1:B0114",
+   "scene_ids": [
+    "bk1:SCR_JNS04_2",
+    "bk1:SCR_JNS04_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 5,
+   "words": 106
+  },
+  {
+   "batch_id": "bk1:B0115",
+   "scene_ids": [
+    "bk1:SCR_KNM05_6",
+    "bk1:SCR_KNM05_9",
+    "bk1:SCR_KNM05_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 22,
+   "words": 130
+  },
+  {
+   "batch_id": "bk1:B0116",
+   "scene_ids": [
+    "bk1:SCR_KOM02A_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 746
+  },
+  {
+   "batch_id": "bk1:B0117",
+   "scene_ids": [
+    "bk1:SCR_MNT01_7",
+    "bk1:SCR_MNT01_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 6,
+   "words": 77
+  },
+  {
+   "batch_id": "bk1:B0118",
+   "scene_ids": [
+    "bk1:SCR_PAR03_1",
+    "bk1:SCR_PAR03_2",
+    "bk1:SCR_PAR03_3",
+    "bk1:SCR_PAR03_4",
+    "bk1:SCR_PAR03_5",
+    "bk1:SCR_PAR03_6",
+    "bk1:SCR_PAR03_7",
+    "bk1:SCR_PAR03_8",
+    "bk1:SCR_PAR03_9",
+    "bk1:SCR_PAR03_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 937
+  },
+  {
+   "batch_id": "bk1:B0119",
+   "scene_ids": [
+    "bk1:SCR_PAR03_13",
+    "bk1:SCR_PAR04_3",
+    "bk1:SCR_PAR04_4",
+    "bk1:SCR_PAR04_5",
+    "bk1:SCR_PAR04_6",
+    "bk1:SCR_PAR04_7",
+    "bk1:SCR_PAR04_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 51,
+   "words": 1167
+  },
+  {
+   "batch_id": "bk1:B0120",
+   "scene_ids": [
+    "bk1:SCR_PAR04_9",
+    "bk1:SCR_PAR04_10",
+    "bk1:SCR_PAR04_11",
+    "bk1:SCR_PAR04_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 251
+  },
+  {
+   "batch_id": "bk1:B0121",
+   "scene_ids": [
+    "bk1:SCR_TNM03_1",
+    "bk1:SCR_TNM03_6",
+    "bk1:SCR_TNM03_7",
+    "bk1:SCR_TNM03_8",
+    "bk1:SCR_TNM04_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 662
+  },
+  {
+   "batch_id": "bk1:B0122",
+   "scene_ids": [
+    "bk1:SCR_TNM04_3",
+    "bk1:SCR_TNM04_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 90
+  },
+  {
+   "batch_id": "bk1:B0123",
+   "scene_ids": [
+    "bk1:SCR_KSM01_0",
+    "bk1:SCR_KSM01_1",
+    "bk1:SCR_KSM01_2",
+    "bk1:SCR_KSM01_3",
+    "bk1:SCR_KSM01_4",
+    "bk1:SCR_KSM01_5",
+    "bk1:SCR_KSM01_8",
+    "bk1:SCR_KSM01_9",
+    "bk1:SCR_KSM01_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 32,
+   "words": 724
+  },
+  {
+   "batch_id": "bk1:B0124",
+   "scene_ids": [
+    "bk1:SCR_PAR00_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 7
+  },
+  {
+   "batch_id": "bk1:B0125",
+   "scene_ids": [
+    "bk1:SCR_ANH01_14",
+    "bk1:SCR_ANH01_15",
+    "bk1:SCR_ANH01_16",
+    "bk1:SCR_ANH01_18",
+    "bk1:SCR_ANH01_20",
+    "bk1:SCR_ANH01_22",
+    "bk1:SCR_ANH01_24",
+    "bk1:SCR_ANH01_25",
+    "bk1:SCR_ANH01_26"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 35,
+   "words": 827
+  },
+  {
+   "batch_id": "bk1:B0126",
+   "scene_ids": [
+    "bk1:SCR_CNM02_1",
+    "bk1:SCR_CNM02_4",
+    "bk1:SCR_CNM03_8",
+    "bk1:SCR_CNM03_9",
+    "bk1:SCR_CNM03_10",
+    "bk1:SCR_CNM03_11",
+    "bk1:SCR_CNM03_13",
+    "bk1:SCR_CNM03_14",
+    "bk1:SCR_CNM03_15",
+    "bk1:SCR_CNM03_17",
+    "bk1:SCR_CNM03_19",
+    "bk1:SCR_CNM03_21"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 34,
+   "words": 766
+  },
+  {
+   "batch_id": "bk1:B0127",
+   "scene_ids": [
+    "bk1:SCR_EV03120B_0",
+    "bk1:SCR_EV09350B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 151
+  },
+  {
+   "batch_id": "bk1:B0128",
+   "scene_ids": [
+    "bk1:SCR_GTJ03_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 2,
+   "words": 23
+  },
+  {
+   "batch_id": "bk1:B0129",
+   "scene_ids": [
+    "bk1:SCR_NIH1D_14",
+    "bk1:SCR_NIH1D_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 238
+  },
+  {
+   "batch_id": "bk1:B0130",
+   "scene_ids": [
+    "bk1:SCR_PAR01_0",
+    "bk1:SCR_PAR01_2",
+    "bk1:SCR_PAR01_3",
+    "bk1:SCR_PAR01_4",
+    "bk1:SCR_PAR01_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 737
+  },
+  {
+   "batch_id": "bk1:B0131",
+   "scene_ids": [
+    "bk1:SCR_PAR01_6",
+    "bk1:SCR_PAR01_7",
+    "bk1:SCR_PAR01_8",
+    "bk1:SCR_PAR01_9",
+    "bk1:SCR_PAR01_10",
+    "bk1:SCR_PAR01_11",
+    "bk1:SCR_PAR01_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 991
+  },
+  {
+   "batch_id": "bk1:B0132",
+   "scene_ids": [
+    "bk1:SCR_PAR01_13",
+    "bk1:SCR_PAR01_14",
+    "bk1:SCR_PAR01_15",
+    "bk1:SCR_PAR01_20",
+    "bk1:SCR_PAR01_21"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 33,
+   "words": 772
+  },
+  {
+   "batch_id": "bk1:B0133",
+   "scene_ids": [
+    "bk1:SCR_PHE03_1",
+    "bk1:SCR_PHE03_2",
+    "bk1:SCR_PHE03_3",
+    "bk1:SCR_PHE03_4",
+    "bk1:SCR_PHE03_5",
+    "bk1:SCR_PHE03_6",
+    "bk1:SCR_PHE03_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 52,
+   "words": 989
+  },
+  {
+   "batch_id": "bk1:B0134",
+   "scene_ids": [
+    "bk1:SCR_PHE03_8",
+    "bk1:SCR_PHE03_10",
+    "bk1:SCR_PHE03_16",
+    "bk1:SCR_PHE03_17",
+    "bk1:SCR_PHE03_21",
+    "bk1:SCR_PHE03_22",
+    "bk1:SCR_PHE03_23",
+    "bk1:SCR_PHE03_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 877
+  },
+  {
+   "batch_id": "bk1:B0135",
+   "scene_ids": [
+    "bk1:SCR_PHE03_25",
+    "bk1:SCR_PHE03_26",
+    "bk1:SCR_PHE03_29",
+    "bk1:SCR_PHE03_30",
+    "bk1:SCR_PHE09_25",
+    "bk1:SCR_PHE09_26",
+    "bk1:SCR_PHE09_27",
+    "bk1:SCR_PHE09_28",
+    "bk1:SCR_PHE09_29",
+    "bk1:SCR_PHE09_30",
+    "bk1:SCR_PHE09_31"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 896
+  },
+  {
+   "batch_id": "bk1:B0136",
+   "scene_ids": [
+    "bk1:SCR_PHE09_32",
+    "bk1:SCR_PHE09_33",
+    "bk1:SCR_PHE09_34"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 927
+  },
+  {
+   "batch_id": "bk1:B0137",
+   "scene_ids": [
+    "bk1:SCR_PHE09_35",
+    "bk1:SCR_PHE09_37",
+    "bk1:SCR_PHE09_38"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 56,
+   "words": 1517
+  },
+  {
+   "batch_id": "bk1:B0138",
+   "scene_ids": [
+    "bk1:SCR_PHE09_39",
+    "bk1:SCR_PHE09_40",
+    "bk1:SCR_PHE09_41"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 61,
+   "words": 1845
+  },
+  {
+   "batch_id": "bk1:B0139",
+   "scene_ids": [
+    "bk1:SCR_PHE09_42",
+    "bk1:SCR_PHE09_43",
+    "bk1:SCR_PHE09_44"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 58,
+   "words": 1557
+  },
+  {
+   "batch_id": "bk1:B0140",
+   "scene_ids": [
+    "bk1:SCR_PHE09_45",
+    "bk1:SCR_PHE09_46",
+    "bk1:SCR_PHE09_47",
+    "bk1:SCR_PHE09_48"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 51,
+   "words": 1248
+  },
+  {
+   "batch_id": "bk1:B0141",
+   "scene_ids": [
+    "bk1:SCR_PHE09_50",
+    "bk1:SCR_PHE09_52"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 797
+  },
+  {
+   "batch_id": "bk1:B0142",
+   "scene_ids": [
+    "bk1:SCR_PHE09_53",
+    "bk1:SCR_PHE09_54",
+    "bk1:SCR_PHE09_55",
+    "bk1:SCR_PHE09_56"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 55,
+   "words": 1440
+  },
+  {
+   "batch_id": "bk1:B0143",
+   "scene_ids": [
+    "bk1:SCR_PHE09_57",
+    "bk1:SCR_PHE09_58",
+    "bk1:SCR_PHE09_59",
+    "bk1:SCR_PHE09_60"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 52,
+   "words": 1529
+  },
+  {
+   "batch_id": "bk1:B0144",
+   "scene_ids": [
+    "bk1:SCR_PHE09_61",
+    "bk1:SCR_PHE09_62",
+    "bk1:SCR_PHE09_63"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1423
+  },
+  {
+   "batch_id": "bk1:B0145",
+   "scene_ids": [
+    "bk1:SCR_PHE09_64",
+    "bk1:SCR_PHE09_65",
+    "bk1:SCR_PHE09_66"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 1202
+  },
+  {
+   "batch_id": "bk1:B0146",
+   "scene_ids": [
+    "bk1:SCR_PHE09_67",
+    "bk1:SCR_PHE09_70",
+    "bk1:SCR_PHE09_72"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 735
+  },
+  {
+   "batch_id": "bk1:B0147",
+   "scene_ids": [
+    "bk1:SCR_PHE09_73",
+    "bk1:SCR_PHE09_74",
+    "bk1:SCR_PHE09_75",
+    "bk1:SCR_PHE09_76",
+    "bk1:SCR_PHE09_77",
+    "bk1:SCR_PHE09_78",
+    "bk1:SCR_PHE09_79",
+    "bk1:SCR_PHE09_80",
+    "bk1:SCR_PHE09_81",
+    "bk1:SCR_PHE09_84"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 35,
+   "words": 408
+  },
+  {
+   "batch_id": "bk1:B0148",
+   "scene_ids": [
+    "bk1:SCR_RYO11_0",
+    "bk1:SCR_RYO11_1",
+    "bk1:SCR_RYO11_2",
+    "bk1:SCR_RYO11_3",
+    "bk1:SCR_RYO11_4",
+    "bk1:SCR_RYO11_5",
+    "bk1:SCR_RYO11_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 30,
+   "words": 717
+  },
+  {
+   "batch_id": "bk1:B0149",
+   "scene_ids": [
+    "bk1:SCR_BAL02_1",
+    "bk1:SCR_BAL02_2",
+    "bk1:SCR_BAL02_3",
+    "bk1:SCR_BAL05_0",
+    "bk1:SCR_BAL05_1",
+    "bk1:SCR_BAL05_3",
+    "bk1:SCR_BAL05_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1167
+  },
+  {
+   "batch_id": "bk1:B0150",
+   "scene_ids": [
+    "bk1:SCR_BAL05_5",
+    "bk1:SCR_BAL05_8",
+    "bk1:SCR_BAL05_9",
+    "bk1:SCR_BAL05_10",
+    "bk1:SCR_BAL05_11",
+    "bk1:SCR_BAL05_12",
+    "bk1:SCR_BAL05_13",
+    "bk1:SCR_BAL05_14",
+    "bk1:SCR_BAL07_2",
+    "bk1:SCR_BAL07_3",
+    "bk1:SCR_BAL07_4",
+    "bk1:SCR_BAL07_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 789
+  },
+  {
+   "batch_id": "bk1:B0151",
+   "scene_ids": [
+    "bk1:SCR_BAL07_6",
+    "bk1:SCR_BAL07_7",
+    "bk1:SCR_BAL07_8",
+    "bk1:SCR_BAL07_9",
+    "bk1:SCR_BAL07_10",
+    "bk1:SCR_BAL07_11",
+    "bk1:SCR_BAL07_14",
+    "bk1:SCR_BAL07_17"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 641
+  },
+  {
+   "batch_id": "bk1:B0152",
+   "scene_ids": [
+    "bk1:SCR_BAL07_18",
+    "bk1:SCR_BAL07_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 28,
+   "words": 272
+  },
+  {
+   "batch_id": "bk1:B0153",
+   "scene_ids": [
+    "bk1:SCR_DTN04_1",
+    "bk1:SCR_DTN04_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 299
+  },
+  {
+   "batch_id": "bk1:B0154",
+   "scene_ids": [
+    "bk1:SCR_SNM04_2",
+    "bk1:SCR_SNM04_3",
+    "bk1:SCR_SNM04_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 61,
+   "words": 822
+  },
+  {
+   "batch_id": "bk1:B0155",
+   "scene_ids": [
+    "bk1:SCR_SNM04_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 150
+  },
+  {
+   "batch_id": "bk1:B0156",
+   "scene_ids": [
+    "bk1:SCR_EV02161B_0",
+    "bk1:SCR_EV05010_MIN03_1",
+    "bk1:SCR_EV05050_MIN03_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 20,
+   "words": 278
+  },
+  {
+   "batch_id": "bk1:B0157",
+   "scene_ids": [
+    "bk1:SCR_KDK01_3",
+    "bk1:SCR_KDK01_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 29
+  },
+  {
+   "batch_id": "bk1:B0158",
+   "scene_ids": [
+    "bk1:SCR_KNH01_5",
+    "bk1:SCR_KNH01_6",
+    "bk1:SCR_KNH01_9",
+    "bk1:SCR_KNH01_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 60
+  },
+  {
+   "batch_id": "bk1:B0159",
+   "scene_ids": [
+    "bk1:SCR_MIN00_2",
+    "bk1:SCR_MIN01A_18",
+    "bk1:SCR_MIN01A_23",
+    "bk1:SCR_MIN01A_25",
+    "bk1:SCR_MIN01A_27",
+    "bk1:SCR_MIN01A_28",
+    "bk1:SCR_MIN01A_29"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 16,
+   "words": 311
+  },
+  {
+   "batch_id": "bk1:B0160",
+   "scene_ids": [
+    "bk1:SCR_NAS07_0",
+    "bk1:SCR_NAS07_1",
+    "bk1:SCR_NAS07_2",
+    "bk1:SCR_NAS07_3",
+    "bk1:SCR_NAS07_4",
+    "bk1:SCR_NAS07_5",
+    "bk1:SCR_NAS07_6",
+    "bk1:SCR_NAS07_7",
+    "bk1:SCR_NAS07_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 33,
+   "words": 773
+  },
+  {
+   "batch_id": "bk1:B0161",
+   "scene_ids": [
+    "bk1:SCR_TYN11_16"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 20
+  },
+  {
+   "batch_id": "bk1:B0162",
+   "scene_ids": [
+    "bk1:SCR_YRS01_1",
+    "bk1:SCR_YRS01_3",
+    "bk1:SCR_YRS01_4",
+    "bk1:SCR_YRS03_0",
+    "bk1:SCR_YRS03_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 412
+  },
+  {
+   "batch_id": "bk1:B0163",
+   "scene_ids": [
+    "bk1:SCR_YRS05_4",
+    "bk1:SCR_YRS05_5",
+    "bk1:SCR_YRS05_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 24,
+   "words": 271
+  },
+  {
+   "batch_id": "bk1:B0164",
+   "scene_ids": [
+    "bk1:SCR_EV01220B_0",
+    "bk1:SCR_EV05020_MIN01_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 197
+  },
+  {
+   "batch_id": "bk1:B0165",
+   "scene_ids": [
+    "bk1:SCR_EVE04_4",
+    "bk1:SCR_EVE04_9",
+    "bk1:SCR_EVE04_10",
+    "bk1:SCR_EVE04_11",
+    "bk1:SCR_EVE04_12",
+    "bk1:SCR_EVE04_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 56
+  },
+  {
+   "batch_id": "bk1:B0166",
+   "scene_ids": [
+    "bk1:SCR_MIN03_17",
+    "bk1:SCR_MIN03_18",
+    "bk1:SCR_MIN03_19",
+    "bk1:SCR_MIN03_20",
+    "bk1:SCR_MIN03_21",
+    "bk1:SCR_MIN03_22",
+    "bk1:SCR_MIN03_23",
+    "bk1:SCR_MIN03_24",
+    "bk1:SCR_MIN03_25",
+    "bk1:SCR_MIN03_27",
+    "bk1:SCR_MIN03_28",
+    "bk1:SCR_MIN03B_13",
+    "bk1:SCR_MIN03B_14",
+    "bk1:SCR_MIN05_17",
+    "bk1:SCR_MIN05_18",
+    "bk1:SCR_MIN05_19",
+    "bk1:SCR_MIN05_20",
+    "bk1:SCR_MIN05_21",
+    "bk1:SCR_MIN05_22",
+    "bk1:SCR_MIN05_23",
+    "bk1:SCR_MIN05_26"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 939
+  },
+  {
+   "batch_id": "bk1:B0167",
+   "scene_ids": [
+    "bk1:SCR_MIN05_27",
+    "bk1:SCR_MIN09_1",
+    "bk1:SCR_MIN09_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 558
+  },
+  {
+   "batch_id": "bk1:B0168",
+   "scene_ids": [
+    "bk1:SCR_MIN09_11",
+    "bk1:SCR_MIN09_19",
+    "bk1:SCR_MIN09_20",
+    "bk1:SCR_MIN09_21",
+    "bk1:SCR_MIN09_22"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 325
+  },
+  {
+   "batch_id": "bk1:B0169",
+   "scene_ids": [
+    "bk1:SCR_AZH00_2",
+    "bk1:SCR_AZH01_4",
+    "bk1:SCR_AZH01_5",
+    "bk1:SCR_AZH01_6",
+    "bk1:SCR_AZH01_7",
+    "bk1:SCR_AZH01_8",
+    "bk1:SCR_AZH01_9",
+    "bk1:SCR_AZH01_11",
+    "bk1:SCR_AZH01_12",
+    "bk1:SCR_AZH01_13",
+    "bk1:SCR_AZH01_14",
+    "bk1:SCR_AZH01_17"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 71,
+   "words": 1109
+  },
+  {
+   "batch_id": "bk1:B0170",
+   "scene_ids": [
+    "bk1:SCR_AZH01_19",
+    "bk1:SCR_AZH04_1",
+    "bk1:SCR_AZH04_3",
+    "bk1:SCR_AZH04_4",
+    "bk1:SCR_AZH04_5",
+    "bk1:SCR_AZH04_6",
+    "bk1:SCR_AZH04_7",
+    "bk1:SCR_AZH04_8",
+    "bk1:SCR_AZH04_9",
+    "bk1:SCR_AZH04_11",
+    "bk1:SCR_AZH04_12",
+    "bk1:SCR_AZH04_13",
+    "bk1:SCR_AZH04_14",
+    "bk1:SCR_AZH04_15",
+    "bk1:SCR_AZH04_16",
+    "bk1:SCR_AZH04_17",
+    "bk1:SCR_AZH04_18",
+    "bk1:SCR_AZH04_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 700
+  },
+  {
+   "batch_id": "bk1:B0171",
+   "scene_ids": [
+    "bk1:SCR_EV02190B_0",
+    "bk1:SCR_EV09440B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 34,
+   "words": 168
+  },
+  {
+   "batch_id": "bk1:B0172",
+   "scene_ids": [
+    "bk1:SCR_GDB04_22",
+    "bk1:SCR_GDB04_23",
+    "bk1:SCR_GDB04_24",
+    "bk1:SCR_GDB04_27",
+    "bk1:SCR_GDB08_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 36,
+   "words": 391
+  },
+  {
+   "batch_id": "bk1:B0173",
+   "scene_ids": [
+    "bk1:SCR_KOM07_0",
+    "bk1:SCR_KOM07_1",
+    "bk1:SCR_KOM07_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 424
+  },
+  {
+   "batch_id": "bk1:B0174",
+   "scene_ids": [
+    "bk1:SCR_MAP05_17",
+    "bk1:SCR_MAP05_21"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 46
+  },
+  {
+   "batch_id": "bk1:B0175",
+   "scene_ids": [
+    "bk1:SCR_MIN02A_13",
+    "bk1:SCR_MIN02A_14",
+    "bk1:SCR_MIN02A_15",
+    "bk1:SCR_MIN02A_16",
+    "bk1:SCR_MIN04_0",
+    "bk1:SCR_MIN04_18",
+    "bk1:SCR_MIN04_19",
+    "bk1:SCR_MIN04_20",
+    "bk1:SCR_MIN04_21",
+    "bk1:SCR_MIN04_22",
+    "bk1:SCR_MIN04_24",
+    "bk1:SCR_MIN04_25",
+    "bk1:SCR_MIN04_26",
+    "bk1:SCR_MIN06_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 987
+  },
+  {
+   "batch_id": "bk1:B0176",
+   "scene_ids": [
+    "bk1:SCR_MIN06_9",
+    "bk1:SCR_MIN06_11",
+    "bk1:SCR_MIN06_12",
+    "bk1:SCR_MIN06_13",
+    "bk1:SCR_MIN06_14",
+    "bk1:SCR_MIN07_0",
+    "bk1:SCR_MIN07_1",
+    "bk1:SCR_MIN07_11",
+    "bk1:SCR_MIN07_12",
+    "bk1:SCR_MIN07_13",
+    "bk1:SCR_MIN07_14",
+    "bk1:SCR_MIN07_15",
+    "bk1:SCR_MIN08_8",
+    "bk1:SCR_MIN08_9",
+    "bk1:SCR_MIN08_10",
+    "bk1:SCR_MIN08_11",
+    "bk1:SCR_MIN08_12",
+    "bk1:SCR_MIN08_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 715
+  },
+  {
+   "batch_id": "bk1:B0177",
+   "scene_ids": [
+    "bk1:SCR_TYN27_2",
+    "bk1:SCR_TYN27_3",
+    "bk1:SCR_TYN27_5",
+    "bk1:SCR_TYN27_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 277
+  },
+  {
+   "batch_id": "bk1:B0178",
+   "scene_ids": [
+    "bk1:SCR_CEB06_1",
+    "bk1:SCR_CEB06_2",
+    "bk1:SCR_CEB06_3",
+    "bk1:SCR_CEB06_4",
+    "bk1:SCR_CEB06_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 1220
+  },
+  {
+   "batch_id": "bk1:B0179",
+   "scene_ids": [
+    "bk1:SCR_CEB06_6",
+    "bk1:SCR_CEB06_7",
+    "bk1:SCR_CEB06_8",
+    "bk1:SCR_CEB06_9",
+    "bk1:SCR_CEB06_10",
+    "bk1:SCR_CEB06_11",
+    "bk1:SCR_CEB06_12",
+    "bk1:SCR_CEB06_17"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1051
+  },
+  {
+   "batch_id": "bk1:B0180",
+   "scene_ids": [
+    "bk1:SCR_CEB06_18",
+    "bk1:SCR_CEB06_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 32,
+   "words": 1109
+  },
+  {
+   "batch_id": "bk1:B0181",
+   "scene_ids": [
+    "bk1:SCR_EVE30_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 384
+  },
+  {
+   "batch_id": "bk1:B0182",
+   "scene_ids": [
+    "bk1:SCR_KDK05_0",
+    "bk1:SCR_KDK05_1",
+    "bk1:SCR_KDK05_4",
+    "bk1:SCR_KDK05_5",
+    "bk1:SCR_KDK05_6",
+    "bk1:SCR_KDK05_7",
+    "bk1:SCR_KDK05_8",
+    "bk1:SCR_KDK05_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 962
+  },
+  {
+   "batch_id": "bk1:B0183",
+   "scene_ids": [
+    "bk1:SCR_MIN02_0",
+    "bk1:SCR_MIN02_11",
+    "bk1:SCR_MIN02_12",
+    "bk1:SCR_MIN02_13",
+    "bk1:SCR_MIN02_14",
+    "bk1:SCR_MIN02_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 22,
+   "words": 401
+  },
+  {
+   "batch_id": "bk1:B0184",
+   "scene_ids": [
+    "bk1:SCR_TNM04ST_285",
+    "bk1:SCR_TNM04ST_287"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 15,
+   "words": 244
+  },
+  {
+   "batch_id": "bk1:B0185",
+   "scene_ids": [
+    "bk1:SCR_YRS04_1",
+    "bk1:SCR_YRS04_2",
+    "bk1:SCR_YRS04_3",
+    "bk1:SCR_YRS04_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 53
+  },
+  {
+   "batch_id": "bk1:B0186",
+   "scene_ids": [
+    "bk1:SCR_BAL01_2",
+    "bk1:SCR_BAL01_3",
+    "bk1:SCR_BAL01_4",
+    "bk1:SCR_BAL01_5",
+    "bk1:SCR_BAL01_12",
+    "bk1:SCR_BAL01_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 1069
+  },
+  {
+   "batch_id": "bk1:B0187",
+   "scene_ids": [
+    "bk1:SCR_BAL01_14",
+    "bk1:SCR_BAL01_15",
+    "bk1:SCR_BAL01_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 46,
+   "words": 724
+  },
+  {
+   "batch_id": "bk1:B0188",
+   "scene_ids": [
+    "bk1:SCR_BAL01_19",
+    "bk1:SCR_BAL01_20",
+    "bk1:SCR_BAL01_21",
+    "bk1:SCR_BAL01_23",
+    "bk1:SCR_BAL01_24",
+    "bk1:SCR_BAL01_25",
+    "bk1:SCR_BAL01_26",
+    "bk1:SCR_BAL01_27",
+    "bk1:SCR_BAL01_28",
+    "bk1:SCR_BAL01_29",
+    "bk1:SCR_BAL01_30",
+    "bk1:SCR_BAL01_34",
+    "bk1:SCR_BAL01_35",
+    "bk1:SCR_BAL01_36"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 640
+  },
+  {
+   "batch_id": "bk1:B0189",
+   "scene_ids": [
+    "bk1:SCR_COR23_1",
+    "bk1:SCR_COR23_2",
+    "bk1:SCR_COR26A_1",
+    "bk1:SCR_COR26A_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 29,
+   "words": 297
+  },
+  {
+   "batch_id": "bk1:B0190",
+   "scene_ids": [
+    "bk1:SCR_EV07070_TYN28_0",
+    "bk1:SCR_EV07085_TYN28_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 48,
+   "words": 458
+  },
+  {
+   "batch_id": "bk1:B0191",
+   "scene_ids": [
+    "bk1:SCR_EV07090B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 56
+  },
+  {
+   "batch_id": "bk1:B0192",
+   "scene_ids": [
+    "bk1:SCR_KOM15_1",
+    "bk1:SCR_KOM15_3",
+    "bk1:SCR_KOM15_4",
+    "bk1:SCR_KOM15_5",
+    "bk1:SCR_KOM15_6",
+    "bk1:SCR_KOM15_10",
+    "bk1:SCR_KOM15_11",
+    "bk1:SCR_KOM15_12",
+    "bk1:SCR_KOM15_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 54,
+   "words": 1021
+  },
+  {
+   "batch_id": "bk1:B0193",
+   "scene_ids": [
+    "bk1:SCR_KOM15_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 174
+  },
+  {
+   "batch_id": "bk1:B0194",
+   "scene_ids": [
+    "bk1:SCR_TYN15_0",
+    "bk1:SCR_TYN15_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 2,
+   "words": 22
+  },
+  {
+   "batch_id": "bk1:B0195",
+   "scene_ids": [
+    "bk1:SCR_KOM17_3",
+    "bk1:SCR_KOM17_4",
+    "bk1:SCR_KOM17_5",
+    "bk1:SCR_KOM17_6",
+    "bk1:SCR_KOM17_7",
+    "bk1:SCR_KOM17_8",
+    "bk1:SCR_KOM17_9",
+    "bk1:SCR_KOM17_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 71,
+   "words": 1121
+  },
+  {
+   "batch_id": "bk1:B0196",
+   "scene_ids": [
+    "bk1:SCR_KOM17_11",
+    "bk1:SCR_KOM17_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 61,
+   "words": 1006
+  },
+  {
+   "batch_id": "bk1:B0197",
+   "scene_ids": [
+    "bk1:SCR_KOM17_14",
+    "bk1:SCR_KOM17_15",
+    "bk1:SCR_KOM17_16",
+    "bk1:SCR_KOM17_18",
+    "bk1:SCR_KOM17_19",
+    "bk1:SCR_KOM17_20",
+    "bk1:SCR_KOM17_21",
+    "bk1:SCR_KOM17_22",
+    "bk1:SCR_KOM17_23",
+    "bk1:SCR_KOM17_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1031
+  },
+  {
+   "batch_id": "bk1:B0198",
+   "scene_ids": [
+    "bk1:SCR_KOM17_25",
+    "bk1:SCR_KOM17_26",
+    "bk1:SCR_KOM17_27",
+    "bk1:SCR_KOM17_30",
+    "bk1:SCR_KOM17_34",
+    "bk1:SCR_KOM17_35",
+    "bk1:SCR_KOM17_36",
+    "bk1:SCR_KOM17_37"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 588
+  },
+  {
+   "batch_id": "bk1:B0199",
+   "scene_ids": [
+    "bk1:SCR_KOM17_38",
+    "bk1:SCR_KOM17_39",
+    "bk1:SCR_KOM17_40",
+    "bk1:SCR_KOM17_42",
+    "bk1:SCR_KOM17_43",
+    "bk1:SCR_KOM17_44"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 557
+  },
+  {
+   "batch_id": "bk1:B0200",
+   "scene_ids": [
+    "bk1:SCR_KOM17_45",
+    "bk1:SCR_KOM17_46"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 428
+  },
+  {
+   "batch_id": "bk1:B0201",
+   "scene_ids": [
+    "bk1:SCR_KOM17_47",
+    "bk1:SCR_KOM17_48"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 31,
+   "words": 550
+  },
+  {
+   "batch_id": "bk1:B0202",
+   "scene_ids": [
+    "bk1:SCR_SHE01_0",
+    "bk1:SCR_SHE01_2",
+    "bk1:SCR_SHE01_3",
+    "bk1:SCR_SHE01_4",
+    "bk1:SCR_SHE01_5",
+    "bk1:SCR_SHE01_6",
+    "bk1:SCR_SHE01_7",
+    "bk1:SCR_SHE01_8",
+    "bk1:SCR_SHE01_9",
+    "bk1:SCR_SHE01_10",
+    "bk1:SCR_SHE01_11",
+    "bk1:SCR_SHE01_12",
+    "bk1:SCR_SHE01_13",
+    "bk1:SCR_SHE01_14",
+    "bk1:SCR_SHE01_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1118
+  },
+  {
+   "batch_id": "bk1:B0203",
+   "scene_ids": [
+    "bk1:SCR_SHE01_16",
+    "bk1:SCR_SHE01_17",
+    "bk1:SCR_SHE01_19",
+    "bk1:SCR_SHE01_20",
+    "bk1:SCR_SHE01_21",
+    "bk1:SCR_SHE01_22",
+    "bk1:SCR_SHE01_23",
+    "bk1:SCR_SHE01_26",
+    "bk1:SCR_SHE01_27",
+    "bk1:SCR_SHE01_29",
+    "bk1:SCR_SHE01_34",
+    "bk1:SCR_SHE02_0",
+    "bk1:SCR_SHE02_1",
+    "bk1:SCR_SHE02_5",
+    "bk1:SCR_SHE02_6",
+    "bk1:SCR_SHE02_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 63,
+   "words": 1185
+  },
+  {
+   "batch_id": "bk1:B0204",
+   "scene_ids": [
+    "bk1:SCR_CUR01_1",
+    "bk1:SCR_CUR01_2",
+    "bk1:SCR_CUR01_3",
+    "bk1:SCR_CUR01_4",
+    "bk1:SCR_CUR01_6",
+    "bk1:SCR_CUR01_7",
+    "bk1:SCR_CUR01_8",
+    "bk1:SCR_CUR01_9",
+    "bk1:SCR_CUR01_10",
+    "bk1:SCR_CUR01_11",
+    "bk1:SCR_CUR01_12",
+    "bk1:SCR_CUR01_13",
+    "bk1:SCR_CUR01_14",
+    "bk1:SCR_CUR01_18",
+    "bk1:SCR_CUR01_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 961
+  },
+  {
+   "batch_id": "bk1:B0205",
+   "scene_ids": [
+    "bk1:SCR_CUR01_20",
+    "bk1:SCR_CUR01_21",
+    "bk1:SCR_CUR01_22",
+    "bk1:SCR_CUR01_23",
+    "bk1:SCR_CUR01_24",
+    "bk1:SCR_CUR02_0",
+    "bk1:SCR_CUR02_1",
+    "bk1:SCR_CUR02_2",
+    "bk1:SCR_CUR02_3",
+    "bk1:SCR_CUR02_4",
+    "bk1:SCR_CUR02_5",
+    "bk1:SCR_CUR02_6",
+    "bk1:SCR_CUR02_7",
+    "bk1:SCR_CUR02_8",
+    "bk1:SCR_CUR03_2",
+    "bk1:SCR_CUR03_14"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 753
+  },
+  {
+   "batch_id": "bk1:B0206",
+   "scene_ids": [
+    "bk1:SCR_CUR03_15",
+    "bk1:SCR_CUR03_16",
+    "bk1:SCR_CUR03_17",
+    "bk1:SCR_CUR03_18",
+    "bk1:SCR_CUR03_19",
+    "bk1:SCR_CUR03_20",
+    "bk1:SCR_CUR03_21",
+    "bk1:SCR_CUR03_23",
+    "bk1:SCR_CUR03_24",
+    "bk1:SCR_CUR03_25",
+    "bk1:SCR_CUR03_26",
+    "bk1:SCR_CUR03_30",
+    "bk1:SCR_CUR05_0",
+    "bk1:SCR_CUR05_1",
+    "bk1:SCR_CUR05_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 1012
+  },
+  {
+   "batch_id": "bk1:B0207",
+   "scene_ids": [
+    "bk1:SCR_CUR05_3",
+    "bk1:SCR_CUR05_4",
+    "bk1:SCR_CUR05_6",
+    "bk1:SCR_CUR05_7",
+    "bk1:SCR_CUR05_8",
+    "bk1:SCR_CUR05_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 247
+  },
+  {
+   "batch_id": "bk1:B0208",
+   "scene_ids": [
+    "bk1:SCR_EV06300B_0",
+    "bk1:SCR_EV09640B_0",
+    "bk1:SCR_EV09650B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 149
+  },
+  {
+   "batch_id": "bk1:B0209",
+   "scene_ids": [
+    "bk1:SCR_EVE15_1",
+    "bk1:SCR_EVE15_2",
+    "bk1:SCR_EVE15_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 757
+  },
+  {
+   "batch_id": "bk1:B0210",
+   "scene_ids": [
+    "bk1:SCR_KAF08_0",
+    "bk1:SCR_KAF08_1",
+    "bk1:SCR_KAF08_2",
+    "bk1:SCR_KAF08_3",
+    "bk1:SCR_KAF08_4",
+    "bk1:SCR_KAF08_5",
+    "bk1:SCR_KAF08_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 22,
+   "words": 456
+  },
+  {
+   "batch_id": "bk1:B0211",
+   "scene_ids": [
+    "bk1:SCR_KDK03_0",
+    "bk1:SCR_KDK03_1",
+    "bk1:SCR_KDK03_6",
+    "bk1:SCR_KDK03_7",
+    "bk1:SCR_KDK03_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 79
+  },
+  {
+   "batch_id": "bk1:B0212",
+   "scene_ids": [
+    "bk1:SCR_MAP06_10",
+    "bk1:SCR_MAP06_11",
+    "bk1:SCR_MAP06_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 141
+  },
+  {
+   "batch_id": "bk1:B0213",
+   "scene_ids": [
+    "bk1:SCR_MNA04_0",
+    "bk1:SCR_MNA04_1",
+    "bk1:SCR_MNA04_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 63
+  },
+  {
+   "batch_id": "bk1:B0214",
+   "scene_ids": [
+    "bk1:SCR_ANH05_10",
+    "bk1:SCR_ANH05_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 92
+  },
+  {
+   "batch_id": "bk1:B0215",
+   "scene_ids": [
+    "bk1:SCR_KAF04_1",
+    "bk1:SCR_KAF04_2",
+    "bk1:SCR_KAF04_3",
+    "bk1:SCR_KAF04_4",
+    "bk1:SCR_KAF04_5",
+    "bk1:SCR_KAF04_6",
+    "bk1:SCR_KAF04_11",
+    "bk1:SCR_KAF04_12",
+    "bk1:SCR_KAF04_17",
+    "bk1:SCR_KAF05_0",
+    "bk1:SCR_KAF05_1",
+    "bk1:SCR_KAF05_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 803
+  },
+  {
+   "batch_id": "bk1:B0216",
+   "scene_ids": [
+    "bk1:SCR_KAF05_3",
+    "bk1:SCR_KAF05_4",
+    "bk1:SCR_KAF05_5",
+    "bk1:SCR_KAF09_4",
+    "bk1:SCR_KAF09_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 50,
+   "words": 896
+  },
+  {
+   "batch_id": "bk1:B0217",
+   "scene_ids": [
+    "bk1:SCR_KAF09_6",
+    "bk1:SCR_KAF09_7",
+    "bk1:SCR_KAF09_8",
+    "bk1:SCR_KAF09_9",
+    "bk1:SCR_KAF09_10",
+    "bk1:SCR_KAF09_12",
+    "bk1:SCR_KAF09_13",
+    "bk1:SCR_KAF09_15",
+    "bk1:SCR_KAF09_16",
+    "bk1:SCR_KAF09_18",
+    "bk1:SCR_KAF09_19",
+    "bk1:SCR_KAF09_20",
+    "bk1:SCR_KAF09_22"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 80
+  },
+  {
+   "batch_id": "bk1:B0218",
+   "scene_ids": [
+    "bk1:SCR_BAL01A_1",
+    "bk1:SCR_BAL01A_2",
+    "bk1:SCR_BAL01A_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 19,
+   "words": 283
+  },
+  {
+   "batch_id": "bk1:B0219",
+   "scene_ids": [
+    "bk1:SCR_EV06301B_0",
+    "bk1:SCR_EV10115B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 85
+  },
+  {
+   "batch_id": "bk1:B0220",
+   "scene_ids": [
+    "bk1:SCR_EVE10_5",
+    "bk1:SCR_EVE10_6",
+    "bk1:SCR_EVE10_8",
+    "bk1:SCR_EVE10_10",
+    "bk1:SCR_EVE17_1",
+    "bk1:SCR_EVE17_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 106
+  },
+  {
+   "batch_id": "bk1:B0221",
+   "scene_ids": [
+    "bk1:SCR_ALG01_1",
+    "bk1:SCR_ALG01_2",
+    "bk1:SCR_ALG01_3",
+    "bk1:SCR_ALG01_4",
+    "bk1:SCR_ALG01_5",
+    "bk1:SCR_ALG01_6",
+    "bk1:SCR_ALG01_9",
+    "bk1:SCR_ALG01_10",
+    "bk1:SCR_ALG01_11",
+    "bk1:SCR_ALG01_16",
+    "bk1:SCR_ALG01_17"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 698
+  },
+  {
+   "batch_id": "bk1:B0222",
+   "scene_ids": [
+    "bk1:SCR_EVE28_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 171
+  },
+  {
+   "batch_id": "bk1:B0223",
+   "scene_ids": [
+    "bk1:SCR_GEM02_0",
+    "bk1:SCR_GEM02_3",
+    "bk1:SCR_GEM02_4",
+    "bk1:SCR_GEM02_5",
+    "bk1:SCR_GEM02_6",
+    "bk1:SCR_GEM02_7",
+    "bk1:SCR_GEM02_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 49,
+   "words": 1077
+  },
+  {
+   "batch_id": "bk1:B0224",
+   "scene_ids": [
+    "bk1:SCR_GEM02_9",
+    "bk1:SCR_GEM02_14",
+    "bk1:SCR_GEM02_22",
+    "bk1:SCR_GEM04_0",
+    "bk1:SCR_GEM04_1",
+    "bk1:SCR_GEM04_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 50,
+   "words": 713
+  },
+  {
+   "batch_id": "bk1:B0225",
+   "scene_ids": [
+    "bk1:SCR_GEM04_3",
+    "bk1:SCR_GEM04_4",
+    "bk1:SCR_GEM04_5",
+    "bk1:SCR_GEM04_6",
+    "bk1:SCR_GEM04_7",
+    "bk1:SCR_GEM04_8",
+    "bk1:SCR_GEM04_9",
+    "bk1:SCR_GEM04_10",
+    "bk1:SCR_GEM04_17",
+    "bk1:SCR_GEM04_18",
+    "bk1:SCR_GEM04_19",
+    "bk1:SCR_GEM04_20",
+    "bk1:SCR_GEM04_21"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 875
+  },
+  {
+   "batch_id": "bk1:B0226",
+   "scene_ids": [
+    "bk1:SCR_KAF07_0",
+    "bk1:SCR_KAF07_1",
+    "bk1:SCR_KAF07_2",
+    "bk1:SCR_KAF07_3",
+    "bk1:SCR_KAF07_4",
+    "bk1:SCR_KAF07_5",
+    "bk1:SCR_KAF07_6",
+    "bk1:SCR_KAF07_7",
+    "bk1:SCR_KAF07_10",
+    "bk1:SCR_KAF07_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 53,
+   "words": 960
+  },
+  {
+   "batch_id": "bk1:B0227",
+   "scene_ids": [
+    "bk1:SCR_MEI22N_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 39
+  },
+  {
+   "batch_id": "bk1:B0228",
+   "scene_ids": [
+    "bk1:SCR_MIN07A_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 84,
+   "words": 1044
+  },
+  {
+   "batch_id": "bk1:B0229",
+   "scene_ids": [
+    "bk1:SCR_ALG03_0",
+    "bk1:SCR_ALG03_1",
+    "bk1:SCR_ALG03_3",
+    "bk1:SCR_ALG03_4",
+    "bk1:SCR_ALG03_5",
+    "bk1:SCR_ALG03_6",
+    "bk1:SCR_ALG03_7",
+    "bk1:SCR_ALG03_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 10,
+   "words": 212
+  },
+  {
+   "batch_id": "bk1:B0230",
+   "scene_ids": [
+    "bk1:SCR_EVE12_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 13
+  },
+  {
+   "batch_id": "bk1:B0231",
+   "scene_ids": [
+    "bk1:SCR_ALG04_1",
+    "bk1:SCR_ALG04_2",
+    "bk1:SCR_ALG04_3",
+    "bk1:SCR_ALG04_7",
+    "bk1:SCR_ALG04_8",
+    "bk1:SCR_ALG04_9",
+    "bk1:SCR_ALG04_10",
+    "bk1:SCR_ALG04_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 246
+  },
+  {
+   "batch_id": "bk1:B0232",
+   "scene_ids": [
+    "bk1:SCR_INT06_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 29,
+   "words": 474
+  },
+  {
+   "batch_id": "bk1:B0233",
+   "scene_ids": [
+    "bk1:SCR_EV08230B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 101
+  },
+  {
+   "batch_id": "bk1:B0234",
+   "scene_ids": [
+    "bk1:SCR_GDB07_16",
+    "bk1:SCR_GDB07_17",
+    "bk1:SCR_GDB07_18",
+    "bk1:SCR_GDB07_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 6
+  },
+  {
+   "batch_id": "bk1:B0235",
+   "scene_ids": [
+    "bk1:SCR_KSM02_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 2
+  },
+  {
+   "batch_id": "bk1:B0236",
+   "scene_ids": [
+    "bk1:SCR_QMT07_3",
+    "bk1:SCR_QMT07_4",
+    "bk1:SCR_QMT07_6",
+    "bk1:SCR_QMT07_7",
+    "bk1:SCR_QMT07_9",
+    "bk1:SCR_QMT07_10",
+    "bk1:SCR_QMT07_11",
+    "bk1:SCR_QMT07_12",
+    "bk1:SCR_QMT07_13",
+    "bk1:SCR_QMT07_14"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 176
+  },
+  {
+   "batch_id": "bk1:B0237",
+   "scene_ids": [
+    "bk1:SCR_SNT04_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 6,
+   "words": 38
+  },
+  {
+   "batch_id": "bk1:B0238",
+   "scene_ids": [
+    "bk1:SCR_EV05080B_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 136
+  },
+  {
+   "batch_id": "bk1:B0239",
+   "scene_ids": [
+    "bk1:SCR_KDK04_1",
+    "bk1:SCR_KDK04_2",
+    "bk1:SCR_KDK04_3",
+    "bk1:SCR_KDK04_7",
+    "bk1:SCR_KDK04_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 26,
+   "words": 416
+  },
+  {
+   "batch_id": "bk1:B0240",
+   "scene_ids": [
+    "bk1:SCR_KSM05_0",
+    "bk1:SCR_KSM05_1",
+    "bk1:SCR_KSM05_2",
+    "bk1:SCR_KSM05_3",
+    "bk1:SCR_KSM05_4",
+    "bk1:SCR_KSM05_5",
+    "bk1:SCR_KSM05_6",
+    "bk1:SCR_KSM05_7",
+    "bk1:SCR_KSM05_8",
+    "bk1:SCR_KSM05_10",
+    "bk1:SCR_KSM05_11",
+    "bk1:SCR_KSM05_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 770
+  },
+  {
+   "batch_id": "bk1:B0241",
+   "scene_ids": [
+    "bk1:SCR_COR23B_1",
+    "bk1:SCR_COR26_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 82
+  },
+  {
+   "batch_id": "bk1:B0242",
+   "scene_ids": [
+    "bk1:SCR_EV01211B_0",
+    "bk1:SCR_EV09080B_0",
+    "bk1:SCR_EV09100B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 15,
+   "words": 98
+  },
+  {
+   "batch_id": "bk1:B0243",
+   "scene_ids": [
+    "bk1:SCR_EVE08_1",
+    "bk1:SCR_EVE08_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 24,
+   "words": 525
+  },
+  {
+   "batch_id": "bk1:B0244",
+   "scene_ids": [
+    "bk1:SCR_KSM05_EV09090_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 105
+  },
+  {
+   "batch_id": "bk1:B0245",
+   "scene_ids": [
+    "bk1:SCR_SNM03_2",
+    "bk1:SCR_SNM03_3",
+    "bk1:SCR_SNM03_7",
+    "bk1:SCR_SNM03_8",
+    "bk1:SCR_SNM03_13",
+    "bk1:SCR_SNM03_14"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 22,
+   "words": 208
+  },
+  {
+   "batch_id": "bk1:B0246",
+   "scene_ids": [
+    "bk1:SCR_TDM05_0",
+    "bk1:SCR_TDM05_1",
+    "bk1:SCR_TDM05_5",
+    "bk1:SCR_TDM05_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 29,
+   "words": 236
+  },
+  {
+   "batch_id": "bk1:B0247",
+   "scene_ids": [
+    "bk1:SCR_EV07095_TYN28_0",
+    "bk1:SCR_EV09550B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 21,
+   "words": 175
+  },
+  {
+   "batch_id": "bk1:B0248",
+   "scene_ids": [
+    "bk1:SCR_EVE01_2",
+    "bk1:SCR_EVE01_3",
+    "bk1:SCR_EVE01_4",
+    "bk1:SCR_EVE01_5",
+    "bk1:SCR_EVE01_6",
+    "bk1:SCR_EVE29_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 9,
+   "words": 217
+  },
+  {
+   "batch_id": "bk1:B0249",
+   "scene_ids": [
+    "bk1:SCR_BAL08_0",
+    "bk1:SCR_BAL08_2",
+    "bk1:SCR_BAL08_3",
+    "bk1:SCR_BAL08_4",
+    "bk1:SCR_BAL09_0",
+    "bk1:SCR_BAL09_1",
+    "bk1:SCR_BAL09_2",
+    "bk1:SCR_BAL09_3",
+    "bk1:SCR_BAL09_4",
+    "bk1:SCR_BAL09_5",
+    "bk1:SCR_BAL09_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 36,
+   "words": 730
+  },
+  {
+   "batch_id": "bk1:B0250",
+   "scene_ids": [
+    "bk1:SCR_COR23A_1",
+    "bk1:SCR_COR23C_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 34,
+   "words": 312
+  },
+  {
+   "batch_id": "bk1:B0251",
+   "scene_ids": [
+    "bk1:SCR_EV01131B_0",
+    "bk1:SCR_EV01140B_1",
+    "bk1:SCR_EV02200B_1",
+    "bk1:SCR_EV03060B_0",
+    "bk1:SCR_EV04130B_1",
+    "bk1:SCR_EV04259B_0",
+    "bk1:SCR_EV07051B_0",
+    "bk1:SCR_EV08220B_0",
+    "bk1:SCR_EV10050B_3",
+    "bk1:SCR_EV10060B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 47,
+   "words": 531
+  },
+  {
+   "batch_id": "bk1:B0252",
+   "scene_ids": [
+    "bk1:SCR_MIN01_17",
+    "bk1:SCR_MIN01_18",
+    "bk1:SCR_MIN01_19",
+    "bk1:SCR_MIN01_20",
+    "bk1:SCR_MIN01_21",
+    "bk1:SCR_MIN01_22",
+    "bk1:SCR_MIN01_23",
+    "bk1:SCR_MIN01_24",
+    "bk1:SCR_MIN01_25",
+    "bk1:SCR_MIN01_26",
+    "bk1:SCR_MIN01_27"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 619
+  },
+  {
+   "batch_id": "bk1:B0253",
+   "scene_ids": [
+    "bk1:SCR_MNA06_0",
+    "bk1:SCR_MNA06_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 46
+  },
+  {
+   "batch_id": "bk1:B0254",
+   "scene_ids": [
+    "bk1:SCR_PAR02_1",
+    "bk1:SCR_PAR02_2",
+    "bk1:SCR_PAR02_3",
+    "bk1:SCR_PAR02_4",
+    "bk1:SCR_PAR02_5",
+    "bk1:SCR_PAR02_6",
+    "bk1:SCR_PAR02_7",
+    "bk1:SCR_PAR02_8",
+    "bk1:SCR_PAR02_9"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 701
+  },
+  {
+   "batch_id": "bk1:B0255",
+   "scene_ids": [
+    "bk1:SCR_PAR02_11",
+    "bk1:SCR_PAR02_13",
+    "bk1:SCR_PAR02_14",
+    "bk1:SCR_PAR02_15",
+    "bk1:SCR_PAR02_16",
+    "bk1:SCR_PAR02_17",
+    "bk1:SCR_PAR02_18",
+    "bk1:SCR_PAR02_20"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 26,
+   "words": 333
+  },
+  {
+   "batch_id": "bk1:B0256",
+   "scene_ids": [
+    "bk1:SCR_TYN01_1",
+    "bk1:SCR_TYN01_6",
+    "bk1:SCR_TYN12_3",
+    "bk1:SCR_TYN12_4",
+    "bk1:SCR_TYN17_0",
+    "bk1:SCR_TYN17_2",
+    "bk1:SCR_TYN28_1",
+    "bk1:SCR_TYN28_2",
+    "bk1:SCR_TYN28_3",
+    "bk1:SCR_TYN28_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 545
+  },
+  {
+   "batch_id": "bk1:B0257",
+   "scene_ids": [
+    "bk1:SCR_EVE06_2",
+    "bk1:SCR_EVE06_4",
+    "bk1:SCR_EVE07_1",
+    "bk1:SCR_EVE07_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 32,
+   "words": 463
+  },
+  {
+   "batch_id": "bk1:B0258",
+   "scene_ids": [
+    "bk1:SCR_NAS04_0",
+    "bk1:SCR_NAS04_1",
+    "bk1:SCR_NAS04_2",
+    "bk1:SCR_NAS04_3",
+    "bk1:SCR_NAS04_5",
+    "bk1:SCR_NAS04_6",
+    "bk1:SCR_NAS04_7",
+    "bk1:SCR_NAS04_8",
+    "bk1:SCR_NAS04_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 35,
+   "words": 611
+  },
+  {
+   "batch_id": "bk1:B0259",
+   "scene_ids": [
+    "bk1:SCR_ALG02_0",
+    "bk1:SCR_ALG02_1",
+    "bk1:SCR_ALG02_2",
+    "bk1:SCR_ALG02_3",
+    "bk1:SCR_ALG02_4",
+    "bk1:SCR_ALG02_5",
+    "bk1:SCR_ALG02_6",
+    "bk1:SCR_ALG02_7",
+    "bk1:SCR_ALG02_8",
+    "bk1:SCR_ALG02_9",
+    "bk1:SCR_ALG02_11",
+    "bk1:SCR_ALG02_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 23,
+   "words": 377
+  },
+  {
+   "batch_id": "bk1:B0260",
+   "scene_ids": [
+    "bk1:SCR_ANH02_14",
+    "bk1:SCR_ANH02_15",
+    "bk1:SCR_ANH02_16",
+    "bk1:SCR_ANH04_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 20
+  },
+  {
+   "batch_id": "bk1:B0261",
+   "scene_ids": [
+    "bk1:SCR_AZH02_0",
+    "bk1:SCR_AZH02_1",
+    "bk1:SCR_AZH02_2",
+    "bk1:SCR_AZH02_3",
+    "bk1:SCR_AZH02_5",
+    "bk1:SCR_AZH02_6",
+    "bk1:SCR_AZH02_8",
+    "bk1:SCR_AZH02_12",
+    "bk1:SCR_AZH02_13",
+    "bk1:SCR_AZH02_16",
+    "bk1:SCR_AZH03_0",
+    "bk1:SCR_AZH03_1",
+    "bk1:SCR_AZH03_2",
+    "bk1:SCR_AZH03_3",
+    "bk1:SCR_AZH03_4",
+    "bk1:SCR_AZH03_5",
+    "bk1:SCR_AZH03_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 935
+  },
+  {
+   "batch_id": "bk1:B0262",
+   "scene_ids": [
+    "bk1:SCR_AZH03_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 18
+  },
+  {
+   "batch_id": "bk1:B0263",
+   "scene_ids": [
+    "bk1:SCR_BAL00_2",
+    "bk1:SCR_BAL06_29",
+    "bk1:SCR_BAL06_30"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 69,
+   "words": 1083
+  },
+  {
+   "batch_id": "bk1:B0264",
+   "scene_ids": [
+    "bk1:SCR_BAL06_31",
+    "bk1:SCR_BAL06_32",
+    "bk1:SCR_BAL06_34",
+    "bk1:SCR_BAL06_35",
+    "bk1:SCR_BAL06_36",
+    "bk1:SCR_BAL06_37",
+    "bk1:SCR_BAL06_38",
+    "bk1:SCR_BAL06_39",
+    "bk1:SCR_BAL06_40",
+    "bk1:SCR_BAL06_41",
+    "bk1:SCR_BAL06_42"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 653
+  },
+  {
+   "batch_id": "bk1:B0265",
+   "scene_ids": [
+    "bk1:SCR_BAL06_43",
+    "bk1:SCR_BAL06_44",
+    "bk1:SCR_BAL06_45",
+    "bk1:SCR_BAL06_46",
+    "bk1:SCR_BAL06_47",
+    "bk1:SCR_BAL06_52",
+    "bk1:SCR_BAL11_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 166
+  },
+  {
+   "batch_id": "bk1:B0266",
+   "scene_ids": [
+    "bk1:SCR_CEB02_0",
+    "bk1:SCR_CEB02_1",
+    "bk1:SCR_CEB02_2",
+    "bk1:SCR_CEB02_3",
+    "bk1:SCR_CEB02_4",
+    "bk1:SCR_CEB02_5",
+    "bk1:SCR_CEB02_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1220
+  },
+  {
+   "batch_id": "bk1:B0267",
+   "scene_ids": [
+    "bk1:SCR_CEB02_7",
+    "bk1:SCR_CEB02_8",
+    "bk1:SCR_CEB02_9",
+    "bk1:SCR_CEB02_10",
+    "bk1:SCR_CEB02_12",
+    "bk1:SCR_CEB02_14",
+    "bk1:SCR_CEB02_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 24,
+   "words": 469
+  },
+  {
+   "batch_id": "bk1:B0268",
+   "scene_ids": [
+    "bk1:SCR_CNM04_6",
+    "bk1:SCR_CNM04_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 4,
+   "words": 78
+  },
+  {
+   "batch_id": "bk1:B0269",
+   "scene_ids": [
+    "bk1:SCR_CNS04_7",
+    "bk1:SCR_CNS04_8",
+    "bk1:SCR_CNS04_9",
+    "bk1:SCR_CNS04_10",
+    "bk1:SCR_CNS04_11",
+    "bk1:SCR_CNS04_12",
+    "bk1:SCR_CNS04_13",
+    "bk1:SCR_CNS04_14",
+    "bk1:SCR_CNS04_15",
+    "bk1:SCR_CNS04_16",
+    "bk1:SCR_CNS04_17",
+    "bk1:SCR_CNS04_18",
+    "bk1:SCR_CNS04_19",
+    "bk1:SCR_CNS04_21",
+    "bk1:SCR_CNS04_30",
+    "bk1:SCR_CNS04_31",
+    "bk1:SCR_CNS04_36",
+    "bk1:SCR_CNS08_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 668
+  },
+  {
+   "batch_id": "bk1:B0270",
+   "scene_ids": [
+    "bk1:SCR_CNS08_2",
+    "bk1:SCR_CNS08_3",
+    "bk1:SCR_CNS08_4",
+    "bk1:SCR_CNS08_5",
+    "bk1:SCR_CNS08_6",
+    "bk1:SCR_CNS08_7",
+    "bk1:SCR_CNS08_8",
+    "bk1:SCR_CNS10_3",
+    "bk1:SCR_CNS10_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 33,
+   "words": 518
+  },
+  {
+   "batch_id": "bk1:B0271",
+   "scene_ids": [
+    "bk1:SCR_COR03_11",
+    "bk1:SCR_COR03_13",
+    "bk1:SCR_COR03_14",
+    "bk1:SCR_COR05_4",
+    "bk1:SCR_COR07_3",
+    "bk1:SCR_COR08_17",
+    "bk1:SCR_COR08_18",
+    "bk1:SCR_COR08_19",
+    "bk1:SCR_COR10_5",
+    "bk1:SCR_COR10_6",
+    "bk1:SCR_COR11_17",
+    "bk1:SCR_COR11_19",
+    "bk1:SCR_COR13_3",
+    "bk1:SCR_COR13_4",
+    "bk1:SCR_COR14_35",
+    "bk1:SCR_COR14_36",
+    "bk1:SCR_COR14_37",
+    "bk1:SCR_COR25_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 21,
+   "words": 117
+  },
+  {
+   "batch_id": "bk1:B0272",
+   "scene_ids": [
+    "bk1:SCR_CUR00_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 8
+  },
+  {
+   "batch_id": "bk1:B0273",
+   "scene_ids": [
+    "bk1:SCR_DTG01_3",
+    "bk1:SCR_DTG01_4",
+    "bk1:SCR_DTG02_5",
+    "bk1:SCR_DTG02_6",
+    "bk1:SCR_DTG02_7",
+    "bk1:SCR_DTG02_8",
+    "bk1:SCR_DTG02_10",
+    "bk1:SCR_DTG03_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 68,
+   "words": 531
+  },
+  {
+   "batch_id": "bk1:B0274",
+   "scene_ids": [
+    "bk1:SCR_DTG03_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 107
+  },
+  {
+   "batch_id": "bk1:B0275",
+   "scene_ids": [
+    "bk1:SCR_DTN01_3",
+    "bk1:SCR_DTN01_4",
+    "bk1:SCR_DTN01_12",
+    "bk1:SCR_DTN01_15",
+    "bk1:SCR_DTN01_17",
+    "bk1:SCR_DTN01_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 59,
+   "words": 1017
+  },
+  {
+   "batch_id": "bk1:B0276",
+   "scene_ids": [
+    "bk1:SCR_DTN02_0",
+    "bk1:SCR_DTN02_28",
+    "bk1:SCR_DTN02_29",
+    "bk1:SCR_DTN02_30",
+    "bk1:SCR_DTN02_31",
+    "bk1:SCR_DTN02_37",
+    "bk1:SCR_DTN02_39",
+    "bk1:SCR_DTN03_7",
+    "bk1:SCR_DTN03_9",
+    "bk1:SCR_DTN03_11",
+    "bk1:SCR_DTN03_12",
+    "bk1:SCR_DTN03_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 511
+  },
+  {
+   "batch_id": "bk1:B0277",
+   "scene_ids": [
+    "bk1:SCR_DTN03_15",
+    "bk1:SCR_DTN03_17",
+    "bk1:SCR_DTN03_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 5,
+   "words": 28
+  },
+  {
+   "batch_id": "bk1:B0278",
+   "scene_ids": [
+    "bk1:SCR_EV01111B_0",
+    "bk1:SCR_EV02110B_0",
+    "bk1:SCR_EV02169B_0",
+    "bk1:SCR_EV04255B_0",
+    "bk1:SCR_EV05052B_0",
+    "bk1:SCR_EV07059B_0",
+    "bk1:SCR_EV09230B_0",
+    "bk1:SCR_EV09560B_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 13,
+   "words": 151
+  },
+  {
+   "batch_id": "bk1:B0279",
+   "scene_ids": [
+    "bk1:SCR_EVE02_1",
+    "bk1:SCR_EVE03_1",
+    "bk1:SCR_EVE05_3",
+    "bk1:SCR_EVE05_4",
+    "bk1:SCR_EVE09_1",
+    "bk1:SCR_EVE32_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 44
+  },
+  {
+   "batch_id": "bk1:B0280",
+   "scene_ids": [
+    "bk1:SCR_GDB01_3",
+    "bk1:SCR_GDB01_7",
+    "bk1:SCR_GDB01_14",
+    "bk1:SCR_GDB03_14",
+    "bk1:SCR_GDB03_15",
+    "bk1:SCR_GDB03_18",
+    "bk1:SCR_GDB03_19",
+    "bk1:SCR_GDB05_18",
+    "bk1:SCR_GDB05_19",
+    "bk1:SCR_GDB05_20",
+    "bk1:SCR_GDB06_15",
+    "bk1:SCR_GDB06_17",
+    "bk1:SCR_GDB06_18",
+    "bk1:SCR_GDB06_19",
+    "bk1:SCR_GDB06_20"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 37,
+   "words": 277
+  },
+  {
+   "batch_id": "bk1:B0281",
+   "scene_ids": [
+    "bk1:SCR_INT01_61",
+    "bk1:SCR_INT01_62",
+    "bk1:SCR_INT01_63",
+    "bk1:SCR_INT01_64",
+    "bk1:SCR_INT01_65",
+    "bk1:SCR_INT01_66",
+    "bk1:SCR_INT01_67",
+    "bk1:SCR_INT01_68",
+    "bk1:SCR_INT01_69"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 910
+  },
+  {
+   "batch_id": "bk1:B0282",
+   "scene_ids": [
+    "bk1:SCR_INT01_72",
+    "bk1:SCR_INT01_74",
+    "bk1:SCR_INT01_76",
+    "bk1:SCR_INT01_78",
+    "bk1:SCR_INT01_79",
+    "bk1:SCR_INT01_80",
+    "bk1:SCR_INT01_87",
+    "bk1:SCR_INT01_88",
+    "bk1:SCR_INT02_61",
+    "bk1:SCR_INT03_69",
+    "bk1:SCR_INT04_1",
+    "bk1:SCR_INT04_2",
+    "bk1:SCR_INT04_66",
+    "bk1:SCR_INT04_69",
+    "bk1:SCR_INT07_70"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 49,
+   "words": 1015
+  },
+  {
+   "batch_id": "bk1:B0283",
+   "scene_ids": [
+    "bk1:SCR_INT07_71",
+    "bk1:SCR_INT09_71",
+    "bk1:SCR_INT09_72"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 3,
+   "words": 5
+  },
+  {
+   "batch_id": "bk1:B0284",
+   "scene_ids": [
+    "bk1:SCR_JHH02_4",
+    "bk1:SCR_JHH03_5",
+    "bk1:SCR_JHH03_6",
+    "bk1:SCR_JHH03_7",
+    "bk1:SCR_JHH03_8",
+    "bk1:SCR_JHH03_9",
+    "bk1:SCR_JHH03_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 18
+  },
+  {
+   "batch_id": "bk1:B0285",
+   "scene_ids": [
+    "bk1:SCR_JNS01_2",
+    "bk1:SCR_JNS01_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 89
+  },
+  {
+   "batch_id": "bk1:B0286",
+   "scene_ids": [
+    "bk1:SCR_KAF01_0",
+    "bk1:SCR_KAF01_1",
+    "bk1:SCR_KAF01_2",
+    "bk1:SCR_KAF01_5",
+    "bk1:SCR_KAF02_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 17,
+   "words": 308
+  },
+  {
+   "batch_id": "bk1:B0287",
+   "scene_ids": [
+    "bk1:SCR_KDK02_0",
+    "bk1:SCR_KDK06A_2",
+    "bk1:SCR_KDK06A_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 134
+  },
+  {
+   "batch_id": "bk1:B0288",
+   "scene_ids": [
+    "bk1:SCR_KEI01_5",
+    "bk1:SCR_KEI01_11",
+    "bk1:SCR_KEI01_12",
+    "bk1:SCR_KEI01_13",
+    "bk1:SCR_KEI03_5",
+    "bk1:SCR_KEI03_6",
+    "bk1:SCR_KEI03_7",
+    "bk1:SCR_KEI03_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 824
+  },
+  {
+   "batch_id": "bk1:B0289",
+   "scene_ids": [
+    "bk1:SCR_KNM01_19",
+    "bk1:SCR_KNM01_20",
+    "bk1:SCR_KNM02_7",
+    "bk1:SCR_KNM03_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 77
+  },
+  {
+   "batch_id": "bk1:B0290",
+   "scene_ids": [
+    "bk1:SCR_KOM00_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 1,
+   "words": 5
+  },
+  {
+   "batch_id": "bk1:B0291",
+   "scene_ids": [
+    "bk1:SCR_KSM03_8",
+    "bk1:SCR_KSM04_2",
+    "bk1:SCR_KSM04_3",
+    "bk1:SCR_KSM04_11",
+    "bk1:SCR_KSM04_12",
+    "bk1:SCR_KSM06_0",
+    "bk1:SCR_KSM06_1",
+    "bk1:SCR_KSM06_2",
+    "bk1:SCR_KSM06_3",
+    "bk1:SCR_KSM06_4",
+    "bk1:SCR_KSM06_5",
+    "bk1:SCR_KSM06_6",
+    "bk1:SCR_KSM06_7",
+    "bk1:SCR_KSM07_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 26,
+   "words": 230
+  },
+  {
+   "batch_id": "bk1:B0292",
+   "scene_ids": [
+    "bk1:SCR_KYO01_7",
+    "bk1:SCR_KYO01_8",
+    "bk1:SCR_KYO01_9",
+    "bk1:SCR_KYO01_10",
+    "bk1:SCR_KYO01_11",
+    "bk1:SCR_KYO01_12"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 525
+  },
+  {
+   "batch_id": "bk1:B0293",
+   "scene_ids": [
+    "bk1:SCR_KYO01_13",
+    "bk1:SCR_KYO01_14",
+    "bk1:SCR_KYO01_15",
+    "bk1:SCR_KYO01_16",
+    "bk1:SCR_KYO01_17",
+    "bk1:SCR_KYO01_18",
+    "bk1:SCR_KYO01_19",
+    "bk1:SCR_KYO01_20",
+    "bk1:SCR_KYO01_21",
+    "bk1:SCR_KYO01_24",
+    "bk1:SCR_KYO01_30",
+    "bk1:SCR_KYO01_31"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 49,
+   "words": 859
+  },
+  {
+   "batch_id": "bk1:B0294",
+   "scene_ids": [
+    "bk1:SCR_KYO01_33",
+    "bk1:SCR_KYO01_39",
+    "bk1:SCR_KYO02_3",
+    "bk1:SCR_KYO02_4",
+    "bk1:SCR_KYO02_5",
+    "bk1:SCR_KYO02_6",
+    "bk1:SCR_KYO02_7",
+    "bk1:SCR_KYO02_8",
+    "bk1:SCR_KYO02_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 27,
+   "words": 544
+  },
+  {
+   "batch_id": "bk1:B0295",
+   "scene_ids": [
+    "bk1:SCR_MAP04_7",
+    "bk1:SCR_MAP04_8",
+    "bk1:SCR_MAP04_14"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 42
+  },
+  {
+   "batch_id": "bk1:B0296",
+   "scene_ids": [
+    "bk1:SCR_MEI01E_1",
+    "bk1:SCR_MEI03S_0",
+    "bk1:SCR_MEI03S_1",
+    "bk1:SCR_MEI09N_0",
+    "bk1:SCR_MEI11N_1",
+    "bk1:SCR_MEI12E_1",
+    "bk1:SCR_MEI12E_2",
+    "bk1:SCR_MEI14E_1",
+    "bk1:SCR_MEI15N_1",
+    "bk1:SCR_MEI17E_1",
+    "bk1:SCR_MEI19N_2",
+    "bk1:SCR_MEI20S_0",
+    "bk1:SCR_MEI20S_1",
+    "bk1:SCR_MEI20S_3",
+    "bk1:SCR_MEI21E_2",
+    "bk1:SCR_MEI21E_3",
+    "bk1:SCR_MEI24E_1"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 28,
+   "words": 608
+  },
+  {
+   "batch_id": "bk1:B0297",
+   "scene_ids": [
+    "bk1:SCR_MIN01B_4",
+    "bk1:SCR_MIN01B_23",
+    "bk1:SCR_MIN02B_16",
+    "bk1:SCR_MIN03A_16",
+    "bk1:SCR_MIN03A_19",
+    "bk1:SCR_MIN03A_20",
+    "bk1:SCR_MIN03A_21",
+    "bk1:SCR_MIN03A_22",
+    "bk1:SCR_MIN03A_23"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 20,
+   "words": 584
+  },
+  {
+   "batch_id": "bk1:B0298",
+   "scene_ids": [
+    "bk1:SCR_MNA03_1",
+    "bk1:SCR_MNA05_1",
+    "bk1:SCR_MNA05_2",
+    "bk1:SCR_MNA27_0",
+    "bk1:SCR_MNA27_1",
+    "bk1:SCR_MNA27_2",
+    "bk1:SCR_MNA27_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 12,
+   "words": 220
+  },
+  {
+   "batch_id": "bk1:B0299",
+   "scene_ids": [
+    "bk1:SCR_NAS05_3",
+    "bk1:SCR_NAS05_4",
+    "bk1:SCR_NAS05_5",
+    "bk1:SCR_NAS05_6",
+    "bk1:SCR_NAS05_10",
+    "bk1:SCR_NAS05_11"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 52,
+   "words": 803
+  },
+  {
+   "batch_id": "bk1:B0300",
+   "scene_ids": [
+    "bk1:SCR_NIH02_13",
+    "bk1:SCR_NIH02_14",
+    "bk1:SCR_NIH02_16",
+    "bk1:SCR_NIH03_5",
+    "bk1:SCR_NIH03_6",
+    "bk1:SCR_NIH03_7",
+    "bk1:SCR_NIH03_8",
+    "bk1:SCR_NIH03_9",
+    "bk1:SCR_NIH03_10",
+    "bk1:SCR_NIH03_11",
+    "bk1:SCR_NIH03_12",
+    "bk1:SCR_NIH03_13",
+    "bk1:SCR_NIH03_14",
+    "bk1:SCR_NIH03_15",
+    "bk1:SCR_NIH03_16",
+    "bk1:SCR_NIH03_20",
+    "bk1:SCR_NIH03_22",
+    "bk1:SCR_NIH03_23",
+    "bk1:SCR_NIH03_24"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 882
+  },
+  {
+   "batch_id": "bk1:B0301",
+   "scene_ids": [
+    "bk1:SCR_NIH03_25",
+    "bk1:SCR_NIH03_26",
+    "bk1:SCR_NIH03_27",
+    "bk1:SCR_NIH03_28",
+    "bk1:SCR_NIH03_29",
+    "bk1:SCR_NIH03_31",
+    "bk1:SCR_NIH03_32",
+    "bk1:SCR_NIH03_33",
+    "bk1:SCR_NIH03_34",
+    "bk1:SCR_NIH1A_19",
+    "bk1:SCR_NIH1C_14",
+    "bk1:SCR_NIH1C_15",
+    "bk1:SCR_NIH2A_19",
+    "bk1:SCR_NIH2A_20"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 754
+  },
+  {
+   "batch_id": "bk1:B0302",
+   "scene_ids": [
+    "bk1:SCR_NIH2D_16",
+    "bk1:SCR_NIH3B_17",
+    "bk1:SCR_NIH3B_18",
+    "bk1:SCR_NIH3D_14",
+    "bk1:SCR_NIH3D_15"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 263
+  },
+  {
+   "batch_id": "bk1:B0303",
+   "scene_ids": [
+    "bk1:SCR_OPU04_0",
+    "bk1:SCR_OPU04_1",
+    "bk1:SCR_OPU04_2",
+    "bk1:SCR_OPU04_3",
+    "bk1:SCR_OPU04_4",
+    "bk1:SCR_OPU04_5",
+    "bk1:SCR_OPU04_6",
+    "bk1:SCR_OPU04_7",
+    "bk1:SCR_OPU04_8",
+    "bk1:SCR_OPU04_9",
+    "bk1:SCR_OPU04_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 37,
+   "words": 692
+  },
+  {
+   "batch_id": "bk1:B0304",
+   "scene_ids": [
+    "bk1:SCR_PHE00_2",
+    "bk1:SCR_PHE01_5",
+    "bk1:SCR_PHE01_7",
+    "bk1:SCR_PHE01_8",
+    "bk1:SCR_PHE01_9",
+    "bk1:SCR_PHE01_10",
+    "bk1:SCR_PHE01_11",
+    "bk1:SCR_PHE01_12",
+    "bk1:SCR_PHE01_13",
+    "bk1:SCR_PHE01_14",
+    "bk1:SCR_PHE01_15",
+    "bk1:SCR_PHE01_16",
+    "bk1:SCR_PHE01_17"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 1204
+  },
+  {
+   "batch_id": "bk1:B0305",
+   "scene_ids": [
+    "bk1:SCR_PHE01_18",
+    "bk1:SCR_PHE01_19",
+    "bk1:SCR_PHE01_20",
+    "bk1:SCR_PHE01_21",
+    "bk1:SCR_PHE01_22",
+    "bk1:SCR_PHE01_23",
+    "bk1:SCR_PHE01_25"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 43,
+   "words": 871
+  },
+  {
+   "batch_id": "bk1:B0306",
+   "scene_ids": [
+    "bk1:SCR_PHE01_33",
+    "bk1:SCR_PHE01_35",
+    "bk1:SCR_PHE01_36",
+    "bk1:SCR_PHE02_2",
+    "bk1:SCR_PHE02_3",
+    "bk1:SCR_PHE02_4",
+    "bk1:SCR_PHE02_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 1052
+  },
+  {
+   "batch_id": "bk1:B0307",
+   "scene_ids": [
+    "bk1:SCR_PHE02_6",
+    "bk1:SCR_PHE02_11",
+    "bk1:SCR_PHE05_1",
+    "bk1:SCR_PHE05_2",
+    "bk1:SCR_PHE05_3",
+    "bk1:SCR_PHE05_4",
+    "bk1:SCR_PHE05_5",
+    "bk1:SCR_PHE05_6"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 41,
+   "words": 1244
+  },
+  {
+   "batch_id": "bk1:B0308",
+   "scene_ids": [
+    "bk1:SCR_PHE05_7",
+    "bk1:SCR_PHE05_8",
+    "bk1:SCR_PHE05_9",
+    "bk1:SCR_PHE05_13",
+    "bk1:SCR_PHE05_14",
+    "bk1:SCR_PHE05_15",
+    "bk1:SCR_PHE05_16",
+    "bk1:SCR_PHE07_0",
+    "bk1:SCR_PHE07_1",
+    "bk1:SCR_PHE07_2",
+    "bk1:SCR_PHE07_3",
+    "bk1:SCR_PHE07_4",
+    "bk1:SCR_PHE07_5",
+    "bk1:SCR_PHE07_6",
+    "bk1:SCR_PHE07_7",
+    "bk1:SCR_PHE07_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 38,
+   "words": 818
+  },
+  {
+   "batch_id": "bk1:B0309",
+   "scene_ids": [
+    "bk1:SCR_QMT01_3",
+    "bk1:SCR_QMT01_6",
+    "bk1:SCR_QMT01_7",
+    "bk1:SCR_QMT01_8",
+    "bk1:SCR_QMT01_10",
+    "bk1:SCR_QMT01_12",
+    "bk1:SCR_QMT01_13"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 53,
+   "words": 604
+  },
+  {
+   "batch_id": "bk1:B0310",
+   "scene_ids": [
+    "bk1:SCR_QMT02_2",
+    "bk1:SCR_QMT02_3",
+    "bk1:SCR_QMT03_9",
+    "bk1:SCR_QMT03_10",
+    "bk1:SCR_QMT03_11",
+    "bk1:SCR_QMT03_12",
+    "bk1:SCR_QMT03_14",
+    "bk1:SCR_QMT03_15",
+    "bk1:SCR_QMT03_16",
+    "bk1:SCR_QMT03_17",
+    "bk1:SCR_QMT03_18"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 606
+  },
+  {
+   "batch_id": "bk1:B0311",
+   "scene_ids": [
+    "bk1:SCR_QMT03_19",
+    "bk1:SCR_QMT03_20",
+    "bk1:SCR_QMT03_21",
+    "bk1:SCR_QMT03_22",
+    "bk1:SCR_QMT03_24",
+    "bk1:SCR_QMT03_26",
+    "bk1:SCR_QMT03_27",
+    "bk1:SCR_QMT03_29",
+    "bk1:SCR_QMT03_30",
+    "bk1:SCR_QMT03_31",
+    "bk1:SCR_QMT03_32",
+    "bk1:SCR_QMT03_33",
+    "bk1:SCR_QMT03_34",
+    "bk1:SCR_QMT04_3",
+    "bk1:SCR_QMT04_4",
+    "bk1:SCR_QMT04_5",
+    "bk1:SCR_QMT04_6",
+    "bk1:SCR_QMT04_8",
+    "bk1:SCR_QMT04_10",
+    "bk1:SCR_QMT04_12",
+    "bk1:SCR_QMT04_13",
+    "bk1:SCR_QMT04_14",
+    "bk1:SCR_QMT04_15",
+    "bk1:SCR_QMT04_16",
+    "bk1:SCR_QMT05_2",
+    "bk1:SCR_QMT05_3",
+    "bk1:SCR_QMT05_4",
+    "bk1:SCR_QMT05_5",
+    "bk1:SCR_QMT05_6",
+    "bk1:SCR_QMT05_7",
+    "bk1:SCR_QMT05_9",
+    "bk1:SCR_QMT05_10"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 489
+  },
+  {
+   "batch_id": "bk1:B0312",
+   "scene_ids": [
+    "bk1:SCR_QMT06_3",
+    "bk1:SCR_QMT06_4",
+    "bk1:SCR_QMT06_5",
+    "bk1:SCR_QMT06_6",
+    "bk1:SCR_QMT06_8",
+    "bk1:SCR_QMT06_11",
+    "bk1:SCR_QMT06_12",
+    "bk1:SCR_QMT06_14",
+    "bk1:SCR_QMT06_15",
+    "bk1:SCR_QMT06_16",
+    "bk1:SCR_QMT06_17",
+    "bk1:SCR_QMT06_19"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 21,
+   "words": 428
+  },
+  {
+   "batch_id": "bk1:B0313",
+   "scene_ids": [
+    "bk1:SCR_REV00_4",
+    "bk1:SCR_REV01_4",
+    "bk1:SCR_REV01_5",
+    "bk1:SCR_REV01_6",
+    "bk1:SCR_REV01_7",
+    "bk1:SCR_REV01_8",
+    "bk1:SCR_REV01_9",
+    "bk1:SCR_REV01_10",
+    "bk1:SCR_REV01_11",
+    "bk1:SCR_REV01_12",
+    "bk1:SCR_REV01_14",
+    "bk1:SCR_REV01_15",
+    "bk1:SCR_REV01_16",
+    "bk1:SCR_REV01_19",
+    "bk1:SCR_REV01_20",
+    "bk1:SCR_REV02_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 45,
+   "words": 1216
+  },
+  {
+   "batch_id": "bk1:B0314",
+   "scene_ids": [
+    "bk1:SCR_REV02_1",
+    "bk1:SCR_REV03_0",
+    "bk1:SCR_REV03_1",
+    "bk1:SCR_REV03_2",
+    "bk1:SCR_REV03_3",
+    "bk1:SCR_REV04_2",
+    "bk1:SCR_REV04_3",
+    "bk1:SCR_REV04_4",
+    "bk1:SCR_REV04_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 14,
+   "words": 426
+  },
+  {
+   "batch_id": "bk1:B0315",
+   "scene_ids": [
+    "bk1:SCR_RYO02_0",
+    "bk1:SCR_RYO02_1",
+    "bk1:SCR_RYO02_3",
+    "bk1:SCR_RYO02_12",
+    "bk1:SCR_RYO03_0",
+    "bk1:SCR_RYO04_0",
+    "bk1:SCR_RYO04_1",
+    "bk1:SCR_RYO04_3",
+    "bk1:SCR_RYO07_0"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 42,
+   "words": 629
+  },
+  {
+   "batch_id": "bk1:B0316",
+   "scene_ids": [
+    "bk1:SCR_RYO07_1",
+    "bk1:SCR_RYO07_2",
+    "bk1:SCR_RYO07_3",
+    "bk1:SCR_RYO08_0",
+    "bk1:SCR_RYO08_1",
+    "bk1:SCR_RYO08_2",
+    "bk1:SCR_RYO08_3",
+    "bk1:SCR_RYO08_4",
+    "bk1:SCR_RYO08_5",
+    "bk1:SCR_RYO10_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 19,
+   "words": 497
+  },
+  {
+   "batch_id": "bk1:B0317",
+   "scene_ids": [
+    "bk1:SCR_SNM01_3",
+    "bk1:SCR_SNM02_1",
+    "bk1:SCR_SNM04A_0",
+    "bk1:SCR_SNM04A_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 8,
+   "words": 78
+  },
+  {
+   "batch_id": "bk1:B0318",
+   "scene_ids": [
+    "bk1:SCR_SNT02_9",
+    "bk1:SCR_SNT03_3",
+    "bk1:SCR_SNT03_4",
+    "bk1:SCR_SNT03_5",
+    "bk1:SCR_SNT03_7"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 47
+  },
+  {
+   "batch_id": "bk1:B0319",
+   "scene_ids": [
+    "bk1:SCR_STG01A_12",
+    "bk1:SCR_STG02_1",
+    "bk1:SCR_STG02_9",
+    "bk1:SCR_STG02_10",
+    "bk1:SCR_STG04_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 11,
+   "words": 95
+  },
+  {
+   "batch_id": "bk1:B0320",
+   "scene_ids": [
+    "bk1:SCR_TDM01_3",
+    "bk1:SCR_TDM01_6",
+    "bk1:SCR_TDM02_1",
+    "bk1:SCR_TDM02_2",
+    "bk1:SCR_TDM02_3",
+    "bk1:SCR_TDM02_10",
+    "bk1:SCR_TDM02_12",
+    "bk1:SCR_TDM02_14",
+    "bk1:SCR_TDM02_16",
+    "bk1:SCR_TDM04_4",
+    "bk1:SCR_TDM04_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 44,
+   "words": 1136
+  },
+  {
+   "batch_id": "bk1:B0321",
+   "scene_ids": [
+    "bk1:SCR_TDM04_6",
+    "bk1:SCR_TDM04_7",
+    "bk1:SCR_TDM04_9",
+    "bk1:SCR_TDM04_13",
+    "bk1:SCR_TDM05A_1",
+    "bk1:SCR_TDM05A_3"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 20,
+   "words": 412
+  },
+  {
+   "batch_id": "bk1:B0322",
+   "scene_ids": [
+    "bk1:SCR_TNM01_14",
+    "bk1:SCR_TNM02_6",
+    "bk1:SCR_TNM02_7",
+    "bk1:SCR_TNM02_8"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 6,
+   "words": 15
+  },
+  {
+   "batch_id": "bk1:B0323",
+   "scene_ids": [
+    "bk1:SCR_TYN02_9",
+    "bk1:SCR_TYN03_9",
+    "bk1:SCR_TYN06_9",
+    "bk1:SCR_TYN06_11",
+    "bk1:SCR_TYN07_9",
+    "bk1:SCR_TYN07_10",
+    "bk1:SCR_TYN08_9",
+    "bk1:SCR_TYN10_3",
+    "bk1:SCR_TYN10_4",
+    "bk1:SCR_TYN10_6",
+    "bk1:SCR_TYN10_7",
+    "bk1:SCR_TYN10_14",
+    "bk1:SCR_TYN16_0",
+    "bk1:SCR_TYN16_1",
+    "bk1:SCR_TYN16_2",
+    "bk1:SCR_TYN16_3",
+    "bk1:SCR_TYN16_4",
+    "bk1:SCR_TYN16_5",
+    "bk1:SCR_TYN16_6",
+    "bk1:SCR_TYN16_7",
+    "bk1:SCR_TYN16_8",
+    "bk1:SCR_TYN16_9",
+    "bk1:SCR_TYN16_10",
+    "bk1:SCR_TYN18_0",
+    "bk1:SCR_TYN18_1",
+    "bk1:SCR_TYN18_2",
+    "bk1:SCR_TYN18_3",
+    "bk1:SCR_TYN18_4",
+    "bk1:SCR_TYN19_0",
+    "bk1:SCR_TYN19_1",
+    "bk1:SCR_TYN19_2"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 40,
+   "words": 450
+  },
+  {
+   "batch_id": "bk1:B0324",
+   "scene_ids": [
+    "bk1:SCR_TYN19_3",
+    "bk1:SCR_TYN19_4",
+    "bk1:SCR_TYN20_0",
+    "bk1:SCR_TYN20_1",
+    "bk1:SCR_TYN21_0",
+    "bk1:SCR_TYN22_1",
+    "bk1:SCR_TYN24_0",
+    "bk1:SCR_TYN24_1",
+    "bk1:SCR_TYN24_3",
+    "bk1:SCR_TYN24_4",
+    "bk1:SCR_TYN24_5",
+    "bk1:SCR_TYN24_6",
+    "bk1:SCR_TYN25_1",
+    "bk1:SCR_TYN25_2",
+    "bk1:SCR_TYN25_3",
+    "bk1:SCR_TYN25_4",
+    "bk1:SCR_TYN25_5"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 28,
+   "words": 386
+  },
+  {
+   "batch_id": "bk1:B0325",
+   "scene_ids": [
+    "bk1:SCR_YRS02_1",
+    "bk1:SCR_YRS06_0",
+    "bk1:SCR_YRS07_2",
+    "bk1:SCR_YRS07_4"
+   ],
+   "kind": "event",
+   "category": "dialogue",
+   "count": 7,
+   "words": 65
+  },
+  {
+   "batch_id": "bk1:B0326",
+   "scene_ids": [
+    "bk1:ABN#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 8,
+   "words": 8
+  },
+  {
+   "batch_id": "bk1:B0327",
+   "scene_ids": [
+    "bk1:AdvancedNewGame#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 29,
+   "words": 167
+  },
+  {
+   "batch_id": "bk1:B0328",
+   "scene_ids": [
+    "bk1:BFF#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 29,
+   "words": 74
+  },
+  {
+   "batch_id": "bk1:B0329",
+   "scene_ids": [
+    "bk1:BMG#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 11,
+   "words": 18
+  },
+  {
+   "batch_id": "bk1:B0330",
+   "scene_ids": [
+    "bk1:BTM#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 15,
+   "words": 34
+  },
+  {
+   "batch_id": "bk1:B0331",
+   "scene_ids": [
+    "bk1:BattleVoice#00"
+   ],
+   "kind": "set",
+   "category": "battle_voice",
+   "count": 103,
+   "words": 661
+  },
+  {
+   "batch_id": "bk1:B0332",
+   "scene_ids": [
+    "bk1:Battle_Add#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 28,
+   "words": 83
+  },
+  {
+   "batch_id": "bk1:B0333",
+   "scene_ids": [
+    "bk1:DIA_DATA#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 14,
+   "words": 21
+  },
+  {
+   "batch_id": "bk1:B0334",
+   "scene_ids": [
+    "bk1:ELM#00"
+   ],
+   "kind": "set",
+   "category": "ui_battle",
+   "count": 7,
+   "words": 7
+  },
+  {
+   "batch_id": "bk1:B0335",
+   "scene_ids": [
+    "bk1:FMN#00"
+   ],
+   "kind": "set",
+   "category": "quest_log",
+   "count": 32,
+   "words": 361
+  },
+  {
+   "batch_id": "bk1:B0336",
+   "scene_ids": [
+    "bk1:FMO#00"
+   ],
+   "kind": "set",
+   "category": "quest_log",
+   "count": 96,
+   "words": 615
+  },
+  {
+   "batch_id": "bk1:B0337",
+   "scene_ids": [
+    "bk1:GRP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 146,
+   "words": 408
+  },
+  {
+   "batch_id": "bk1:B0338",
+   "scene_ids": [
+    "bk1:Help_Name#00"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 72,
+   "words": 150
+  },
+  {
+   "batch_id": "bk1:B0339",
+   "scene_ids": [
+    "bk1:Help_info#00"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 150,
+   "words": 2328
+  },
+  {
+   "batch_id": "bk1:B0340",
+   "scene_ids": [
+    "bk1:Help_info#01"
+   ],
+   "kind": "set",
+   "category": "help",
+   "count": 5,
+   "words": 4
+  },
+  {
+   "batch_id": "bk1:B0341",
+   "scene_ids": [
+    "bk1:ITS#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 99,
+   "words": 269
+  },
+  {
+   "batch_id": "bk1:B0342",
+   "scene_ids": [
+    "bk1:KYO#00"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 150,
+   "words": 628
+  },
+  {
+   "batch_id": "bk1:B0343",
+   "scene_ids": [
+    "bk1:KYO#01"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 31,
+   "words": 37
+  },
+  {
+   "batch_id": "bk1:B0344",
+   "scene_ids": [
+    "bk1:KYO_ADD#00"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 1,
+   "words": 2
+  },
+  {
+   "batch_id": "bk1:B0345",
+   "scene_ids": [
+    "bk1:LIB_DDMV#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 20,
+   "words": 70
+  },
+  {
+   "batch_id": "bk1:B0346",
+   "scene_ids": [
+    "bk1:LIB_STDS#00"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 83,
+   "words": 668
+  },
+  {
+   "batch_id": "bk1:B0347",
+   "scene_ids": [
+    "bk1:MGI#00"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4007
+  },
+  {
+   "batch_id": "bk1:B0348",
+   "scene_ids": [
+    "bk1:MGI#01"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 3660
+  },
+  {
+   "batch_id": "bk1:B0349",
+   "scene_ids": [
+    "bk1:MGI#02"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4375
+  },
+  {
+   "batch_id": "bk1:B0350",
+   "scene_ids": [
+    "bk1:MGI#03"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 3926
+  },
+  {
+   "batch_id": "bk1:B0351",
+   "scene_ids": [
+    "bk1:MGI#04"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 4022
+  },
+  {
+   "batch_id": "bk1:B0352",
+   "scene_ids": [
+    "bk1:MGI#05"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 150,
+   "words": 3696
+  },
+  {
+   "batch_id": "bk1:B0353",
+   "scene_ids": [
+    "bk1:MGI#06"
+   ],
+   "kind": "set",
+   "category": "magnus_desc",
+   "count": 132,
+   "words": 3506
+  },
+  {
+   "batch_id": "bk1:B0354",
+   "scene_ids": [
+    "bk1:MGN#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 298
+  },
+  {
+   "batch_id": "bk1:B0355",
+   "scene_ids": [
+    "bk1:MGN#01"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 435
+  },
+  {
+   "batch_id": "bk1:B0356",
+   "scene_ids": [
+    "bk1:MGN#02"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 329
+  },
+  {
+   "batch_id": "bk1:B0357",
+   "scene_ids": [
+    "bk1:MGN#03"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 326
+  },
+  {
+   "batch_id": "bk1:B0358",
+   "scene_ids": [
+    "bk1:MGN#04"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 297
+  },
+  {
+   "batch_id": "bk1:B0359",
+   "scene_ids": [
+    "bk1:MGN#05"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 150,
+   "words": 331
+  },
+  {
+   "batch_id": "bk1:B0360",
+   "scene_ids": [
+    "bk1:MGN#06"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 132,
+   "words": 261
+  },
+  {
+   "batch_id": "bk1:B0361",
+   "scene_ids": [
+    "bk1:MSC#00"
+   ],
+   "kind": "set",
+   "category": "music_title",
+   "count": 59,
+   "words": 165
+  },
+  {
+   "batch_id": "bk1:B0362",
+   "scene_ids": [
+    "bk1:Menu_Add#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 449
+  },
+  {
+   "batch_id": "bk1:B0363",
+   "scene_ids": [
+    "bk1:Menu_Add#01"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 23,
+   "words": 68
+  },
+  {
+   "batch_id": "bk1:B0364",
+   "scene_ids": [
+    "bk1:NPC#00"
+   ],
+   "kind": "set",
+   "category": "npc_name",
+   "count": 150,
+   "words": 238
+  },
+  {
+   "batch_id": "bk1:B0365",
+   "scene_ids": [
+    "bk1:NPC#01"
+   ],
+   "kind": "set",
+   "category": "npc_name",
+   "count": 60,
+   "words": 92
+  },
+  {
+   "batch_id": "bk1:B0366",
+   "scene_ids": [
+    "bk1:OMV#00"
+   ],
+   "kind": "set",
+   "category": "movie_subtitle",
+   "count": 39,
+   "words": 179
+  },
+  {
+   "batch_id": "bk1:B0367",
+   "scene_ids": [
+    "bk1:PCN#00"
+   ],
+   "kind": "set",
+   "category": "party_name",
+   "count": 7,
+   "words": 8
+  },
+  {
+   "batch_id": "bk1:B0368",
+   "scene_ids": [
+    "bk1:PII#00"
+   ],
+   "kind": "set",
+   "category": "item_desc",
+   "count": 46,
+   "words": 893
+  },
+  {
+   "batch_id": "bk1:B0369",
+   "scene_ids": [
+    "bk1:PIT#00"
+   ],
+   "kind": "set",
+   "category": "item_name",
+   "count": 46,
+   "words": 92
+  },
+  {
+   "batch_id": "bk1:B0370",
+   "scene_ids": [
+    "bk1:POP#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 48,
+   "words": 134
+  },
+  {
+   "batch_id": "bk1:B0371",
+   "scene_ids": [
+    "bk1:PRZ#00"
+   ],
+   "kind": "set",
+   "category": "minigame",
+   "count": 39,
+   "words": 121
+  },
+  {
+   "batch_id": "bk1:B0372",
+   "scene_ids": [
+    "bk1:QMG#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 59,
+   "words": 124
+  },
+  {
+   "batch_id": "bk1:B0373",
+   "scene_ids": [
+    "bk1:SHP#00"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 150,
+   "words": 762
+  },
+  {
+   "batch_id": "bk1:B0374",
+   "scene_ids": [
+    "bk1:SHP#01"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 26,
+   "words": 132
+  },
+  {
+   "batch_id": "bk1:B0375",
+   "scene_ids": [
+    "bk1:SPS#00"
+   ],
+   "kind": "set",
+   "category": "magnus_name",
+   "count": 107,
+   "words": 230
+  },
+  {
+   "batch_id": "bk1:B0376",
+   "scene_ids": [
+    "bk1:STD_DATA#00"
+   ],
+   "kind": "set",
+   "category": "dialogue",
+   "count": 28,
+   "words": 112
+  },
+  {
+   "batch_id": "bk1:B0377",
+   "scene_ids": [
+    "bk1:STG#00"
+   ],
+   "kind": "set",
+   "category": "location_name",
+   "count": 68,
+   "words": 209
+  },
+  {
+   "batch_id": "bk1:B0378",
+   "scene_ids": [
+    "bk1:SVP#00"
+   ],
+   "kind": "set",
+   "category": "location_name",
+   "count": 110,
+   "words": 246
+  },
+  {
+   "batch_id": "bk1:B0379",
+   "scene_ids": [
+    "bk1:SYS#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 549
+  },
+  {
+   "batch_id": "bk1:B0380",
+   "scene_ids": [
+    "bk1:SYS#01"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 937
+  },
+  {
+   "batch_id": "bk1:B0381",
+   "scene_ids": [
+    "bk1:SYS#02"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 150,
+   "words": 286
+  },
+  {
+   "batch_id": "bk1:B0382",
+   "scene_ids": [
+    "bk1:SYS#03"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 51,
+   "words": 68
+  },
+  {
+   "batch_id": "bk1:B0383",
+   "scene_ids": [
+    "bk1:SaveStoryLine#00"
+   ],
+   "kind": "set",
+   "category": "story_summary",
+   "count": 37,
+   "words": 974
+  },
+  {
+   "batch_id": "bk1:B0384",
+   "scene_ids": [
+    "bk1:TDM#00"
+   ],
+   "kind": "set",
+   "category": "movie_subtitle",
+   "count": 9,
+   "words": 50
+  },
+  {
+   "batch_id": "bk1:B0385",
+   "scene_ids": [
+    "bk1:Trophy#00"
+   ],
+   "kind": "set",
+   "category": "trophy",
+   "count": 31,
+   "words": 159
+  },
+  {
+   "batch_id": "bk1:B0386",
+   "scene_ids": [
+    "bk1:Trophy_Name#00"
+   ],
+   "kind": "set",
+   "category": "trophy",
+   "count": 31,
+   "words": 88
+  },
+  {
+   "batch_id": "bk1:B0387",
+   "scene_ids": [
+    "bk1:UsefulFunctions#00"
+   ],
+   "kind": "set",
+   "category": "ui",
+   "count": 21,
+   "words": 77
+  }
+ ]
+}

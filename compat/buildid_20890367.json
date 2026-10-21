@@ -1,0 +1,331 @@
+{
+ "game": "Baten Kaitos I & II HD Remaster (Steam AppID 2146170)",
+ "steam_buildid": "20890367",
+ "version": "2.0",
+ "note": "В шрифтах выпуска v2.0 записано время сборки (head.modified); оно сохранено в head_modified и накладывается при сборке, поэтому хеши шрифтов воспроизводятся побайтно.",
+ "files": [
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/6a872618f189b35a4039d59de4a885c3.bundle",
+   "kind": "text",
+   "original_sha256": "3c814d7f1ec737b656adee0acbc94d9d6bf2aa70508e90da59544e5f83b75579",
+   "new_sha256": "7cfc2f562577bc660b8df4e7a33b9bc8190e6835c49fd94194b6bf2030ace092",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/3f5054c359dec0113387d921efa3d18e.bundle",
+   "kind": "font",
+   "original_sha256": "5407ec58c84382f16dd8956fb6b4b8f2b303fc9888241aee21d898770ee2986d",
+   "new_sha256": "9b8e65e671b89d5a38c883b71df231719365c448c7537c99a624bfa2260feaef",
+   "reproducible": true,
+   "head_modified": 3875371263
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/f848a65bf8b4bbfcc47553c458cf7161.bundle",
+   "kind": "font",
+   "original_sha256": "0a59fb7751c5802880d1c935b8c2b45976513ced5753f1da548589ce6c97d85a",
+   "new_sha256": "f60c273dc47ba198d92969c6e2da2c954f18cc774fbec835945a39e68e869dba",
+   "reproducible": true,
+   "head_modified": 3875371270
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a9d38e7719f3248029b1f8c84bb9c237.bundle",
+   "kind": "font",
+   "original_sha256": "6961aaec5bb4091d03957c4342b20864e6607e78859d498668b7f65d70e3851b",
+   "new_sha256": "3902659ec0f9e366ff746a56dd72f5523b8df6b19b4414b94b127b17ed4a5c6f",
+   "reproducible": true,
+   "head_modified": 3875371278
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/0d9a198edca9e12232362a07dc95a843.bundle",
+   "kind": "font",
+   "original_sha256": "48b4c99ffa2a8012e92ad4f6e34ea5e6058c9cd159e7b4d88c91db4d384dff1a",
+   "new_sha256": "13938f9a8d944a51a43969d7e7145cf015b205360f6f1483d9f092d5ed240080",
+   "reproducible": true,
+   "head_modified": 3875371288
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a8cc32bba98258300a54327273719c75.bundle",
+   "kind": "text",
+   "original_sha256": "9095115bc44832b0b911b8c16afeb79866986bf78f3550eded4af2126d2629ea",
+   "new_sha256": "d9d0336606ed6e5ecc6b3d626d02c588f99d6b40c3e7f7d887a2d534480c0f3d",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/3f5054c359dec0113387d921efa3d18e.bundle",
+   "kind": "font",
+   "original_sha256": "5407ec58c84382f16dd8956fb6b4b8f2b303fc9888241aee21d898770ee2986d",
+   "new_sha256": "f51c62087c1f1bd5c0141d0804cf6ede2e55e199db12b6926af50b6e5274d336",
+   "reproducible": true,
+   "head_modified": 3875371303
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/f848a65bf8b4bbfcc47553c458cf7161.bundle",
+   "kind": "font",
+   "original_sha256": "0a59fb7751c5802880d1c935b8c2b45976513ced5753f1da548589ce6c97d85a",
+   "new_sha256": "11bdb2b9f9f8f3cc36f984c00e43829955d094be1ca2c0e11a279d441ba5a02a",
+   "reproducible": true,
+   "head_modified": 3875371310
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a9d38e7719f3248029b1f8c84bb9c237.bundle",
+   "kind": "font",
+   "original_sha256": "6961aaec5bb4091d03957c4342b20864e6607e78859d498668b7f65d70e3851b",
+   "new_sha256": "530360d65cc7aaa042d08901a5271624dd11564db918368c7b3df9b37803c99c",
+   "reproducible": true,
+   "head_modified": 3875371318
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/0d9a198edca9e12232362a07dc95a843.bundle",
+   "kind": "font",
+   "original_sha256": "48b4c99ffa2a8012e92ad4f6e34ea5e6058c9cd159e7b4d88c91db4d384dff1a",
+   "new_sha256": "710a9287aec8f02bbba1081b16e1cd0ca7712de098fb977065f944d87bef85b4",
+   "reproducible": true,
+   "head_modified": 3875371328
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/3d511b02fdc6c3174187dbb49403f48e.bundle",
+   "kind": "asset",
+   "original_sha256": "0ec1fdf8f1b126a4b702c8a514acb8e5ff119afed2808a46d1c197ac383d5a74",
+   "new_sha256": "69aab3a66eb0bc68704ed66b3f7baab477c622b0ffb5fea614c3196ec4735f40",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/f6d77a8c6ebb55f194c9024be4920b0a.bundle",
+   "kind": "asset",
+   "original_sha256": "1fa9bea2663495168ed10cf3878df823c9064b76709fb165e2d264355b1ef63e",
+   "new_sha256": "e37725fe96590895015cedc99af5211a8d8d90869897e9dc0a4b42638c605212",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/f12348531ba46a1eb50476d87216511a.bundle",
+   "kind": "asset",
+   "original_sha256": "fe0fc99864ab62fc26bd693f0593d8f11baa167cc4cde3da4434ea7f03d2c53b",
+   "new_sha256": "dd0cfea4229a46360e60f7d796703eea5eb3ff23d8a9a43eaddba73ca3082d79",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a53f07f10bc392cc565c429fc28028d1.bundle",
+   "kind": "asset",
+   "original_sha256": "e7814a86cea6cdf1dac145262fee234e0afc06ca9123518cc1704976c37c70d5",
+   "new_sha256": "c70c19bdc4d41ccc96934d383f492e529f588fcd0eb1e1f763c9c7cd709f3b98",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a5b49932473da5f5c53f951738d80f7a.bundle",
+   "kind": "asset",
+   "original_sha256": "9bc46cf756945994996b878ee4a50520809f13c0d8c29492e3dd3bc1c6ad9b6b",
+   "new_sha256": "02f123094bf9d9d6b6d6d00944c69892ec68aeda0dd0cb3df972da1773fc8f67",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/128a155282fbacf03ce9cb29cf60fef3.bundle",
+   "kind": "asset",
+   "original_sha256": "177489cf380d0693496015929f6d2ebbe824d4be39f11db9a27c93fc3917d3af",
+   "new_sha256": "e56feb62102670975b22fa33f11c6544aa22db8079e0b175d10fcf4f04f2842a",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/30da86012ddac23d449d4d42608cc6ae.bundle",
+   "kind": "asset",
+   "original_sha256": "4e9248b9b27f27069ba66a398bbcf7bcb7d60a4a2567c668a0cfa04503b11b22",
+   "new_sha256": "d830ed8f85991e613c2dab752b6bbb31a775c674fc3bed8a42f9933c018fde23",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/f414097f4cf5212b4a7a5ede78fdbb71.bundle",
+   "kind": "asset",
+   "original_sha256": "7092ed43b9686b2aac08e0396a37364006f9c99394795c1b9b6e9518772195e9",
+   "new_sha256": "889c58b9e45d4a36e883d7d3afbb64d7834808f3acad817c8a9c342d4d0589b6",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/022e06027e57f0b07a9199f30e8ffa3c.bundle",
+   "kind": "asset",
+   "original_sha256": "b2ca4b30d193372020ed285d54753611da2d52e2ffbca3a2d274aa9fb5ec6bc8",
+   "new_sha256": "693814685fc5fd6272fa71a9f47b570bb6d2a204414c289e4ad27acb81fc9954",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/76d79f9888571d69a99338929784e24f.bundle",
+   "kind": "asset",
+   "original_sha256": "ed67e0a1ca67eed67f3f684ded71ff3ff7cab65e0dcba9f59b57700c035d5ce4",
+   "new_sha256": "6e6d8b0ccb9ab4bf3e02273937837dbfc656732c7f4c2a790602b24530d92867",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/b46be53f1d5d997f90b676ec6574065e.bundle",
+   "kind": "asset",
+   "original_sha256": "2ea95bc93d0fd0ccfe3b4db797a2611bb9566bad666ff1fc3dc38dd1525f8d56",
+   "new_sha256": "e25ab1a4d54c936ec8104cb8583b8379b28fa74ef981d79e0d26b5037d657c05",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/e060f7295de207ca3dfc1ff4745194ee.bundle",
+   "kind": "asset",
+   "original_sha256": "b181f0a0cd3d48f2872ee5741668c2fca7b06f306b0d978d46f11b5661099f5e",
+   "new_sha256": "39984bcabd1df730221d2b63aa112848609097ccfba07b7b8b37ccb957aa73af",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/496667bd09c8e0a460726977179abd00.bundle",
+   "kind": "asset",
+   "original_sha256": "5f2f5a96ae6463031659f910435468a1848cae071db701414dcebfe43f3658a5",
+   "new_sha256": "45c6e6adecc34dce91c427c0d4b196db10da0317674504ec0e556fd617a1c20a",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/25882e364812a3056496de4df60495f0.bundle",
+   "kind": "asset",
+   "original_sha256": "93544b5a1a37f5cd328c9fcf99c5c8e6e247e4cf94afe68071de458903d38c16",
+   "new_sha256": "76881cd22e1fffb9fc5a864d43fc7c568ef1f353ca0ccf5f879dc5d6f042b939",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/9e8162e293b41cf0cbf177b39cff3107.bundle",
+   "kind": "asset",
+   "original_sha256": "134d9036f28fee8c7814c77bb1c819bd156a206f5c2d1ba649b933cc8515500a",
+   "new_sha256": "4e582bdd0f671887c2cb1ec5e34fd4a42c7a04df875660c5773005fde71927cf",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/d4ec5297f32210fceb8738790f280b27.bundle",
+   "kind": "atlas",
+   "original_sha256": "d69f02791f6a0c265a82a59a56243a24f789db31e9fc718ee083a02bdd34ae91",
+   "new_sha256": "e4d96fff0bc60f60ff48611d461dc969732ed8a7aa650467b9e31b0ec3c1494c",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/b29e1677d0e548f3b74e980a7fb8b638.bundle",
+   "kind": "atlas",
+   "original_sha256": "dbc7d9072dc22c70ca62acc9502154e85cbda3757e31049b1de524b2b270496c",
+   "new_sha256": "a52c7d802209e62d111f8485ee429c844af00fd557c8048af678412fc43909ca",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos1/Batenkaitos_Data/StreamingAssets/aa/catalog.json",
+   "kind": "catalog",
+   "original_sha256": "bebcdc27025022d1812099c796d24db2ea307db800a78a61f3bb5721bf27c118",
+   "new_sha256": "d763c189d232d13caff08d039a3ca6ae00e097283ba2df1943d8c6ff15ccb1ab",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/0f30ae4817400a1be8ca379afe82a903.bundle",
+   "kind": "asset",
+   "original_sha256": "8fc99b7061826dce61ad3172eec50b75719d3a0d7009dce81b8d5bf8bbf81cea",
+   "new_sha256": "cc28179d8e617a48fda7550682f8b8be2dfc95d4ca243314af2bb3076c93af50",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/5c4fc135c121e67ceaf105e3331bd792.bundle",
+   "kind": "asset",
+   "original_sha256": "6deb96bf37e3650ec99fb66d1ce1c8db35c8b940f2eb4bd05077b7ac1d956b25",
+   "new_sha256": "88457d344167b35eda7786fd2cced18df3900c69dec2ee27c331dc1e70e6820b",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/2a6bfe308db5815071e11f2d84e9af4c.bundle",
+   "kind": "asset",
+   "original_sha256": "776444c6b1de3fa36840c2df45ef3dfab60e57fbad8dd07da2d2880dcd1f5fb8",
+   "new_sha256": "c399818f1da5958e2ed7bcffed2b4222c7c89befaa9b3ecda14b89c44eafaaae",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/d201ce80cba4c29a5a6e2b520bd67524.bundle",
+   "kind": "asset",
+   "original_sha256": "07fd37521139a45a90f3c97ef4388c0b5ab22b0b652ad0fbc8f74a0c15bd9865",
+   "new_sha256": "c6ba675d4cd81c7881ccc804b420e05a1756ad3096bbb8fbe420b514afa23c47",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/6955e2d631241b0ff6a8f59c87ad5ac6.bundle",
+   "kind": "asset",
+   "original_sha256": "c50968dee61def4e5b4723fce06de0ca50bc77202089c3a09574058bd71b3fd2",
+   "new_sha256": "02fbeaf46678ffcd97299154758909568c900c1924c91f47652cd966b0577c77",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/6981d495daaf1d1b58eab83e64e0736a.bundle",
+   "kind": "asset",
+   "original_sha256": "c83e3db83569f1dc717fb0d35bcbf1d8b6513f0bfb410303a9dc71d7c2ddad3c",
+   "new_sha256": "2299d320d8a635284d98ee86df9915bdf53c5fab25dc74f584cd6bdb35c3c2b7",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/9cd5c32188bdacee4dbda109f145d5d8.bundle",
+   "kind": "asset",
+   "original_sha256": "66ae40b44ac26c4fa0714a569f4c381dbceb58aa18b3b5e47a891e83324a165a",
+   "new_sha256": "8494dce333888cadf92e1445665f17cc315487502c66d3329ac500846087651f",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/e38705639ab3c7f002e51fd244e8095b.bundle",
+   "kind": "asset",
+   "original_sha256": "e6b65f7c018faa15b02158f7fcbf4dbb8b35f9e8ccfba11579c549cd8e65d2e1",
+   "new_sha256": "9502ab0e634920e72f98f1ebcf51c37dfe14b9f4110df62074005c2480c6af5c",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/794ef98ea88ff82b14d0d994fc725fed.bundle",
+   "kind": "asset",
+   "original_sha256": "af523905e5f6d11df8875632d616201e87c3976169cd67984b73f3ce2d9cee40",
+   "new_sha256": "dce9280e47b93ff2e4ed3bce723d7a1f4475172e751b69d32a3104c345a39752",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/640ee88d7e840d98e9babd67659d6492.bundle",
+   "kind": "asset",
+   "original_sha256": "e1e24024762e4ded6f04e2901a90f5b2325526d07d51901c75507bd96d8da65e",
+   "new_sha256": "27bd65c62720548d1ec9c7ceb5a363dd38aeca476815e7f94b8a636b71ee3f0f",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/9071e517f6d31c261085a8558640e90f.bundle",
+   "kind": "asset",
+   "original_sha256": "1aa49dd1ce384863dd0597903c1e420bd80db5fc1109ea23facc9e2e10f1d7f6",
+   "new_sha256": "f6cade4166991901dbde9ec6795c64435330b6d5dbef023970bced2f46694f31",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/a30cbc80935a2e16235f43f965adc496.bundle",
+   "kind": "asset",
+   "original_sha256": "2204a456d7fb7c3f79f249779fc0b59a2abd8763b82a02d2787bd7e807a7d00a",
+   "new_sha256": "ce9412dd79fa131eacc4aeb06742c0105fb3ca8c14ebb6b7757d215b61abb4e3",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/9e8162e293b41cf0cbf177b39cff3107.bundle",
+   "kind": "asset",
+   "original_sha256": "6a559049676df6035783d83f344687e878af33b58f55dfa9462dc7636acb6bbf",
+   "new_sha256": "b4c4792e2f6a6652a6f662fbf65bfcccb67873a5c7ff676e9218db8f2988a2fc",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/4f9acb8c0ee559b2d88805afa6e9220f.bundle",
+   "kind": "atlas",
+   "original_sha256": "173b25da5030944ced6a167433dcecfc25ba37485d955f8b4bcd1b19f328c24d",
+   "new_sha256": "0acd2b1d24f333f52fb4eb32e716ec41ea592ca8194eaaf46046719b0eae7648",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/ed7a9de9c6aedfabe21735a2d7f1ab18.bundle",
+   "kind": "atlas",
+   "original_sha256": "d3d8a49dcc0a39310f8b2e3e8c7407e068ae1ee9731a26d9aa32167688f1dbc1",
+   "new_sha256": "7ba7987ffeb98d149c007df6fefe947c207c20978b066a766d4a8186eee0ab41",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/StandaloneWindows64/24fd687eb6941f9b57f57d23b27d41bb.bundle",
+   "kind": "atlas",
+   "original_sha256": "28e546ab68fda846a83814a354c665f6495bdeac7c48f460756f412d00525378",
+   "new_sha256": "3afa4d01195f8128a989a319b36372420636121d89109c4a7161d4c59435c9cb",
+   "reproducible": true
+  },
+  {
+   "relative": "Batenkaitos2/Batenkaitos_Data/StreamingAssets/aa/catalog.json",
+   "kind": "catalog",
+   "original_sha256": "3a5d1c2ea43875d31d3ac6a5f49177f44e8867097d46e5f5cc373b84d6dba117",
+   "new_sha256": "e711624e8f6adc9a00241b1c4edd74597ceef031b52ddb6d965fcd9ea7f13f95",
+   "reproducible": true
+  }
+ ]
+}

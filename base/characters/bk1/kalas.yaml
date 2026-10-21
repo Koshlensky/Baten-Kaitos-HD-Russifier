@@ -1,0 +1,117 @@
+id: kalas
+games: [bk1]
+en_name: Kalas
+jp_name: カラス
+jp_reading: Karasu
+aliases_en: []
+name_tags: ["bk1:PCN_1"]
+script_lines: {bk1: 1201}
+
+ru_name: {status: pending, value: null, forms: {}, options_ref: "disputes.md#main-names-bk1"}
+
+sex: male
+grammatical_gender: m
+grammatical_gender_status: proposed
+pronouns_ru: он
+
+facts:
+  - claim: "Главный герой BK1, мужчина."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_01: «[…]»; SaveStoryLine_33: «…[…].»"
+  - claim: "Другие локализации последовательно дают ему мужской род в речи о себе."
+    confidence: confirmed
+    basis: other_loc
+    source: "base/characters/_evidence/bk1.json: FR/ES/IT/DE m=32.5, f=0.5 по 1201 реплике"
+  - claim: "Мстит Giacomo за деда и брата."
+    confidence: confirmed
+    basis: text
+    source: "SaveStoryLine_02: «[…]…»; SCR_KSM05_12_12445: «…[…].»"
+  - claim: "Дед — учёный Georg."
+    confidence: confirmed
+    basis: text
+    source: "SCR_KDK05_11_4257: «[…].»; SaveStoryLine_22"
+  - claim: "Kalas и Fee — «дети» Georg и Larikush, созданные из магнуса."
+    confidence: confirmed
+    basis: text
+    source: "SCR_EVE08_2_1593: «[…]…»; SCR_EVE08_2_1652: «we're their „parents.“»; SCR_EVE08_2_2083"
+  - claim: "Японское написание カラス (ворон)."
+    confidence: confirmed
+    basis: data
+    source: "PCN_1 (TextData_jp)"
+  - claim: "В начале игры приходит в себя в Cebalrai: его спас зверёк Meemai."
+    confidence: confirmed
+    basis: text
+    source: "SCR_CEB01_1_1961, SCR_CEB01_1_2529, SCR_CEB01_8_11172"
+
+personality:
+  - {trait: "самоуверенный, насмешливый; пренебрегает суевериями", confidence: confirmed, source: "SCR_CEB01_5_9904: «Mere superstition, I tell you.»; SCR_CEB01_5_10081"}
+  - {trait: "одержим местью Giacomo", confidence: confirmed, source: "SaveStoryLine_02"}
+speech_style:
+  en: ["Разговорный, бодрый: «All righty», «Hey, relax!», «Mere superstition, I tell you.» (SCR_CEB01_5)."]
+  jp: ["Первая персона オレ (183 реплики), простые формы, なあ, ～だろ — маркер, не доказательство."]
+formality: просторечно
+
+relationships:
+  - with: guardian_spirit
+    relation: "дух-хранитель Kalas; советует через меню выбора"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "SCR_CEB01_6_10654: «What's up, <n0>? Is something troubling you?»; JP なんだ<n0>、どうかしたか — дружески, на равных"
+    changes: []
+    source: "SCR_CEB01_6"
+  - with: xelha
+    relation: "спутница; по сюжету — близкие отношения"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 101 / vous 24 в репликах, окружённых репликами Xelha; JP きみ, おまえ"
+    changes:
+      - {at: "SCR_CEB01_2", to: unknown, note: "первая встреча: девушка с табличкой «Girl»; Kalas к ней прямо не обращается"}
+    source: "SCR_EVE15_1_1317: «[…]?» (FR: Qu'est-ce que tu caches)"
+  - with: larikush
+    relation: "деревенский врач, лечивший Kalas; по сюжету — один из его создателей"
+    register_to: vy
+    register_status: proposed
+    confidence: inferred
+    evidence: "JP ラリクシ先生 («доктор»); FR tu 9 / vous 11 — смешанно; EN «Dr. Larikush», «the doctor»"
+    changes: []
+    source: "SCR_CEB01_6_10781, SCR_CEB01_6_10858"
+  - with: giacomo
+    relation: "заклятый враг"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 24 / vous 4; JP おまえ"
+    changes: []
+    source: "SaveStoryLine_02"
+  - with: gibari
+    relation: "спутник"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 20 / vous 12; JP あんた, おまえ"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+  - with: lyude
+    relation: "спутник, бывший офицер Империи"
+    register_to: ty
+    register_status: proposed
+    confidence: inferred
+    evidence: "FR tu 13 / vous 1; JP おまえ"
+    changes: []
+    source: "base/characters/_evidence/bk1.json"
+
+translation_notes:
+  - "Обращения к духу — без форм рода (D-002): «Тебя что-то беспокоит?», а не «Ты что, устал?»."
+  - "В SCR_CEB01_1_2529 Kalas не знает пол Meemai («is this him... her?») — шутку сохранить: «Это он… или она?»."
+spoilers:
+  - {claim: "Giacomo — сын Georg", confidence: confirmed, source: "SCR_EV05080B_3_3094: «[…].»; намёк — SCR_EVE08_2_3837", revealed_at: "SCR_EV05080B_3 (место в сюжете уточнить)"}
+  - {claim: "Kalas создан из магнуса", confidence: confirmed, source: "SCR_EVE08_2_1593, SCR_EVE08_2_2083", revealed_at: "флешбэк SCR_EVE08_2 (место в сюжете уточнить)"}
+open_questions:
+  - "Когда и как Kalas переходит на «ты» с Xelha, если первая встреча на «вы» (см. xelha.yaml)?"
+  - "Обращение к Larikush после флешбэка SCR_EVE08_2 — остаётся «вы»?"
+sources:
+  - {type: game_data, ref: "PCN_1, SaveStoryLine_01, SaveStoryLine_02, SaveStoryLine_33, SCR_CEB01, SCR_EVE08_2, SCR_EVE15_1"}
+status: draft
